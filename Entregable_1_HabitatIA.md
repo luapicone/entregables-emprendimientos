@@ -204,6 +204,14 @@ Cuando el proceso de planificación inicial es débil, los costos que aparecen n
 HabitatIA podría agregar valor incluso si no resolviera completamente todos los costos monetarios del proceso, siempre que lograra reducir de manera sensible estos costos invisibles. Esto refuerza la idea de que el proyecto compite no solo contra soluciones alternativas, sino también contra la inercia, la desorganización y la postergación indefinida.
 
 
+
+## 2.14 La oportunidad como respuesta a una frustración cotidiana y extendida
+Una parte importante de la oportunidad del proyecto reside en que el problema no aparece solo en situaciones excepcionales. Es una frustración cotidiana para muchas personas que intentan avanzar en algo tan relevante como su vivienda sin contar con un marco claro para hacerlo. Esa cotidianeidad vuelve más robusta la hipótesis de valor. HabitatIA no necesita inventar una necesidad nueva. Necesita responder mejor a una necesidad ya instalada, pero mal resuelta.
+
+## 2.15 La oportunidad de ordenar antes que ejecutar
+También conviene subrayar que la oportunidad del proyecto no se ubica necesariamente en la ejecución de obra, sino en una etapa anterior que suele condicionar todo lo demás. Ordenar antes de ejecutar puede tener un impacto enorme sobre decisiones posteriores. Si HabitatIA logra ocupar ese lugar, su valor estratégico puede ser muy significativo aun sin reemplazar a actores que intervienen más adelante en el proceso.
+
+
 ---
 
 # 3. Validación y customer discovery, buyer persona
@@ -581,6 +589,14 @@ El enfoque general de solución parece particularmente potente en escenarios don
 
 ## 4.20 Coherencia metodológica del enfoque
 El enfoque general del proyecto tiene solidez porque conecta problema, experiencia, valor económico y posible expansión en una misma línea lógica. Primero ordena una necesidad difusa. Luego la convierte en una propuesta preliminar. Después introduce una lectura de materiales, costos y ahorro. Finalmente abre una posible evolución hacia servicios o transacciones complementarias. Esa secuencia metodológica hace que la solución no parezca una suma arbitraria de ideas, sino un recorrido con sentido.
+
+
+
+## 4.21 La solución como construcción de confianza progresiva
+HabitatIA no necesita resolver toda la confianza del usuario en un único instante. Puede construirla de forma progresiva. Primero, mostrando que entiende el problema. Después, ofreciendo una respuesta visual razonable. Luego, ordenando materiales y costos. Más adelante, conectando ese proyecto con una oportunidad concreta de ahorro. Esta progresión es importante porque muestra que el enfoque de solución no depende de un único golpe de efecto, sino de una secuencia de validación interna para el usuario.
+
+## 4.22 La relevancia de una experiencia que no abrume
+En proyectos con múltiples capas de valor, el exceso de complejidad puede jugar en contra. El enfoque general de solución de HabitatIA solo funcionará si logra preservar claridad. Una experiencia demasiado cargada, incluso si es conceptualmente rica, puede desalentar el uso. Por eso, la solución debe pensarse también desde la economía cognitiva: qué mostrar primero, cuánto detalle ofrecer en cada etapa y cómo ayudar al usuario sin saturarlo.
 
 
 ---
@@ -1120,6 +1136,14 @@ La mejor defensa competitiva de HabitatIA puede no ser tecnológica en sentido e
 
 ## 8.18 La necesidad de sostener diferenciación sin sobreactuar originalidad
 HabitatIA necesita diferenciarse, pero no debería hacerlo sobreactuando una originalidad absoluta. En muchos sectores, la diferenciación más efectiva no surge de inventar una categoría completamente nueva, sino de combinar elementos existentes de una manera más útil, clara y creíble. Esa parece ser justamente la oportunidad del proyecto. La diferenciación no está en negar que existan antecedentes parciales, sino en mostrar por qué esta integración resuelve mejor un punto de dolor real.
+
+
+
+## 8.19 La competencia también se juega en el lenguaje
+En un proyecto como HabitatIA, el lenguaje no es un detalle cosmético. Forma parte de la competencia. Un actor que explique mejor, que traduzca con más claridad y que reduzca la sensación de opacidad puede tener ventaja incluso frente a ofertas con capacidades técnicas similares. Esto refuerza la idea de que la batalla competitiva no se resuelve solo con funcionalidades. También se define en la capacidad de construir comprensión.
+
+## 8.20 Sostener diferenciación sin perder credibilidad
+Hay un equilibrio delicado entre diferenciarse y parecer exagerado. HabitatIA necesita comunicar su singularidad, pero sin sobreactuarla. Cuando un proyecto logra verse distinto y al mismo tiempo creíble, gana densidad competitiva. Esa debería ser una meta central del posicionamiento frente al entorno.
 
 
 ---
