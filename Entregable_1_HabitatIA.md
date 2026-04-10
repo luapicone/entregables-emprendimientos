@@ -1630,3 +1630,126 @@ Una versión más avanzada del documento podría incluir definición de cada ind
 HabitatIA no surge solo de una oportunidad tecnológica. Surge de una fricción humana y material concreta: la dificultad de convertir una necesidad habitacional en una decisión más clara y económicamente ordenada. Esa fricción se vuelve aún más visible cuando se la pone en relación con las ineficiencias del sector de materiales y con la ausencia de experiencias integradas en la etapa inicial del proyecto. La potencia del proyecto está en proponer una respuesta que no simplifica de manera superficial el problema, sino que intenta organizarlo en un recorrido más comprensible.
 
 El documento desarrollado hasta aquí muestra que HabitatIA tiene una lógica sólida como propuesta de proyecto: identifica un problema real, articula una solución coherente, integra una oportunidad de ahorro, incorpora una narrativa de sostenibilidad y plantea un camino plausible de validación, operación y crecimiento. El desafío, como en todo emprendimiento con ambición sistémica, no será solamente sostener la idea, sino demostrar que el recorrido efectivamente mejora la vida de decisión del usuario. Si eso se logra, HabitatIA tendrá una base mucho más valiosa que una promesa tecnológica atractiva: tendrá una función clara dentro del proceso habitacional de miles de personas.
+
+
+---
+
+# Ampliación final hacia versión extendida
+
+## 3.17 Desarrollo más profundo de buyer personas
+### 3.17.1 Buyer persona, familia primer hogar, versión ampliada
+Esta buyer persona representa a un hogar que no solo necesita una vivienda, sino también una forma de tomar mejores decisiones respecto de ella. Suele tratarse de personas que cargan con una mezcla de ilusión y temor. Ilusión porque construir la primera vivienda propia implica una transformación profunda en su vida. Temor porque el proceso se percibe como costoso, técnico y difícil de controlar.
+
+Desde el punto de vista estratégico, esta buyer persona valora especialmente la posibilidad de reducir opacidad. No necesariamente espera exactitud absoluta ni reemplazo total del trabajo profesional. Lo que sí necesita es un primer marco que ordene. Quiere saber qué tan lejos o cerca está su proyecto, qué tipo de vivienda podría pensar, cuánto material requeriría y qué decisiones deberían priorizarse.
+
+Su sensibilidad frente al precio no implica necesariamente que busque “lo más barato”. Muchas veces busca evitar el error. El miedo a gastar mal puede ser tan fuerte como el deseo de gastar menos. Esa diferencia es importante porque modifica el tono comercial adecuado: HabitatIA no debería vender solo ahorro, sino claridad y criterio.
+
+### 3.17.2 Buyer persona, usuario con terreno propio, versión ampliada
+Este perfil tiene una característica que lo vuelve particularmente interesante: cuenta con una base material concreta para avanzar. El terreno actúa como disparador de decisión. En muchos casos, la postergación ya no se debe a la imposibilidad absoluta de imaginar el proyecto, sino a la dificultad para estructurarlo. La persona sabe que tiene una oportunidad, pero no logra definir con precisión cómo capitalizarla.
+
+Para este segmento, HabitatIA puede ser especialmente potente porque reduce la distancia entre la oportunidad y la decisión. Una persona con terreno necesita más que inspiración: necesita una traducción rápida y comprensible de posibilidades. La plataforma puede darle una primera estructura y eso, por sí solo, puede acelerar mucho el proceso de maduración del proyecto.
+
+### 3.17.3 Buyer persona, arquitecto o estudio con sobrantes, versión ampliada
+Este actor no mira HabitatIA desde el mismo lugar que el usuario residencial. Su criterio es más operativo. Va a evaluar si la plataforma le ahorra tiempo, si le abre una salida económica plausible y si conserva un estándar razonable de profesionalismo. No suele tener incentivos para sostener procesos complejos de publicación si no percibe demanda relevante.
+
+Para esta buyer persona, la plataforma debe demostrar que entiende el mundo de obra real. El profesional no necesita una propuesta aspiracional; necesita una solución concreta a un problema cotidiano: cómo monetizar mejor materiales que hoy quedan detenidos. Además, puede valorar la posibilidad de vincular esa monetización con una narrativa de eficiencia y sostenibilidad, siempre que el canal sea serio.
+
+### 3.17.4 Buyer persona, pequeño constructor o desarrollador, versión ampliada
+Este perfil se mueve con una lógica de eficiencia. Suele valorar velocidad, oportunidad y practicidad. Si encuentra una herramienta que le permite identificar alternativas, entender mejor ciertos costos o detectar ahorro en materiales, puede verla como una ventaja competitiva. Sin embargo, su tolerancia a la fricción operativa será baja. El valor debe ser claro desde el inicio.
+
+## 3.18 Casos hipotéticos de uso
+### 3.18.1 Caso A, familia que quiere construir en un terreno heredado
+Una pareja joven cuenta con un terreno heredado en una zona periurbana. Lleva tiempo reuniendo ideas sobre qué casa le gustaría construir, pero no tiene manera de ordenar esas referencias. El ingreso a HabitatIA le permite cargar una necesidad concreta: dos dormitorios, un espacio social integrado, posibilidad de ampliar a futuro y un presupuesto limitado. La plataforma le devuelve una propuesta visual y un primer plano orientativo, junto con una lectura preliminar de materiales. Por primera vez, la familia deja de hablar en abstracto. Tiene algo sobre lo cual discutir, ajustar y evaluar. Ese cambio de estado ya representa un valor importante.
+
+### 3.18.2 Caso B, profesional con materiales remanentes de una obra reciente
+Un estudio termina una obra y conserva stock de ciertos materiales que no quiere seguir almacenando. En canales informales, venderlos le resulta incómodo y poco eficiente. A través de HabitatIA, encuentra una plataforma donde la publicación se contextualiza en necesidades reales de otros proyectos. La posibilidad de que un material se vincule con una obra concreta le agrega sentido económico y mejora la percepción de utilidad del canal.
+
+### 3.18.3 Caso C, pequeño constructor que busca optimizar costos
+Un constructor de escala pequeña analiza alternativas para una obra específica. La plataforma le sirve no necesariamente como punto de inspiración, sino como espacio donde la información de materiales y oportunidades de ahorro puede aportar eficiencia. Este uso muestra que HabitatIA no se limita a un solo tipo de usuario ni a una sola intensidad de valor.
+
+## 7.13 Escenario económico y monetización por fases
+### 7.13.1 Fase inicial, monetización mínima o nula con foco en validación
+En una primera etapa, puede resultar razonable que la monetización tenga un rol secundario frente al aprendizaje. La prioridad es validar si el flujo principal genera valor real. En esta fase, incluso una propuesta gratuita o parcialmente gratuita puede tener sentido estratégico si permite recoger datos relevantes sobre comportamiento, comprensión y percepción de utilidad.
+
+### 7.13.2 Fase de monetización temprana del servicio principal
+Una vez que el usuario reconoce valor en la propuesta preliminar, puede abrirse una monetización asociada a capas más profundas del servicio. Esto no implica necesariamente cobrar por el acceso inicial. Podría consistir en cobrar por versiones ampliadas, comparaciones avanzadas, múltiples variantes o reportes más detallados.
+
+### 7.13.3 Fase de monetización del marketplace
+Si el marketplace comienza a mostrar movimiento real, la plataforma podría capturar valor mediante comisión por transacción, publicación destacada o servicios de visibilidad para oferentes. Esta fase exige más madurez porque depende de confianza, volumen y calidad de coincidencias.
+
+### 7.13.4 Fase de monetización híbrida
+En una etapa más avanzada, HabitatIA podría combinar ingresos provenientes de usuarios finales, actores del marketplace y acuerdos con aliados. Esta diversificación fortalecería la sustentabilidad del modelo.
+
+## 7.14 Consideraciones sobre pricing
+El precio, en un proyecto de este tipo, no solo comunica costo. También comunica categoría y alcance. Un precio demasiado alto podría desalentar la prueba inicial. Un precio demasiado bajo podría debilitar la percepción de valor o sostener un modelo frágil. Por eso, la lógica de pricing debería construirse con mucho cuidado, probablemente validando distintos niveles de profundidad del servicio antes de consolidar una estructura definitiva.
+
+## 9.24 Subcapítulos específicos por canal comercial
+### 9.24.1 Canal SEO
+El SEO no debería tratarse solo como una fuente de tráfico. En HabitatIA puede convertirse en un canal de construcción de autoridad. Posicionar contenidos sobre vivienda económica, planificación inicial, presupuesto de obra y materiales sobrantes ayudaría no solo a captar visitas, sino también a instalar una narrativa donde la plataforma aparece como una guía confiable.
+
+### 9.24.2 Canal pauta digital
+La pauta tiene utilidad sobre todo en etapas de validación de mensajes y captación de segmentos concretos. Su función estratégica no debería ser simplemente comprar tráfico, sino poner a prueba hipótesis comerciales. Qué promesa atrae más, qué segmento responde mejor, qué tipo de llamada a la acción convierte con menos fricción.
+
+### 9.24.3 Canal redes sociales
+Las redes pueden operar en dos dimensiones. Por un lado, como espacio de inspiración y prueba de mensaje. Por otro, como escenario donde mostrar proceso, lógica de ahorro, ejemplos de propuestas y educación sobre vivienda y materiales. Su rol no debería quedar reducido a la estética. Puede ser una herramienta de pedagogía de mercado.
+
+### 9.24.4 Canal WhatsApp
+En contextos de alta sensibilidad económica y emocional, WhatsApp puede funcionar como una prolongación natural del proceso comercial. No solo como canal de soporte, sino como espacio de resolución de dudas, acompañamiento y validación informal de confianza.
+
+### 9.24.5 Canal alianzas
+El canal alianzas puede convertirse en uno de los motores más consistentes del proyecto si se trabaja con criterio. Corralones, estudios, constructoras, ferias sectoriales y organizaciones vinculadas a vivienda pueden funcionar como nodos de distribución, legitimación y aprendizaje.
+
+### 9.24.6 Canal marketplace como canal de adquisición indirecta
+El propio marketplace puede actuar como canal comercial. Un profesional que llega a publicar sobrantes puede derivar tráfico o reconocimiento hacia el lado habitacional del producto. A su vez, un usuario que entra por el lado de la vivienda puede descubrir valor transaccional dentro del marketplace. Esta retroalimentación interna es uno de los activos potenciales del sistema.
+
+## 9.25 Desarrollo más profundo del plan comercial físico
+### 9.25.1 Corralones como espacios de validación territorial
+Un corralón no es solo un proveedor. También es un lugar donde circulan preguntas reales sobre obra, costo y materiales. Una estrategia de vinculación con este tipo de actor puede ofrecer acceso a una conversación muy concreta con usuarios en momento de decisión.
+
+### 9.25.2 Estudios de arquitectura como socios ambiguos pero valiosos
+Algunos estudios podrían ver a HabitatIA como un actor complementario, otros con cautela. Justamente por eso, su inclusión en una estrategia comercial debe ser cuidadosa. Pueden ser grandes validadores del marketplace y, al mismo tiempo, una fuente clave de lectura sobre cómo el producto es percibido por el mundo profesional.
+
+### 9.25.3 Ferias y eventos como espacios narrativos
+Los eventos sectoriales permiten algo más que captar leads. Permiten poner a prueba el lenguaje del proyecto, observar reacciones, detectar objeciones y medir qué parte de la propuesta resulta más memorable.
+
+## 10.22 Escenarios operativos detallados
+### 10.22.1 Escenario operativo liviano
+El proyecto se sostiene inicialmente con una estructura pequeña, fuerte foco en producto digital y una operación manual o semi-manual del marketplace. Este escenario tiene la ventaja de exigir menos complejidad inicial y permitir aprendizaje rápido.
+
+### 10.22.2 Escenario operativo intermedio
+A medida que crece la base de usuarios y publicaciones, se requiere una organización más clara por funciones, con reglas más robustas de calidad de oferta, seguimiento de indicadores y gestión de experiencia.
+
+### 10.22.3 Escenario operativo expandido
+Si el proyecto gana escala, la operación deberá profesionalizar no solo el producto y el lado comercial, sino también la moderación del marketplace, los acuerdos con aliados y la gestión de confianza sistémica.
+
+## 10.23 Roles y procesos por actor
+### 10.23.1 Proceso del usuario final
+Descubrimiento, ingreso, carga de datos, recepción de propuesta, interpretación económica, comparación con ahorro potencial, decisión siguiente.
+
+### 10.23.2 Proceso del profesional oferente
+Evaluación del canal, publicación, visibilidad, recepción de interés, monetización o salida del material.
+
+### 10.23.3 Proceso interno de plataforma
+Definición de experiencia, control de calidad, análisis de métricas, mejora continua, fortalecimiento de narrativa y operación del ecosistema.
+
+## 10.24 Riesgos de coordinación entre capas del sistema
+Uno de los riesgos más importantes de HabitatIA es que el valor de una capa se descompense respecto de la otra. Si la experiencia de vivienda resulta potente pero el marketplace débil, puede generarse frustración. Si el marketplace funciona razonablemente pero la capa de proyecto es confusa, la propuesta pierde su narrativa diferencial. La coordinación entre ambas dimensiones no es un detalle técnico; es un desafío estratégico central.
+
+## 11.17 Anexos narrativos sugeridos, versión desarrollada
+### 11.17.1 Anexo posible, mapa de conversación del usuario
+Podría describir cómo evoluciona el diálogo interno del usuario desde que piensa “quiero construir” hasta que logra interpretar una propuesta concreta. Sería útil para profundizar el diseño del producto y de la comunicación.
+
+### 11.17.2 Anexo posible, matriz de objeciones
+Podría listar objeciones del usuario final, del profesional, del constructor y del aliado comercial, junto con respuestas estratégicas posibles.
+
+### 11.17.3 Anexo posible, matriz de mensajes por segmento
+Ayudaría a ordenar qué promesa principal conviene enfatizar según cada perfil y momento del journey.
+
+### 11.17.4 Anexo posible, desarrollo de escenarios de ahorro
+Podría incluir ejemplos narrativos de cómo una coincidencia entre materiales requeridos y materiales publicados impactaría sobre la percepción de valor del sistema.
+
+### 11.17.5 Anexo posible, secuencia de implementación por trimestre
+Permitiria bajar el roadmap a una lógica temporal más visible y operativa.
+
+## 11.18 Cierre complementario del documento
+A esta altura del desarrollo, HabitatIA puede leerse como algo más que una plataforma puntual. Se configura como una propuesta de reorganización de una etapa entera del proceso habitacional. Allí donde hoy predominan consultas aisladas, imágenes sin presupuesto, presupuestos sin visualización o marketplaces sin contexto, el proyecto propone una secuencia más integrada y comprensible. Su valor dependerá de la calidad con la que logre ejecutar esa promesa, pero la dirección estratégica es clara: convertir una zona históricamente opaca del proceso de construcción en un territorio más inteligible, más accesible y potencialmente más eficiente. Esa ambición, sostenida con criterio, es la que justifica seguir profundizando el proyecto como una propuesta seria de negocio y de impacto.
