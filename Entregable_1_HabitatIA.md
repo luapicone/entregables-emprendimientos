@@ -340,7 +340,7 @@ También es útil aclarar qué tipo de señales no deberían sobreinterpretarse.
 ## 3.7 Criterios de aprendizaje esperados
 La validación debería producir aprendizajes sobre:
 - qué segmento tiene mayor urgencia real;
-- qué propuesta de valor genera mayor intención de uso;
+- qué nuestra apuesta genera mayor intención de uso;
 - qué objeciones deben resolverse en la comunicación;
 - qué componente del producto debe ser más robusto para que la experiencia se perciba como confiable;
 - cuál es la secuencia de adopción más razonable.
@@ -473,7 +473,7 @@ El render permite que el usuario vea una representación de su futura vivienda. 
 El plano orientativo cumple una función distinta del render. Mientras la imagen genera cercanía visual, el plano aporta una referencia funcional. Permite entender distribución, relaciones espaciales y organización general.
 
 ### 4.3.5 Etapa de cómputo y estimación
-En esta etapa, el sistema traduce el proyecto en materiales, cantidades y costos aproximados. Aquí aparece una de las piezas más fuertes de la propuesta de valor, porque es donde el usuario deja de ver solo una vivienda deseada y empieza a ver un proyecto económicamente interpretado.
+En esta etapa, el sistema traduce el proyecto en materiales, cantidades y costos aproximados. Aquí aparece una de las piezas más fuertes de la nuestra apuesta, porque es donde el usuario deja de ver solo una vivienda deseada y empieza a ver un proyecto económicamente interpretado.
 
 ### 4.3.6 Etapa de optimización por marketplace
 Finalmente, la plataforma compara los materiales requeridos con los materiales sobrantes publicados. Si encuentra coincidencias, informa qué oportunidades concretas de ahorro existen y cómo podrían impactar en el costo estimado final.
@@ -517,7 +517,7 @@ Un aspecto central para mantener credibilidad es no sobredimensionar el alcance.
 Delimitar este punto es esencial para sostener una comunicación seria y profesional.
 
 ## 4.7 Valor de la integración funcional
-El enfoque general de solución es coherente porque cada módulo alimenta a los demás. La visualización no queda aislada del presupuesto. El cómputo no queda aislado del diseño. El marketplace no queda desligado de una necesidad específica. Esa integración mejora la experiencia y ordena la propuesta de valor de una forma muy superior a la fragmentación habitual del mercado.
+El enfoque general de solución es coherente porque cada módulo alimenta a los demás. La visualización no queda aislada del presupuesto. El cómputo no queda aislado del diseño. El marketplace no queda desligado de una necesidad específica. Esa integración mejora la experiencia y ordena la nuestra apuesta de una forma muy superior a la fragmentación habitual del mercado.
 
 ## 4.8 Hipótesis de funcionamiento exitoso
 Una hipótesis razonable del funcionamiento exitoso del sistema es que el usuario perciba valor no solo por la originalidad de la experiencia, sino porque al finalizar el recorrido tenga mayor capacidad de responder preguntas concretas sobre su proyecto. Si HabitatIA logra eso, ya habrá cumplido una función relevante, incluso antes de agregar capas más complejas de negocio o servicios profesionales.
@@ -570,7 +570,7 @@ En proyectos con múltiples capas de valor, el exceso de complejidad puede jugar
 
 # 5. Propuesta de valor
 
-## 5.1 Formulación central de la propuesta de valor
+## 5.1 Formulación central de la nuestra apuesta
 HabitatIA ofrece a quienes desean construir una vivienda una forma más accesible, clara y económicamente inteligible de transformar una necesidad habitacional en una propuesta concreta, al tiempo que incorpora oportunidades reales de ahorro mediante un sistema de reutilización de materiales sobrantes.
 
 Esta formulación sintetiza las dos promesas principales del proyecto: claridad para decidir y ahorro potencial aplicable. Ambas son reforzadas por una experiencia de personalización que agrega cercanía y diferenciación.
@@ -628,54 +628,54 @@ La mejora en claridad y la posibilidad de ahorro fortalecen la eficiencia del pr
 - reducir la brecha entre deseo y acción;
 - construir una experiencia integrada donde hoy hay dispersión.
 
-## 5.7 El verdadero diferencial competitivo de la propuesta de valor
-El diferencial más importante de HabitatIA no está en un único componente, sino en la articulación de todos ellos. Si el proyecto ofreciera solo diseño preliminar, competiría en un espacio más aspiracional. Si ofreciera solo marketplace, competiría en un terreno más transaccional y menos diferenciado. Si ofreciera solo estimación de costos, podría perder fuerza emocional. La propuesta de valor se vuelve robusta precisamente porque une visualización, decisión económica y circularidad dentro de una experiencia coherente.
+## 5.7 El verdadero diferencial competitivo de la nuestra apuesta
+El diferencial más importante de HabitatIA no está en un único componente, sino en la articulación de todos ellos. Si el proyecto ofreciera solo diseño preliminar, competiría en un espacio más aspiracional. Si ofreciera solo marketplace, competiría en un terreno más transaccional y menos diferenciado. Si ofreciera solo estimación de costos, podría perder fuerza emocional. La nuestra apuesta se vuelve robusta precisamente porque une visualización, decisión económica y circularidad dentro de una experiencia coherente.
 
 ## 5.8 Riesgos sobre la percepción de valor
-Para que la propuesta de valor se sostenga, la plataforma deberá cuidar dos riesgos:
+Para que la nuestra apuesta se sostenga, la plataforma deberá cuidar dos riesgos:
 - no exagerar precisión donde solo hay estimación preliminar;
 - no comunicar el marketplace como promesa constante de ahorro si aún no existe masa crítica suficiente.
 
-Gestionar esas expectativas es parte central de una propuesta de valor profesional.
+Gestionar esas expectativas es parte central de una nuestra apuesta profesional.
 
 ## 5.9 El valor emocional de “ver posible” una vivienda
 En proyectos habitacionales, existe un componente emocional que no debe ser subestimado. Muchas personas no necesitan solo información. Necesitan sentir que una posibilidad es alcanzable. El valor emocional de HabitatIA puede residir, en parte, en transformar una idea lejana en algo que se ve posible. Esa sensación no reemplaza las decisiones económicas, pero puede ser el impulso que convierta una intención postergada en un proyecto efectivamente explorado.
 
-## 5.10 La propuesta de valor como puente entre aspiración y criterio
+## 5.10 La nuestra apuesta como puente entre aspiración y criterio
 La fortaleza de HabitatIA está en tender un puente entre dos universos que suelen aparecer desconectados. Por un lado, la aspiración: la casa soñada, la imagen, el deseo de mejorar la calidad de vida. Por otro, el criterio: cuánto cuesta, qué materiales requiere, qué decisiones son realistas, cómo optimizar recursos. El proyecto gana sentido precisamente porque intenta unir ambas dimensiones en un solo recorrido.
 
 ## 5.11 Propuesta de valor y percepción de autonomía
 Un aspecto especialmente relevante de HabitatIA es que puede incrementar la percepción de autonomía del usuario. Esta autonomía no debe confundirse con autosuficiencia absoluta ni con prescindencia de profesionales. Se trata de una autonomía más modesta, pero estratégica: la capacidad de iniciar una exploración con mejores herramientas, formular mejores preguntas y llegar a etapas posteriores con más criterio. En mercados donde la asimetría de información es alta, esa sensación de autonomía puede convertirse en uno de los beneficios más valorados.
 
 ## 5.12 Propuesta de valor y democratización del lenguaje técnico
-La propuesta de valor también puede leerse como una democratización del lenguaje técnico. No porque traduzca todo a un nivel superficial, sino porque ofrece una mediación más accesible entre el mundo profesional y el mundo del usuario final. Si la plataforma logra construir una interfaz donde los conceptos relevantes se entienden sin perder demasiado rigor, habrá generado un activo de enorme valor.
+La nuestra apuesta también puede leerse como una democratización del lenguaje técnico. No porque traduzca todo a un nivel superficial, sino porque ofrece una mediación más accesible entre el mundo profesional y el mundo del usuario final. Si la plataforma logra construir una interfaz donde los conceptos relevantes se entienden sin perder demasiado rigor, habrá generado un activo de enorme valor.
 
 ## 5.13 Propuesta de valor para distintos momentos del proceso de decisión
-Otro atributo importante de la propuesta de valor es su elasticidad temporal. HabitatIA puede resultar valioso en momentos distintos del proceso habitacional. Para algunas personas será una herramienta de primer acercamiento. Para otras, un recurso para comparar alternativas. Para otras, una forma de ordenar una idea que lleva tiempo en pausa. Esta capacidad de adaptarse a distintos momentos amplía el potencial de uso sin romper la coherencia del producto.
+Otro atributo importante de la nuestra apuesta es su elasticidad temporal. HabitatIA puede resultar valioso en momentos distintos del proceso habitacional. Para algunas personas será una herramienta de primer acercamiento. Para otras, un recurso para comparar alternativas. Para otras, una forma de ordenar una idea que lleva tiempo en pausa. Esta capacidad de adaptarse a distintos momentos amplía el potencial de uso sin romper la coherencia del producto.
 
 ## 5.14 Riesgo de valor percibido fragmentado
-La propuesta de valor solo se sostendrá si sus componentes se perciben como parte de una misma lógica. Si el usuario siente que el render está desconectado del presupuesto, o que el marketplace es un agregado sin vínculo real con su proyecto, el valor se fragmenta. Por eso, la coherencia entre módulos no es solo un problema de producto. También es un problema de percepción estratégica.
+La nuestra apuesta solo se sostendrá si sus componentes se perciben como parte de una misma lógica. Si el usuario siente que el render está desconectado del presupuesto, o que el marketplace es un agregado sin vínculo real con su proyecto, el valor se fragmenta. Por eso, la coherencia entre módulos no es solo un problema de producto. También es un problema de percepción estratégica.
 
 ## 5.15 Propuesta de valor y reducción del costo de entrada al proceso
-Una dimensión particularmente poderosa de la propuesta de valor es la reducción del costo de entrada al proceso de planificación. Ese costo no es solo monetario. También incluye tiempo, ansiedad, desorientación y dificultad para acceder a una primera conversación útil. HabitatIA puede crear valor al volver más liviano el primer paso, y esa ligereza inicial puede ser decisiva en un mercado donde muchas decisiones no se frenan por desinterés, sino por bloqueo.
+Una dimensión particularmente poderosa de la nuestra apuesta es la reducción del costo de entrada al proceso de planificación. Ese costo no es solo monetario. También incluye tiempo, ansiedad, desorientación y dificultad para acceder a una primera conversación útil. HabitatIA puede crear valor al volver más liviano el primer paso, y esa ligereza inicial puede ser decisiva en un mercado donde muchas decisiones no se frenan por desinterés, sino por bloqueo.
 
 ## 5.16 Valor percibido desde la honestidad de alcance
 Paradójicamente, una parte importante del valor puede surgir de la honestidad. Si la plataforma comunica con claridad qué resuelve y qué no resuelve todavía, puede fortalecer la confianza del usuario. En mercados sensibles, la seriedad metodológica es en sí misma una forma de valor. Esto sugiere que la propuesta de HabitatIA no debería apoyarse en promesas grandilocuentes, sino en una promesa más sobria y al mismo tiempo más creíble: ayudarte a empezar mejor.
 
 ## 5.17 Propuesta de valor para hogares que necesitan decidir por etapas
-No todos los usuarios necesitan una solución cerrada. Muchos necesitan una mejor lectura de cómo avanzar por fases. En ese punto, HabitatIA puede ofrecer un valor diferencial relevante. Una plataforma que no solo muestra una vivienda posible, sino que ayuda a pensar cómo esa vivienda podría encararse en secuencias o prioridades, responde mejor a contextos reales de restricción. Esta capacidad de dialogar con la lógica incremental fortalece la propuesta de valor.
+No todos los usuarios necesitan una solución cerrada. Muchos necesitan una mejor lectura de cómo avanzar por fases. En ese punto, HabitatIA puede ofrecer un valor diferencial relevante. Una plataforma que no solo muestra una vivienda posible, sino que ayuda a pensar cómo esa vivienda podría encararse en secuencias o prioridades, responde mejor a contextos reales de restricción. Esta capacidad de dialogar con la lógica incremental fortalece la nuestra apuesta.
 
 ## 5.18 Valor de coordinación entre actores
-Otra lectura interesante de la propuesta de valor es su capacidad para coordinar conversaciones entre actores distintos. El usuario final, la pareja, la familia, el profesional y eventualmente el oferente de materiales no siempre hablan sobre la misma base. HabitatIA puede crear una referencia común. Ese rol de coordinación, aunque menos visible que otras funciones, puede tener mucho peso en la percepción de utilidad.
+Otra lectura interesante de la nuestra apuesta es su capacidad para coordinar conversaciones entre actores distintos. El usuario final, la pareja, la familia, el profesional y eventualmente el oferente de materiales no siempre hablan sobre la misma base. HabitatIA puede crear una referencia común. Ese rol de coordinación, aunque menos visible que otras funciones, puede tener mucho peso en la percepción de utilidad.
 
 ## 5.19 Robustez de la propuesta frente a alternativas fragmentadas
-La propuesta de valor se vuelve más robusta cuando se la compara no contra un competidor perfecto, sino contra la realidad fragmentada del proceso actual. Hoy el usuario suele moverse entre referencias dispersas, consultas parciales, suposiciones económicas débiles y canales de materiales poco contextualizados. HabitatIA gana valor precisamente porque intenta reducir esa fragmentación. Su fortaleza no es solo hacer algo nuevo, sino ordenar mejor algo que hoy está roto o demasiado disperso.
+La nuestra apuesta se vuelve más robusta cuando se la compara no contra un competidor perfecto, sino contra la realidad fragmentada del proceso actual. Hoy el usuario suele moverse entre referencias dispersas, consultas parciales, suposiciones económicas débiles y canales de materiales poco contextualizados. HabitatIA gana valor precisamente porque intenta reducir esa fragmentación. Su fortaleza no es solo hacer algo nuevo, sino ordenar mejor algo que hoy está roto o demasiado disperso.
 
 ## 5.20 Propuesta de valor como base de posicionamiento futuro
-Si se valida adecuadamente, la propuesta de valor puede convertirse en la base de un posicionamiento duradero. No sería solo “una plataforma con IA”, sino una forma reconocible de iniciar proyectos habitacionales con más claridad y criterio económico. Esa posibilidad de transformarse en referencia narrativa del momento inicial del proceso es una de las consecuencias estratégicas más interesantes del valor propuesto.
+Si se valida adecuadamente, la nuestra apuesta puede convertirse en la base de un posicionamiento duradero. No sería solo “una plataforma con IA”, sino una forma reconocible de iniciar proyectos habitacionales con más claridad y criterio económico. Esa posibilidad de transformarse en referencia narrativa del momento inicial del proceso es una de las consecuencias estratégicas más interesantes del valor propuesto.
 
 ## 5.21 Capacidad de la propuesta para generar recordación
-Otra fortaleza posible de la propuesta de valor es su capacidad de ser recordada. En mercados donde muchos actores comunican de forma genérica, una promesa clara y específica puede tener ventaja. HabitatIA no necesita ser recordada por complejidad técnica, sino por una idea simple y poderosa: ayudarte a empezar mejor un proyecto de vivienda, con más claridad y criterio económico. Esa recordación, si se instala, puede volverse un activo comercial importante.
+Otra fortaleza posible de la nuestra apuesta es su capacidad de ser recordada. En mercados donde muchos actores comunican de forma genérica, una promesa clara y específica puede tener ventaja. HabitatIA no necesita ser recordada por complejidad técnica, sino por una idea simple y poderosa: ayudarte a empezar mejor un proyecto de vivienda, con más claridad y criterio económico. Esa recordación, si se instala, puede volverse un activo comercial importante.
 
 ## 5.22 Propuesta de valor y legitimidad del ahorro
 No cualquier promesa de ahorro resulta creíble en un sector tan sensible como construcción. Para que el ahorro sea legítimo, debe aparecer conectado con una lógica concreta. HabitatIA puede fortalecer mucho su propuesta si muestra que el ahorro no proviene de una promesa vacía, sino de un mejor ordenamiento del proyecto y de la posibilidad de identificar materiales reutilizables pertinentes. Esa legitimidad transforma una promesa comercial en una ventaja defendible.
@@ -707,7 +707,7 @@ El SAM de HabitatIA debe estar definido por los segmentos a los que el proyecto 
 - hogares con intención de construir o ampliar una vivienda y alta sensibilidad al costo;
 - personas con terreno propio que necesitan una primera traducción de su idea en proyecto;
 - arquitectos, estudios y profesionales con materiales sobrantes de obras recientes;
-- pequeños constructores y desarrolladores con interés en optimización de costos.
+- pequeños constructores y desarrolladores con interés en que la plata rinda.
 
 Este recorte es importante porque ubica el proyecto en un espacio alcanzable. La ambición no es resolver “todo el mercado de la construcción”, sino crear valor en un segmento donde la propuesta de diseño preliminar más ahorro puede tener mayor tracción inicial.
 
@@ -804,7 +804,7 @@ Aunque no sean el foco inicial, pueden valorar el componente de diseño y clarid
 Aquí la oportunidad depende de que el marketplace sea lo suficientemente simple y creíble como para justificar la publicación.
 
 ### 6.20.4 Constructores o desarrolladores con foco en eficiencia
-Pueden ver valor en la capacidad de comparar materiales y oportunidades dentro de una lógica ya alineada con optimización de costos.
+Pueden ver valor en la capacidad de comparar materiales y oportunidades dentro de una lógica ya alineada con que la plata rinda.
 
 La matriz muestra que HabitatIA no compite por igual en todos los segmentos ni con la misma propuesta exacta. Su potencia está en adaptar la lectura de valor a cada actor, sin perder coherencia sistémica.
 
@@ -856,7 +856,7 @@ La lista de materiales es uno de los componentes más poderosos de la oferta, po
 El presupuesto preliminar no debe leerse como valor cerrado, sino como instrumento de orientación. Su función principal es ordenar expectativas y ofrecer un rango o aproximación razonable que permita evaluar factibilidad.
 
 ### 7.2.6 Comparación con marketplace y ahorro proyectado
-Esta capa convierte al producto en una herramienta de optimización. No solo informa cuánto podría costar la vivienda, sino también cuánto podría ahorrarse si una parte del material requerido estuviera disponible en el marketplace. Ese diferencial refuerza significativamente la propuesta de valor.
+Esta capa convierte al producto en una herramienta de optimización. No solo informa cuánto podría costar la vivienda, sino también cuánto podría ahorrarse si una parte del material requerido estuviera disponible en el marketplace. Ese diferencial refuerza significativamente la nuestra apuesta.
 
 ## 7.3 Producto para arquitectos, estudios y profesionales
 ### 7.3.1 Publicación de materiales sobrantes
@@ -1327,7 +1327,7 @@ El proyecto logra consolidar una masa crítica suficiente en ambos lados del mer
 
 ## 10.9 Roadmap propuesto
 ### 10.9.1 Etapa 1, problema y validación
-Refinar entrevistas, pruebas de concepto y narrativa de propuesta de valor.
+Refinar entrevistas, pruebas de concepto y narrativa de nuestra apuesta.
 
 ### 10.9.2 Etapa 2, MVP funcional
 Desarrollar un flujo completo con formulario, propuesta visual, plano base y estimación preliminar.
