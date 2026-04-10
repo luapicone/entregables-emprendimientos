@@ -76,6 +76,14 @@ Existe un rasgo del sector que conviene destacar: la etapa preliminar del proyec
 La relevancia del proyecto no debe evaluarse solo por su sofisticación tecnológica, sino por su capacidad de hacer más accesible un proceso que hoy resulta complejo para el usuario común. Accesibilidad, en este caso, no significa banalización. Significa generar una forma de entrada menos intimidante, más orientadora y más comprensible. Si HabitatIA logra eso, ya habrá resuelto una parte importante del problema, incluso antes de considerar toda su evolución futura.
 
 
+
+## 1.13 La vivienda como proyecto familiar y no solo como objeto físico
+Pensar la vivienda únicamente como una unidad construida sería reducir demasiado el problema que HabitatIA intenta abordar. Para muchas personas, la vivienda es también un proyecto familiar. Allí se condensan decisiones sobre convivencia, crecimiento, intimidad, uso del tiempo, aspiraciones de estabilidad y expectativas de futuro. Esta dimensión importa porque muestra que la necesidad de claridad inicial no es meramente técnica. También es profundamente humana. Una plataforma que ayude a ordenar ese momento no solo aporta eficiencia. También puede aliviar tensión en una decisión cargada de peso emocional.
+
+## 1.14 La oportunidad de intervenir antes de la frustración acumulada
+En muchos procesos habitacionales, la frustración no aparece de golpe. Se acumula. Empieza con dudas pequeñas, sigue con búsquedas inconexas, se profundiza con presupuestos ambiguos y termina instalando la sensación de que avanzar es demasiado difícil. HabitatIA puede ser relevante porque interviene antes de que esa frustración se cristalice del todo. Si logra aparecer como una herramienta que devuelve orden antes del agotamiento, su valor puede ser mayor de lo que su función técnica inicial sugeriría.
+
+
 ---
 
 # 2. Problema, segmento y oportunidad
@@ -687,6 +695,17 @@ La propuesta de valor se vuelve más robusta cuando se la compara no contra un c
 Si se valida adecuadamente, la propuesta de valor puede convertirse en la base de un posicionamiento duradero. No sería solo “una plataforma con IA”, sino una forma reconocible de iniciar proyectos habitacionales con más claridad y criterio económico. Esa posibilidad de transformarse en referencia narrativa del momento inicial del proceso es una de las consecuencias estratégicas más interesantes del valor propuesto.
 
 
+
+## 5.21 Capacidad de la propuesta para generar recordación
+Otra fortaleza posible de la propuesta de valor es su capacidad de ser recordada. En mercados donde muchos actores comunican de forma genérica, una promesa clara y específica puede tener ventaja. HabitatIA no necesita ser recordada por complejidad técnica, sino por una idea simple y poderosa: ayudarte a empezar mejor un proyecto de vivienda, con más claridad y criterio económico. Esa recordación, si se instala, puede volverse un activo comercial importante.
+
+## 5.22 Propuesta de valor y legitimidad del ahorro
+No cualquier promesa de ahorro resulta creíble en un sector tan sensible como construcción. Para que el ahorro sea legítimo, debe aparecer conectado con una lógica concreta. HabitatIA puede fortalecer mucho su propuesta si muestra que el ahorro no proviene de una promesa vacía, sino de un mejor ordenamiento del proyecto y de la posibilidad de identificar materiales reutilizables pertinentes. Esa legitimidad transforma una promesa comercial en una ventaja defendible.
+
+## 5.23 La claridad como beneficio competitivo de largo plazo
+En muchos proyectos digitales, la claridad se trata como algo comunicacional. En HabitatIA podría convertirse en un beneficio competitivo de largo plazo. Si el producto realmente ayuda a clarificar una etapa opaca del proceso habitacional, esa experiencia de claridad puede ser tan valiosa como cualquier funcionalidad puntual. En ese sentido, la claridad no es solo parte de la propuesta. Puede ser su núcleo más durable.
+
+
 ---
 
 # 6. Dimensionamiento de la oportunidad y del mercado
@@ -960,6 +979,17 @@ Un error frecuente en proyectos prometedores es querer convertir demasiado rápi
 Otra lectura estratégica es entender que el producto principal también puede funcionar como puerta de entrada a relaciones más profundas con usuarios y actores del ecosistema. Un usuario que confía en la experiencia inicial podría luego demandar más profundidad. Un profesional que prueba el marketplace podría involucrarse más activamente. Esta capacidad del producto para abrir relaciones futuras aumenta su relevancia dentro de la arquitectura general del proyecto.
 
 
+
+## 7.17 Profundización sobre el producto como experiencia progresiva
+HabitatIA puede fortalecerse si entiende su oferta como una experiencia progresiva y no como un paquete rígido. El valor no tiene por qué entregarse todo de una sola vez. De hecho, en muchos casos convendrá que el producto acompañe la maduración de la decisión. Una primera respuesta visual puede abrir la puerta. Un cálculo preliminar más fino puede profundizar el análisis. Un cruce con marketplace puede agregar una capa de oportunidad económica. Esta progresividad mejora la lógica del producto y su potencial de adopción.
+
+## 7.18 Relación entre servicio digital y posibilidad de servicios asociados
+Otra ventaja de la arquitectura de productos y servicios es que el servicio digital principal puede convivir, a futuro, con una red de servicios asociados sin perder foco. El punto clave es que esos servicios no deberían aparecer como una sobrecarga prematura, sino como una consecuencia natural del valor inicial ya demostrado. Cuando una experiencia digital logra ordenar bien una primera necesidad, se vuelve mucho más plausible ofrecer luego capas complementarias con sentido.
+
+## 7.19 La cartera de productos como instrumento de priorización estratégica
+Definir productos y servicios no solo sirve para comunicar mejor. También obliga a priorizar. En HabitatIA, esta función es especialmente valiosa, porque el proyecto podría expandirse en demasiadas direcciones simultáneamente. Una cartera clara ayuda a distinguir qué pertenece al núcleo, qué funciona como complemento y qué debería quedar para una etapa posterior. Esa disciplina protege al proyecto de la dispersión.
+
+
 ---
 
 # 8. Entorno competitivo
@@ -1079,6 +1109,17 @@ Algunos constructores modulares o empresas especializadas pueden ofrecer rapidez
 
 ### 8.15.5 Espacio ocupado por HabitatIA
 HabitatIA intenta instalarse en un espacio donde la accesibilidad, la visualización, la racionalidad económica y la reutilización se articulan dentro de una experiencia única. Esa no es una posición automática ni libre de competencia, pero sí es una posición con potencial de diferenciación auténtica.
+
+
+
+## 8.16 La competencia indirecta de la postergación
+No toda competencia adopta forma de empresa o solución formal. En HabitatIA existe también una competencia indirecta poderosa: la postergación. Muchas personas no resuelven su necesidad con otra plataforma mejor. Simplemente dejan la decisión para más adelante. Esta observación es importante porque obliga a que la propuesta no solo sea comparativamente mejor que otras opciones. También debe ser lo suficientemente clara y aliviante como para vencer la inercia.
+
+## 8.17 Ventaja competitiva basada en comprensión del problema
+La mejor defensa competitiva de HabitatIA puede no ser tecnológica en sentido estricto. Puede estar en una comprensión más fina del problema. Si el proyecto entiende mejor que otros actores por qué el usuario se traba, qué necesita ver primero y cómo conectar valor aspiracional con valor económico, entonces tendrá una ventaja difícil de copiar solo con recursos técnicos. Comprender mejor el problema puede ser tan estratégico como construir mejor el producto.
+
+## 8.18 La necesidad de sostener diferenciación sin sobreactuar originalidad
+HabitatIA necesita diferenciarse, pero no debería hacerlo sobreactuando una originalidad absoluta. En muchos sectores, la diferenciación más efectiva no surge de inventar una categoría completamente nueva, sino de combinar elementos existentes de una manera más útil, clara y creíble. Esa parece ser justamente la oportunidad del proyecto. La diferenciación no está en negar que existan antecedentes parciales, sino en mostrar por qué esta integración resuelve mejor un punto de dolor real.
 
 
 ---
