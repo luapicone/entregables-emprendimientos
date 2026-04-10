@@ -533,6 +533,28 @@ El enfoque general de solución es coherente porque cada módulo alimenta a los 
 ## 4.8 Hipótesis de funcionamiento exitoso
 Una hipótesis razonable del funcionamiento exitoso del sistema es que el usuario perciba valor no solo por la originalidad de la experiencia, sino porque al finalizar el recorrido tenga mayor capacidad de responder preguntas concretas sobre su proyecto. Si HabitatIA logra eso, ya habrá cumplido una función relevante, incluso antes de agregar capas más complejas de negocio o servicios profesionales.
 
+
+## 4.9 La importancia del orden narrativo dentro del producto
+No da igual cómo se presenta HabitatIA al usuario. El orden del recorrido puede cambiar de manera sustancial la percepción de valor. Si el producto empieza mostrando un render muy atractivo pero tarda demasiado en conectar eso con decisiones concretas, puede quedar atrapado en una lógica aspiracional. Si, por el contrario, empieza demasiado rápido por materiales y presupuesto sin generar primero una imagen clara del proyecto, podría volverse árido o excesivamente técnico. El diseño del flujo debería encontrar un equilibrio entre motivación, comprensión y decisión.
+
+## 4.10 Por qué el plano orientativo importa más de lo que parece
+El plano base tiene una función estratégica que va más allá de “sumar una pieza más”. El render puede enamorar o generar interés, pero el plano empieza a dar estructura. Permite que el usuario piense en circulación, distribución y uso real del espacio. En contextos de vivienda económica o incremental, esto puede ser especialmente importante, porque el aprovechamiento inteligente de metros y ambientes tiene un impacto directo en la percepción de valor del proyecto.
+
+## 4.11 Presupuesto preliminar como herramienta de decisión y no como cifra final
+HabitatIA debería enfatizar que su presupuesto cumple una función orientativa y de estructuración. Esa aclaración no debilita el producto. De hecho, lo fortalece. En lugar de prometer exactitud imposible en una etapa preliminar, la plataforma puede prometer claridad suficiente para que el usuario entienda mejor la escala económica del proyecto. Esa honestidad metodológica puede convertirse en un diferencial de confianza.
+
+## 4.12 La secuencia psicológica del recorrido del usuario
+Más allá del flujo funcional, HabitatIA debería contemplar una secuencia psicológica de valor. El usuario no solo atraviesa pasos técnicos. También recorre estados emocionales y cognitivos. Una lectura útil de esa secuencia podría ser: curiosidad o necesidad latente, alivio inicial al encontrar una herramienta que parece ordenadora, interés creciente al visualizar una propuesta concreta, atención racional al revisar materiales y costos, percepción de oportunidad al detectar ahorro potencial y evaluación más seria de viabilidad.
+
+Diseñar el producto y la comunicación en sintonía con esta secuencia puede mejorar mucho la efectividad de la experiencia. No se trata de manipular emocionalmente al usuario, sino de comprender que la toma de decisiones habitacionales mezcla razón, deseo, temor y cálculo.
+
+## 4.13 El render como dispositivo de conversación familiar
+En muchos hogares, la decisión de construir no la toma una sola persona. Incluso cuando existe un decisor principal, la validación doméstica del proyecto es importante. En ese contexto, el render puede funcionar como un dispositivo de conversación. Permite que quienes comparten la decisión se representen el resultado, discutan preferencias y ordenen prioridades. Este efecto es relevante porque convierte una salida visual del sistema en una herramienta de alineación interna dentro del hogar.
+
+## 4.14 El cálculo de materiales como herramienta de maduración del proyecto
+De manera complementaria, la lista de materiales y la estimación de costos pueden funcionar como herramienta de maduración del proyecto. Donde el render abre posibilidad y deseo, el cómputo introduce criterio. Permite pasar de “esto me gusta” a “esto podría ser viable o no según mis recursos”. Esa transición es una de las piezas más valiosas del enfoque general de solución.
+
+
 ---
 
 # 5. Propuesta de valor
@@ -605,6 +627,26 @@ Para que la propuesta de valor se sostenga, la plataforma deberá cuidar dos rie
 
 Gestionar esas expectativas es parte central de una propuesta de valor profesional.
 
+
+## 5.9 El valor emocional de “ver posible” una vivienda
+En proyectos habitacionales, existe un componente emocional que no debe ser subestimado. Muchas personas no necesitan solo información. Necesitan sentir que una posibilidad es alcanzable. El valor emocional de HabitatIA puede residir, en parte, en transformar una idea lejana en algo que se ve posible. Esa sensación no reemplaza las decisiones económicas, pero puede ser el impulso que convierta una intención postergada en un proyecto efectivamente explorado.
+
+## 5.10 La propuesta de valor como puente entre aspiración y criterio
+La fortaleza de HabitatIA está en tender un puente entre dos universos que suelen aparecer desconectados. Por un lado, la aspiración: la casa soñada, la imagen, el deseo de mejorar la calidad de vida. Por otro, el criterio: cuánto cuesta, qué materiales requiere, qué decisiones son realistas, cómo optimizar recursos. El proyecto gana sentido precisamente porque intenta unir ambas dimensiones en un solo recorrido.
+
+## 5.11 Propuesta de valor y percepción de autonomía
+Un aspecto especialmente relevante de HabitatIA es que puede incrementar la percepción de autonomía del usuario. Esta autonomía no debe confundirse con autosuficiencia absoluta ni con prescindencia de profesionales. Se trata de una autonomía más modesta, pero estratégica: la capacidad de iniciar una exploración con mejores herramientas, formular mejores preguntas y llegar a etapas posteriores con más criterio. En mercados donde la asimetría de información es alta, esa sensación de autonomía puede convertirse en uno de los beneficios más valorados.
+
+## 5.12 Propuesta de valor y democratización del lenguaje técnico
+La propuesta de valor también puede leerse como una democratización del lenguaje técnico. No porque traduzca todo a un nivel superficial, sino porque ofrece una mediación más accesible entre el mundo profesional y el mundo del usuario final. Si la plataforma logra construir una interfaz donde los conceptos relevantes se entienden sin perder demasiado rigor, habrá generado un activo de enorme valor.
+
+## 5.13 Propuesta de valor para distintos momentos del proceso de decisión
+Otro atributo importante de la propuesta de valor es su elasticidad temporal. HabitatIA puede resultar valioso en momentos distintos del proceso habitacional. Para algunas personas será una herramienta de primer acercamiento. Para otras, un recurso para comparar alternativas. Para otras, una forma de ordenar una idea que lleva tiempo en pausa. Esta capacidad de adaptarse a distintos momentos amplía el potencial de uso sin romper la coherencia del producto.
+
+## 5.14 Riesgo de valor percibido fragmentado
+La propuesta de valor solo se sostendrá si sus componentes se perciben como parte de una misma lógica. Si el usuario siente que el render está desconectado del presupuesto, o que el marketplace es un agregado sin vínculo real con su proyecto, el valor se fragmenta. Por eso, la coherencia entre módulos no es solo un problema de producto. También es un problema de percepción estratégica.
+
+
 ---
 
 # 6. Dimensionamiento de la oportunidad y del mercado
@@ -675,6 +717,63 @@ Dado que este entregable no cuenta con investigación cuantitativa propia ni dat
 
 ## 6.12 Conclusión de oportunidad de mercado
 Desde el punto de vista de mercado, HabitatIA no depende de conquistar una escala masiva inmediata para resultar justificable. Le alcanza con demostrar que existe un segmento suficientemente grande y problemático donde una experiencia más clara, integrada y orientada al ahorro puede capturar valor real. La oportunidad se vuelve atractiva por la combinación de necesidad recurrente, ineficiencia observable y capacidad de integración funcional.
+
+
+## 6.13 Mercado primario y mercado secundario
+Para comprender mejor la lógica económica de HabitatIA, conviene distinguir entre dos mercados interrelacionados.
+
+### 6.13.1 Mercado primario
+Es el mercado del servicio principal de planificación habitacional asistida, donde la plataforma aporta valor a personas y familias que necesitan visualizar, estructurar y presupuestar su proyecto.
+
+### 6.13.2 Mercado secundario
+Es el mercado asociado a la circulación de materiales sobrantes. Aunque depende del primero para integrarse al flujo, posee dinámicas propias, actores distintos y necesidades específicas de confianza y logística.
+
+La combinación de ambos mercados puede ser una fortaleza si se ejecuta bien, pero también introduce complejidad operativa. Por eso, la plataforma deberá decidir estratégicamente cuánto peso darle a cada capa en cada etapa del desarrollo.
+
+## 6.14 Hipótesis de entrada geográfica
+Sin datos cerrados todavía, una hipótesis razonable de despliegue sería comenzar en un área urbana o periurbana donde confluyan tres condiciones: volumen significativo de obras pequeñas y medianas, usuarios con intención de construir o ampliar en terreno propio, y disponibilidad de actores profesionales capaces de alimentar el marketplace. Este criterio permitiría concentrar oferta y demanda en un radio manejable y mejorar la densidad operativa del sistema.
+
+## 6.15 Lógicas de monetización vinculadas al mercado
+El mercado de HabitatIA puede capturarse a través de más de una lógica de monetización, y cada una responde a una forma distinta de leer la oportunidad.
+
+### 6.15.1 Monetización por servicio de planificación
+Esta lógica parte del valor que genera la etapa inicial de claridad, visualización y estimación.
+
+### 6.15.2 Monetización por transacción o intermediación
+Esta lógica se apoya en el marketplace y su capacidad de conectar oferta y demanda de materiales.
+
+### 6.15.3 Monetización por visibilidad profesional o servicios B2B
+Esta línea se vincula con el potencial comercial del lado oferente del marketplace o con servicios de integración posterior.
+
+## 6.16 Profundización sobre la oportunidad en vivienda incremental
+En muchos contextos, la vivienda no se construye en una sola etapa. Se desarrolla de forma incremental, en función del ahorro, de cambios familiares o de prioridades de uso. HabitatIA podría encontrar una oportunidad estratégica relevante si incorpora esta lógica desde el inicio conceptual. Una plataforma que solo piense en proyectos completos podría perder sensibilidad frente a una realidad frecuente: usuarios que necesitan pensar su vivienda como una secuencia de etapas más que como una solución cerrada desde el primer día.
+
+## 6.17 Oportunidad vinculada al lenguaje accesible
+Otra forma de leer el mercado es desde el lenguaje. Una parte importante de las herramientas y procesos del sector construcción sigue organizada desde una lógica técnica difícil de decodificar para el usuario final. HabitatIA tiene una oportunidad si logra traducir complejidad sin banalizarla. Esa traducción, si se hace bien, también es mercado: hay valor en explicar mejor.
+
+## 6.18 Profundización sobre la lógica de expansión por segmento
+La expansión de HabitatIA no necesariamente debería ser solo geográfica. También podría ser segmentaria. Por ejemplo, la plataforma puede descubrir que tiene un encaje inicial más fuerte con personas que ya poseen terreno propio y que desean construir una vivienda principal. Más adelante, podría extenderse a perfiles como usuarios que quieren ampliar, pequeños desarrolladores, o incluso soluciones vinculadas a vivienda de fin de semana o construcción modular liviana. Esta lógica de expansión segmentaria ayuda a pensar el crecimiento como una secuencia de encajes, no como una apertura indiscriminada.
+
+## 6.19 Mercado potencial desde la óptica de la decisión anticipada
+Otra forma de mirar el mercado es a partir de la cantidad de decisiones habitacionales que hoy se toman con baja información preliminar. Aunque no exista un número exacto disponible en esta etapa, el razonamiento estratégico es potente: cada usuario que quiere construir y no tiene una herramienta clara para ordenar el proceso representa una oportunidad potencial para HabitatIA. El mercado, por lo tanto, no se define solo por quienes efectivamente construyen, sino también por quienes están en el umbral de decidir si avanzar o no.
+
+## 6.20 Matriz conceptual de oportunidades del mercado, desarrollada en texto
+Una forma más rica de interpretar el mercado es pensar la oportunidad como una matriz de cruces entre tipo de usuario y tipo de valor esperado.
+
+### 6.20.1 Usuarios con alta necesidad de claridad y alta sensibilidad al costo
+Este cuadrante representa el núcleo de la oportunidad. Son usuarios que probablemente valoren especialmente una plataforma que combine visualización con estimación económica y ahorro potencial.
+
+### 6.20.2 Usuarios con alta necesidad de personalización pero menor urgencia económica
+Aunque no sean el foco inicial, pueden valorar el componente de diseño y claridad del proyecto, especialmente si luego se habilitan capas premium.
+
+### 6.20.3 Profesionales con excedentes y baja tolerancia a fricción operativa
+Aquí la oportunidad depende de que el marketplace sea lo suficientemente simple y creíble como para justificar la publicación.
+
+### 6.20.4 Constructores o desarrolladores con foco en eficiencia
+Pueden ver valor en la capacidad de comparar materiales y oportunidades dentro de una lógica ya alineada con optimización de costos.
+
+La matriz muestra que HabitatIA no compite por igual en todos los segmentos ni con la misma propuesta exacta. Su potencia está en adaptar la lectura de valor a cada actor, sin perder coherencia sistémica.
+
 
 ---
 
