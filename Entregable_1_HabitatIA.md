@@ -150,6 +150,12 @@ La oportunidad más fuerte de HabitatIA no está en que cada uno de sus componen
 
 # 3. Validación y customer discovery, buyer persona
 
+## 3.19 Lectura estratégica del buyer journey como insumo de producto
+El buyer journey no debe analizarse solo como una herramienta de marketing. En HabitatIA, también es un insumo directo para el diseño de producto. Comprender en qué momento el usuario necesita alivio, en qué momento necesita información dura y en qué momento necesita confirmación emocional puede ayudar a diseñar una experiencia más convincente y más útil. Esto significa que la validación del journey no es un trabajo accesorio. Es parte de la arquitectura misma del proyecto.
+
+## 3.20 Señales cualitativas de alto valor
+En una fase temprana, algunas señales cualitativas pueden ser más valiosas que muchas métricas blandas. Por ejemplo: que un usuario diga que por primera vez entiende mejor qué podría construir; que una familia use la propuesta como base de conversación; que un arquitecto considere razonable publicar materiales en el canal si encuentra compradores pertinentes. Ese tipo de señales no sustituyen la validación posterior, pero ayudan a detectar si la plataforma está tocando un dolor real.
+
 ## 3.1 Importancia estratégica de validar correctamente
 HabitatIA se apoya en una propuesta conceptualmente fuerte, pero esa fortaleza no elimina la necesidad de validar rigurosamente. La categoría vivienda exige un nivel alto de confianza. Nadie avanza con ligereza en decisiones vinculadas a la construcción de una casa o a la compra de materiales para una obra. Por eso, la validación no debe orientarse solo a confirmar interés superficial, sino a comprender comportamientos reales, barreras, objeciones y señales concretas de adopción.
 
@@ -428,6 +434,12 @@ Gestionar esas expectativas es parte central de una propuesta de valor profesion
 
 # 6. Dimensionamiento de la oportunidad y del mercado
 
+## 6.21 Lectura del mercado desde la fricción, no solo desde el volumen
+Muchas veces se intenta justificar una oportunidad de mercado únicamente por tamaño agregado. En HabitatIA, una lectura complementaria es observar la magnitud de la fricción. Aunque la plataforma no capturara un mercado gigantesco en el corto plazo, seguiría existiendo una oportunidad relevante si logra resolver una fricción intensa y frecuente para un segmento suficientemente grande. Esta perspectiva ayuda a mantener el foco en valor real y no solo en cifras abstractas.
+
+## 6.22 Implicancias de la oportunidad para la estrategia de entrada
+Si el valor principal del proyecto está en resolver una fricción concreta, entonces la estrategia de entrada no debería priorizar amplitud, sino ajuste fino entre problema y solución. Esto sugiere que una primera etapa más focalizada podría ser estratégicamente superior a una expansión temprana demasiado amplia. La profundidad del encaje inicial puede ser más importante que la amplitud del mercado abordado desde el primer día.
+
 ## 6.1 Criterio general de dimensionamiento
 El dimensionamiento del mercado de HabitatIA debe construirse con criterio y evitando exageraciones. El proyecto se sitúa en una intersección entre PropTech, construcción, vivienda accesible y economía circular. Esto significa que su mercado no debe leerse como una cifra única enorme, sino como un espacio compuesto por varias capas de oportunidad. La tarea estratégica consiste en mostrar que existe suficiente densidad de problema, frecuencia de necesidad y posibilidad de captura de valor, sin caer en proyecciones abstractas desconectadas de una implementación realista.
 
@@ -641,6 +653,15 @@ La oportunidad competitiva de HabitatIA no depende de vencer a todos los actores
 
 # 9. Plan comercial físico y digital
 
+## 9.26 Desarrollo adicional del canal de recomendación
+En una categoría como vivienda, la recomendación puede tener un peso muy superior al de otros mercados. Las personas confían en referencias cercanas cuando perciben que la decisión tiene alto impacto económico y emocional. Por eso, HabitatIA debería considerar la recomendación no solo como resultado deseable, sino como un canal comercial en sí mismo. Si la experiencia logra ser lo suficientemente clara y útil, puede convertirse en una herramienta que el usuario quiera compartir con otras personas que atraviesan una situación similar.
+
+## 9.27 Importancia del tono comercial
+El tono con el que HabitatIA se comunica es parte del producto. Un tono excesivamente vendedor podría dañar confianza. Uno demasiado técnico podría desalentar exploración. El desafío está en encontrar un registro que combine claridad, cercanía, criterio y profesionalismo. Esta búsqueda no es menor: afecta conversión, retención y reputación.
+
+## 9.28 Necesidad de coherencia entre marketing y experiencia real
+Una debilidad frecuente en muchas plataformas es prometer mucho más de lo que luego entregan. En HabitatIA, la coherencia entre lo que se comunica y lo que la experiencia devuelve será crítica. El marketing no puede ir por un camino y el producto por otro. La mejor estrategia comercial será aquella que haga visible, con honestidad, el valor concreto que el usuario realmente va a encontrar.
+
 ## 9.1 Principio rector del plan comercial
 El plan comercial de HabitatIA debe responder a una lógica clara: construir confianza y relevancia antes que volumen indiscriminado. Dado que la categoría vivienda es altamente sensible, la adquisición de usuarios no puede pensarse solo en términos de tráfico. Debe articular demostración de valor, pedagogía sobre la propuesta y un recorrido de conversión coherente con la complejidad de la decisión.
 
@@ -757,6 +778,12 @@ El plan comercial de HabitatIA debe ser gradual, pedagógico y orientado a const
 
 # 10. Comentarios finales y conclusiones
 
+## 10.25 Criterio para evaluar el avance del proyecto
+Un criterio razonable para evaluar si HabitatIA está avanzando en la dirección correcta no es solo medir si suma funcionalidades o más contenidos en la plataforma. La pregunta central debería ser otra: ¿el proyecto está mejorando de forma concreta la capacidad del usuario para comprender, evaluar y ordenar su decisión habitacional? Si la respuesta a esa pregunta es positiva, entonces el crecimiento posterior tendrá una base genuina.
+
+## 10.26 Reflexión final sobre la coherencia del sistema
+Lo que vuelve prometedor a HabitatIA no es cada componente tomado de forma aislada, sino la coherencia del conjunto. La plataforma gana valor cuando visualización, estructura, cálculo y ahorro operan como partes de una misma experiencia. Si esa coherencia se sostiene a medida que el proyecto crece, la propuesta puede volverse cada vez más robusta. Si se pierde, el sistema corre riesgo de fragmentarse y diluir su diferencial.
+
 ## 10.1 Síntesis analítica del proyecto
 HabitatIA se presenta como una propuesta de integración sobre un problema real y persistente. Su fortaleza conceptual surge de conectar necesidades de vivienda, claridad económica, experiencia digital y reutilización de materiales dentro de una misma narrativa y un mismo recorrido funcional. Esto le otorga coherencia estratégica y evita que el proyecto se disperse en una suma desordenada de ideas atractivas pero desconectadas.
 
@@ -807,6 +834,12 @@ En un contexto donde construir sigue siendo complejo para amplios sectores, una 
 ---
 
 # 11. Anexos
+
+## 11.19 Guía para futuras ampliaciones documentales
+Una versión posterior de este entregable podría profundizar todavía más en aspectos específicos del proyecto. Entre ellos, la construcción de una hipótesis financiera de largo plazo, un marco más desarrollado de operaciones del marketplace, una descripción más detallada de flujos de usuario y un conjunto de escenarios comparados para distintas velocidades de adopción. Esta observación no busca relativizar el trabajo actual, sino dejar en claro que el proyecto tiene todavía margen para ser expandido con nuevas capas de detalle sin romper su coherencia.
+
+## 11.20 Cierre documental
+Este documento fue desarrollado con el objetivo de transformar tres piezas de base en un entregable integrado, profesional y progresivamente más extenso. La ampliación realizada busca respetar la esencia de HabitatIA, evitando presentar como hechos cerrados aquello que todavía corresponde al terreno de hipótesis estratégicas. En esa decisión metodológica también reside una forma de seriedad: construir una propuesta sólida sin forzar evidencia inexistente.
 
 ## 11.1 Síntesis ejecutiva del proyecto
 HabitatIA es una plataforma digital de PropTech y construcción sostenible que utiliza inteligencia artificial generativa para transformar información del usuario en una propuesta preliminar de vivienda personalizada. La solución incluye render, plano orientativo, cálculo preliminar de materiales y presupuesto estimado, sumando además un marketplace de materiales sobrantes que permite detectar ahorro potencial y promover reutilización de recursos.
