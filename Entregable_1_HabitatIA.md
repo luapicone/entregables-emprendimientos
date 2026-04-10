@@ -913,6 +913,53 @@ Entre los riesgos a gestionar se encuentran:
 
 La oferta debe crecer por profundidad y validación, no por acumulación prematura de funcionalidades.
 
+
+## 7.9 Evolución posible del servicio para usuario final
+En una etapa posterior, HabitatIA podría evolucionar su servicio para incluir no solo una propuesta estática, sino también opciones comparativas. Por ejemplo, mostrar cómo cambiaría el presupuesto si se ajusta superficie, si se modifica materialidad o si se prioriza una construcción por etapas. Esto reforzaría su posición como herramienta de decisión, no solo como generador de una alternativa única.
+
+## 7.10 Evolución posible del lado oferente
+Para arquitectos, estudios y constructores, el valor podría crecer si el marketplace ofrece más que publicación simple. Por ejemplo, categorías mejor estructuradas, recomendaciones de precio, indicadores de consulta o herramientas de priorización de stock. Estas capas no son necesarias para el inicio, pero muestran que la lógica del producto puede escalar en sofisticación también del lado de la oferta.
+
+## 7.11 Arquitectura de oferta para una etapa posterior
+Si HabitatIA evolucionara favorablemente, su oferta podría organizarse de manera más robusta en tres niveles comerciales bien diferenciados.
+
+### 7.11.1 Nivel exploratorio
+Dirigido a usuarios que necesitan una primera aproximación y todavía no están listos para profundizar demasiado.
+
+### 7.11.2 Nivel de decisión
+Dirigido a usuarios que ya avanzaron en el flujo y necesitan comparaciones, variantes y mayor nivel de detalle para tomar una determinación.
+
+### 7.11.3 Nivel profesional o de vinculación técnica
+Dirigido a quienes necesitan integrar la propuesta preliminar con servicios, actores o verificaciones más avanzadas.
+
+Esta arquitectura permitiría ordenar mejor la escalabilidad del modelo de negocio y sostener una narrativa más clara frente al usuario.
+
+## 7.12 El valor del producto para etapas, no solo para proyectos completos
+Una fortaleza potencial del proyecto es que no necesita limitarse a viviendas “completas” desde el día uno. También podría servir para decisiones parciales o por etapas, como por ejemplo ampliación de un ambiente, incorporación de una unidad funcional, definición de una primera fase de obra sobre un terreno o reorganización de materiales y costos en un proyecto incremental. Esto amplía el universo de uso sin romper la esencia del proyecto.
+
+## 7.13 Escenario económico y monetización por fases
+### 7.13.1 Fase inicial, monetización mínima o nula con foco en validación
+En una primera etapa, puede resultar razonable que la monetización tenga un rol secundario frente al aprendizaje. La prioridad es validar si el flujo principal genera valor real. En esta fase, incluso una propuesta gratuita o parcialmente gratuita puede tener sentido estratégico si permite recoger datos relevantes sobre comportamiento, comprensión y percepción de utilidad.
+
+### 7.13.2 Fase de monetización temprana del servicio principal
+Una vez que el usuario reconoce valor en la propuesta preliminar, puede abrirse una monetización asociada a capas más profundas del servicio. Esto no implica necesariamente cobrar por el acceso inicial. Podría consistir en cobrar por versiones ampliadas, comparaciones avanzadas, múltiples variantes o reportes más detallados.
+
+### 7.13.3 Fase de monetización del marketplace
+Si el marketplace comienza a mostrar movimiento real, la plataforma podría capturar valor mediante comisión por transacción, publicación destacada o servicios de visibilidad para oferentes. Esta fase exige más madurez porque depende de confianza, volumen y calidad de coincidencias.
+
+### 7.13.4 Fase de monetización híbrida
+En una etapa más avanzada, HabitatIA podría combinar ingresos provenientes de usuarios finales, actores del marketplace y acuerdos con aliados. Esta diversificación fortalecería la sustentabilidad del modelo.
+
+## 7.14 Consideraciones sobre pricing
+El precio, en un proyecto de este tipo, no solo comunica costo. También comunica categoría y alcance. Un precio demasiado alto podría desalentar la prueba inicial. Un precio demasiado bajo podría debilitar la percepción de valor o sostener un modelo frágil. Por eso, la lógica de pricing debería construirse con mucho cuidado, probablemente validando distintos niveles de profundidad del servicio antes de consolidar una estructura definitiva.
+
+## 7.15 Riesgos de sobrediseñar la cartera de servicios
+Un error frecuente en proyectos prometedores es querer convertir demasiado rápido una idea consistente en una oferta hipertrofiada. HabitatIA debe evitar ese riesgo. La expansión de productos y servicios solo tendrá sentido si cada capa nueva refuerza el valor central del recorrido. Cuando una cartera crece antes que la comprensión del usuario, la propuesta se debilita en lugar de fortalecerse.
+
+## 7.16 El producto como antesala de relaciones más profundas
+Otra lectura estratégica es entender que el producto principal también puede funcionar como puerta de entrada a relaciones más profundas con usuarios y actores del ecosistema. Un usuario que confía en la experiencia inicial podría luego demandar más profundidad. Un profesional que prueba el marketplace podría involucrarse más activamente. Esta capacidad del producto para abrir relaciones futuras aumenta su relevancia dentro de la arquitectura general del proyecto.
+
+
 ---
 
 # 8. Entorno competitivo
@@ -984,6 +1031,55 @@ No sería profesional asumir que el proyecto no puede ser imitado o que “no ex
 
 ## 8.8 Oportunidad competitiva realista
 La oportunidad competitiva de HabitatIA no depende de vencer a todos los actores del ecosistema en todas las variables. Su oportunidad está en construir una categoría híbrida y útil para un segmento concreto de usuarios que hoy se encuentra subatendido en la etapa inicial del proceso. Si logra resolver bien esa etapa, su posición se volverá más fuerte y defendible.
+
+
+## 8.9 Competencia futura potencial
+Además de competidores existentes o categorías vecinas, HabitatIA debe considerar la posibilidad de competencia futura por parte de actores que hoy no operan exactamente en su espacio, pero podrían acercarse.
+
+### 8.9.1 Estudios tradicionales que digitalicen la etapa inicial
+Podrían incorporar herramientas de visualización y presupuestación preliminar para captar usuarios antes en el proceso.
+
+### 8.9.2 Marketplaces que contextualicen mejor la demanda
+Plataformas generalistas podrían intentar mejorar el match con necesidades de obra concretas.
+
+### 8.9.3 Startups PropTech enfocadas en planificación accesible
+Pueden emerger nuevos jugadores centrados en experiencia digital, IA o eficiencia constructiva.
+
+La respuesta estratégica de HabitatIA frente a esa posibilidad no debería ser la negación, sino construir una propuesta más integrada, clara y difícil de replicar solo por acumulación de features.
+
+## 8.10 Estrategia de posicionamiento frente al entorno competitivo
+Una estrategia de posicionamiento sólida para HabitatIA debería evitar comparaciones grandilocuentes y enfocarse en una idea concreta: resolver con claridad una etapa que hoy está subatendida. En vez de presentarse como una plataforma que reemplaza a la arquitectura tradicional o a todos los marketplaces, conviene posicionarse como la forma más simple, integrada y útil de iniciar un proyecto habitacional con criterio económico.
+
+## 8.11 Competencia por confianza, no solo por features
+En un análisis más fino, HabitatIA no competirá únicamente por cantidad de funcionalidades. También competirá por confianza. Un estudio tradicional puede no ofrecer la misma inmediatez, pero sí una sensación de respaldo técnico. Un marketplace generalista puede ser más caótico, pero ya estar instalado en hábitos de uso. Una plataforma visual puede no integrar presupuesto, pero ser muy amigable. Por eso, la competencia real no debe leerse solo como una comparación de features. También incluye legitimidad, claridad y percepción de seguridad.
+
+## 8.12 Posicionamiento narrativo sugerido
+Una narrativa estratégica posible para HabitatIA sería: “la forma más clara de empezar a pensar tu vivienda con criterio económico y una lógica más eficiente de materiales”. Esta formulación evita exagerar y al mismo tiempo comunica su lugar específico dentro del ecosistema.
+
+## 8.13 Qué tipo de competidor podría ser más peligroso a futuro
+No necesariamente el competidor más riesgoso será el que tenga más tecnología o más presupuesto de entrada. Podría ser, en cambio, un actor que logre combinar tres cosas: confianza percibida, claridad de experiencia y foco en un segmento concreto. Esta observación es importante porque obliga a no subestimar la dimensión de diseño de experiencia y narrativa comercial. HabitatIA no gana solo por tener una idea interesante. Gana si convierte esa idea en una experiencia clara, confiable y útil.
+
+## 8.14 Diferenciación por secuencia, no solo por contenido
+En algunos proyectos, la ventaja está en tener una funcionalidad exclusiva. En HabitatIA, una parte importante de la ventaja puede estar en la secuencia de cómo se presentan y conectan las capas de valor. La combinación entre visualización, estructura espacial, lectura de materiales y ahorro puede resultar más potente por el orden en que se vive que por la singularidad absoluta de cada componente por separado.
+
+## 8.15 Matriz narrativa del entorno competitivo explicada
+En lugar de presentar una tabla fría, conviene desarrollar en texto una matriz conceptual que muestre cómo se distribuyen las soluciones existentes.
+
+### 8.15.1 Soluciones con alta profundidad técnica y baja accesibilidad inicial
+Aquí se ubican los estudios tradicionales y servicios profesionales completos. Su fortaleza es el rigor. Su debilidad relativa es el costo de entrada, la velocidad y la menor accesibilidad para usuarios en etapa exploratoria.
+
+### 8.15.2 Soluciones con alta accesibilidad visual y baja traducibilidad económica
+Aquí aparecen referencias inspiracionales, generadores visuales o experiencias centradas en imágenes. Son útiles para imaginar, pero no siempre ayudan a decidir.
+
+### 8.15.3 Soluciones con capacidad transaccional pero baja contextualización
+Los marketplaces generales permiten comprar y vender, pero no están conectados con el proyecto de vivienda en sí mismo. Su utilidad existe, pero su falta de integración limita el valor para este caso.
+
+### 8.15.4 Soluciones con promesa integral empaquetada
+Algunos constructores modulares o empresas especializadas pueden ofrecer rapidez y solución cerrada. Su limitación suele aparecer cuando el usuario necesita mayor flexibilidad o no encaja en una lógica de producto estandarizado.
+
+### 8.15.5 Espacio ocupado por HabitatIA
+HabitatIA intenta instalarse en un espacio donde la accesibilidad, la visualización, la racionalidad económica y la reutilización se articulan dentro de una experiencia única. Esa no es una posición automática ni libre de competencia, pero sí es una posición con potencial de diferenciación auténtica.
+
 
 ---
 
@@ -1109,6 +1205,100 @@ Entre los principales riesgos comerciales se encuentran:
 
 ## 9.10 Conclusión comercial
 El plan comercial de HabitatIA debe ser gradual, pedagógico y orientado a construir legitimidad. No se trata solo de llevar tráfico al sitio, sino de hacer que la propuesta sea comprendida, percibida como útil y adoptada por los segmentos correctos. En un proyecto de esta naturaleza, la calidad de la tracción inicial puede ser mucho más importante que su volumen bruto.
+
+
+## 9.11 Go to market por fases
+El plan comercial puede ordenarse en una secuencia por fases que permita reducir riesgo y acumular aprendizaje.
+
+### 9.11.1 Fase 1, validación inicial con foco en captación cualificada
+La meta no debería ser escalar rápido, sino atraer usuarios con intención real y aprender de su comportamiento. Esta etapa puede priorizar campañas acotadas, contenido educativo y demos guiadas.
+
+### 9.11.2 Fase 2, consolidación del valor del flujo principal
+Si las primeras señales son positivas, el siguiente paso sería fortalecer la experiencia principal del producto, mejorar la calidad percibida y construir confianza.
+
+### 9.11.3 Fase 3, activación progresiva del marketplace
+Una vez que el flujo principal se perciba como valioso, conviene potenciar el marketplace con oferta mejor curada y foco en calidad de publicaciones.
+
+### 9.11.4 Fase 4, expansión por alianzas
+Con una propuesta más madura, HabitatIA podría comenzar a formalizar acuerdos con actores del ecosistema físico, como corralones, proveedores, estudios y organizaciones vinculadas al hábitat.
+
+## 9.12 Lógica de confianza comercial
+HabitatIA necesita construir una confianza de doble cara.
+
+### 9.12.1 Confianza del usuario final
+Debe sentir que la plataforma no está simplificando en exceso un problema serio ni ocultando limitaciones relevantes.
+
+### 9.12.2 Confianza del profesional oferente
+Debe percibir que publicar materiales no implica una carga operativa excesiva y que existe una oportunidad real de conexión con demanda relevante.
+
+## 9.13 Métricas comerciales iniciales sugeridas
+Para gestionar el plan comercial con criterio, podrían definirse indicadores iniciales tales como tasa de inicio y finalización del formulario, porcentaje de usuarios que visualizan el presupuesto completo, tasa de usuarios que consultan el ahorro potencial, cantidad de materiales publicados por oferente, porcentaje de publicaciones con consulta o interés, costo de adquisición por lead relevante y tasa de activación de usuarios que completan la experiencia principal.
+
+## 9.14 La dimensión pedagógica del plan comercial
+HabitatIA no se comercializa solamente con anuncios. También necesita una dimensión pedagógica. El usuario debe entender por qué el producto le sirve, qué problema le resuelve y qué puede esperar de la experiencia. Esto hace que el contenido, las demos y la comunicación explicativa no sean accesorios, sino piezas centrales del go to market.
+
+## 9.15 Posibles alianzas con capacidad de legitimación
+Más allá de aliados comerciales clásicos, también convendría explorar actores con capacidad de legitimación narrativa. Organizaciones vinculadas a vivienda, hábitat, economía circular o innovación social podrían convertirse en una capa adicional de credibilidad. No necesariamente como socios operativos inmediatos, pero sí como referencias que fortalezcan el posicionamiento del proyecto.
+
+## 9.16 Secuencia de adquisición más razonable
+Una secuencia comercial madura podría ser atraer con una promesa de claridad y personalización, convertir mostrando visualización y presupuesto preliminar, retener ampliando el valor mediante comparación, variantes y ahorro, monetizar cuando el usuario ya percibe utilidad suficiente y recomendar cuando la experiencia haya logrado generar alivio real frente a la incertidumbre inicial.
+
+## 9.17 Profundización del embudo comercial desde el punto de vista del usuario
+Desde la óptica del usuario final, el embudo no debe pensarse como un túnel de venta, sino como un proceso de ganancia de confianza.
+
+### 9.17.1 Etapa de descubrimiento
+El usuario identifica una plataforma que parece hablar de un problema que realmente tiene.
+
+### 9.17.2 Etapa de comprensión
+Empieza a entender qué hace la herramienta y por qué podría resultarle útil.
+
+### 9.17.3 Etapa de prueba o experiencia
+Interactúa con el producto y evalúa si efectivamente reduce su incertidumbre.
+
+### 9.17.4 Etapa de apropiación
+Percibe que obtuvo algo que no tenía antes: una mejor lectura de su proyecto.
+
+### 9.17.5 Etapa de avance
+Está en condiciones de decidir si profundiza el uso, vuelve, recomienda o avanza a una instancia siguiente.
+
+Esta lectura mejora la calidad del plan comercial porque evita tratar al usuario como un simple lead y lo ubica como alguien que necesita atravesar un proceso real de comprensión y evaluación.
+
+## 9.18 Posible estrategia de contenidos por momentos del journey
+Los contenidos podrían estructurarse según distintos momentos del recorrido del usuario: contenidos de descubrimiento, por qué construir es difícil de planificar y cómo ordenarlo mejor; contenidos de consideración, qué mirar en una propuesta preliminar de vivienda; contenidos de decisión, cómo interpretar materiales, costos y ahorro potencial; y contenidos de legitimación, diferencias entre una referencia aspiracional y una herramienta que ayuda a decidir. Esta arquitectura de contenidos reforzaría la coherencia entre marketing y producto.
+
+## 9.19 Expansión del plan comercial, lógica de adquisición y crecimiento
+El plan comercial de HabitatIA debería pensarse más como una construcción de mercado que como una simple ejecución de marketing. La categoría aún requiere pedagogía, legitimación y pruebas de valor. Esto significa que la estrategia comercial no puede basarse solo en captar usuarios, sino en construir condiciones para que esos usuarios comprendan, prueben y recomienden la propuesta.
+
+### 9.19.1 Construcción de demanda informada
+Una parte del trabajo comercial será ayudar a que el usuario entienda mejor su propio problema. Esto no implica inventar una necesidad, sino volverla más consciente y más organizada. El contenido educativo y la experiencia de producto trabajan juntos en esa dirección.
+
+### 9.19.2 Lógica de prueba con baja fricción
+Si el costo de entrada al producto es alto, la propuesta pierde una de sus ventajas fundamentales. Por eso, la primera interacción debería sentirse liviana, clara y orientada a generar una ganancia rápida de comprensión.
+
+### 9.19.3 Conversión por valor demostrado, no por presión comercial
+En categorías sensibles como vivienda, la conversión tiene más chances de sostenerse cuando el usuario percibe una utilidad concreta y no cuando siente presión. Esto refuerza la importancia de una experiencia clara y de una comunicación honesta.
+
+### 9.19.4 Retención basada en utilidad progresiva
+La retención no debería depender solo de notificaciones o recordatorios. Tendrá más sentido si el producto ofrece nuevas capas de valor a medida que el usuario avanza, por ejemplo variantes, comparaciones, nuevas oportunidades de ahorro o nuevas formas de organizar su proyecto.
+
+## 9.20 Estrategia de contenidos ampliada
+La estrategia de contenidos puede expandirse mucho más y volverse uno de los activos más fuertes del proyecto.
+
+### 9.20.1 Contenidos de diagnóstico
+Orientados a ayudar al usuario a reconocer el problema: por qué construir resulta tan difícil de ordenar, cuáles son los errores frecuentes en la etapa inicial y qué impacto tiene la mala planificación.
+
+### 9.20.2 Contenidos de traducción
+Diseñados para convertir lenguaje técnico en criterios accesibles. Por ejemplo, explicar cómo pensar superficie, ambientes, materiales o presupuesto sin abrumar.
+
+### 9.20.3 Contenidos de validación emocional
+Historias, escenas, ejemplos o casos conceptuales que ayuden al usuario a verse reflejado en la propuesta.
+
+### 9.20.4 Contenidos de ahorro y eficiencia
+Piezas que muestren de forma clara por qué la combinación entre proyecto habitacional y marketplace puede traducirse en un beneficio real.
+
+### 9.20.5 Contenidos para el lado profesional
+Artículos o piezas dirigidas a arquitectos, estudios y constructores para explicar por qué el marketplace puede resultarles útil y qué problema concreto viene a resolver.
+
 
 ---
 
