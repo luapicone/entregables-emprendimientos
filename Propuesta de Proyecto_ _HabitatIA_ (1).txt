@@ -1,0 +1,133 @@
+Propuesta de Proyecto: HabitatIA
+1. Nombre del proyecto
+HabitatIA
+2. Vertical
+PropTech / Construcción Sostenible / Marketplace
+3. Integrantes
+
+4. Descripción general del proyecto
+HabitatIA es una plataforma web que utiliza Inteligencia Artificial Generativa para diseñar viviendas sostenibles, modulares y de bajo costo, adaptadas a las necesidades, gustos y posibilidades económicas de cada cliente.
+A partir de la información que ingresa el usuario, la plataforma genera una propuesta personalizada de vivienda, que incluye:
+un render visual de la casa a medida,
+un plano con medidas,
+el detalle de materiales necesarios para construirla,
+la cantidad exacta de cada material,
+el costo estimado total de la obra.
+Además, HabitatIA integra un marketplace de materiales sobrantes de otras obras, donde arquitectos y profesionales de la construcción pueden publicar excedentes en buen estado a un precio más bajo que el del mercado tradicional. Si alguno de esos materiales coincide con los requeridos para el diseño de la vivienda, la plataforma le muestra al usuario cuánto puede ahorrar y cuál sería el descuento total sobre el presupuesto original.
+De esta manera, HabitatIA no solo facilita el acceso a una vivienda más económica y eficiente, sino que también promueve la reutilización de materiales y reduce el desperdicio en la industria de la construcción.
+
+5. Problema que busca resolver
+Actualmente, muchas personas y familias de ingresos medios y bajos enfrentan grandes dificultades para acceder a una vivienda propia. Entre los principales problemas se encuentran:
+el alto costo de diseñar y construir una casa,
+la falta de asesoramiento accesible y personalizado,
+el desperdicio de materiales en obras,
+la poca transparencia sobre cuánto material se necesita realmente,
+la inexistencia de canales simples para comprar sobrantes de construcción en buen estado a menor precio.
+Al mismo tiempo, arquitectos, constructoras y profesionales del rubro suelen terminar obras con materiales excedentes que muchas veces quedan sin uso, se almacenan innecesariamente o se descartan, generando pérdidas económicas y un impacto ambiental negativo.
+HabitatIA nace para conectar ambos problemas en una sola solución: ayudar a las personas a diseñar y planificar su vivienda ideal a menor costo, mientras se aprovechan materiales existentes dentro de un ecosistema más eficiente y sostenible.
+
+6. Solución propuesta
+La solución consiste en una plataforma digital inteligente que combina diseño personalizado, automatización de presupuestos y economía circular.
+El usuario ingresa datos como:
+cantidad de ambientes,
+superficie deseada,
+estilo de vivienda,
+presupuesto estimado,
+ubicación,
+preferencias de materiales,
+necesidades familiares o funcionales.
+Con esa información, la IA genera una propuesta integral que incluye:
+Diseño personalizado
+La plataforma crea un render de la vivienda ajustado a las preferencias y necesidades del cliente, permitiéndole visualizar cómo sería su futura casa.
+Plano con medidas
+Se genera un plano base con dimensiones concretas, para que el usuario tenga una referencia estructural clara de la propuesta.
+Cálculo de materiales
+HabitatIA calcula automáticamente:
+qué materiales se necesitan,
+cuánta cantidad de cada uno hace falta,
+el precio unitario estimado,
+el costo total por rubro,
+el presupuesto total aproximado de construcción.
+Marketplace de materiales sobrantes
+La plataforma compara los materiales requeridos por el diseño con los productos disponibles en el marketplace. Si encuentra coincidencias, le informa al usuario:
+qué materiales puede comprar a precio reducido,
+cuánto más barato están respecto al precio de mercado,
+cuánto dinero ahorraría en total,
+cómo impacta ese ahorro en el presupuesto final de su vivienda.
+Publicación de sobrantes
+Arquitectos y profesionales pueden publicar materiales excedentes de sus obras, indicando:
+tipo de material,
+cantidad disponible,
+estado,
+ubicación,
+precio publicado.
+Esto transforma sobrantes en oportunidades económicas para otros usuarios y fomenta una lógica de reutilización eficiente.
+
+7. Propuesta de valor
+La propuesta de valor de HabitatIA se basa en unir personalización, ahorro y sostenibilidad en una sola plataforma.
+Para quienes quieren construir su casa, ofrece una herramienta accesible para visualizar, planificar y presupuestar una vivienda a medida sin depender desde el inicio de procesos costosos o poco claros.
+Para arquitectos y profesionales, brinda un canal donde monetizar materiales sobrantes que de otro modo quedarían inmovilizados o desperdiciados.
+Para la sociedad y el ambiente, impulsa un modelo de construcción más eficiente, con menos descarte, menor huella ambiental y mayor acceso a soluciones habitacionales de calidad.
+
+8. Público objetivo
+HabitatIA está dirigido principalmente a:
+personas y familias de ingresos medios y bajos que buscan construir una vivienda económica y funcional,
+usuarios interesados en soluciones habitacionales personalizadas y sostenibles,
+arquitectos, estudios y profesionales de la construcción que cuentan con materiales sobrantes de otras obras,
+desarrolladores o pequeños constructores que buscan optimizar costos y acceder a insumos a mejor precio.
+
+9. Triple impacto
+Impacto social
+HabitatIA contribuye a democratizar el acceso al diseño de viviendas, ofreciendo soluciones más económicas, claras y adaptadas a las necesidades reales de cada familia. Facilita el acceso a herramientas que tradicionalmente suelen estar reservadas a quienes pueden afrontar mayores costos de diseño y planificación.
+Impacto ambiental
+El proyecto reduce el desperdicio de materiales de construcción al fomentar su reutilización mediante el marketplace. Además, promueve diseños más eficientes y sostenibles, priorizando materiales ecológicos o reciclables cuando sea posible y optimizando el uso de recursos desde la etapa de planificación.
+Impacto económico
+La plataforma disminuye costos de construcción al calcular con mayor precisión las cantidades necesarias de materiales y al identificar oportunidades de compra de sobrantes a menor precio. Esto beneficia tanto al comprador, que reduce su inversión total, como al arquitecto o profesional que puede recuperar valor económico de materiales no utilizados.
+
+10. Funcionamiento de la plataforma
+El proceso general sería el siguiente:
+El usuario ingresa a la plataforma y completa un formulario con sus necesidades, gustos y presupuesto.
+La IA procesa la información y genera una propuesta de vivienda personalizada.
+El sistema muestra un render visual de la casa y un plano con medidas.
+Luego calcula el listado completo de materiales requeridos, cantidades y costos estimados.
+La plataforma compara esos materiales con los disponibles en el marketplace.
+Si encuentra coincidencias, informa qué materiales pueden comprarse con descuento y cuánto se ahorraría en total.
+El usuario obtiene una visión completa de su proyecto: diseño, materiales, presupuesto inicial y presupuesto optimizado con ahorro.
+En paralelo, los arquitectos y profesionales pueden publicar sus sobrantes en el marketplace para darles salida comercial.
+
+11. Innovación del proyecto
+La innovación de HabitatIA no está solo en generar diseños de vivienda con IA, sino en integrar en una misma experiencia cuatro elementos que normalmente están separados:
+diseño personalizado,
+visualización arquitectónica,
+planificación y presupuesto de materiales,
+reutilización de insumos mediante marketplace.
+Esto convierte a HabitatIA en una solución integral que acompaña al usuario desde la idea inicial hasta la evaluación concreta de costos y oportunidades de ahorro.
+
+12. Tecnologías a utilizar
+Para el desarrollo del proyecto se prevé el uso de las siguientes tecnologías:
+Inteligencia Artificial Generativa para crear propuestas de diseño y renders personalizados.
+Modelado y procesamiento de planos para generar esquemas con medidas.
+Algoritmos de optimización para calcular cantidades de materiales y costos.
+Cloud Computing para alojar la plataforma y escalar su funcionamiento.
+Base de datos para almacenar usuarios, diseños, materiales y publicaciones del marketplace.
+Marketplace web para la publicación, búsqueda y comparación de materiales sobrantes.
+
+13. Modelo de negocio
+HabitatIA podría monetizarse a través de distintas vías:
+comisión por transacciones realizadas dentro del marketplace,
+planes premium para acceder a diseños más avanzados o múltiples versiones del proyecto,
+servicios pagos para arquitectos o estudios que quieran mayor visibilidad en la plataforma,
+alianzas con corralones, proveedores o empresas de materiales sostenibles.
+
+14. Objetivo del proyecto
+El objetivo de HabitatIA es transformar la manera en que las personas acceden al diseño y planificación de una vivienda, utilizando tecnología para hacer el proceso más accesible, más transparente, más económico y más sostenible.
+Buscamos que una familia no solo pueda imaginar su casa ideal, sino también entender con claridad:
+cómo sería,
+cuánto mediría,
+qué materiales necesitaría,
+cuánto costaría construirla,
+cuánto podría ahorrar si aprovecha materiales disponibles en el marketplace.
+
+15. Cierre
+HabitatIA propone una nueva forma de pensar la construcción de viviendas: más inteligente, más inclusiva y más consciente del uso de los recursos. Al combinar IA, personalización, presupuesto detallado y reutilización de materiales, el proyecto genera valor real para usuarios, profesionales y el ambiente.
+No se trata solamente de diseñar casas, sino de crear un sistema que permita construir mejor, gastar menos y desperdiciar menos.
