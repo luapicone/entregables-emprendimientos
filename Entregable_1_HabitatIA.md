@@ -1083,8 +1083,6 @@ Para una versión aún más robusta del proyecto, los anexos podrían ampliarse 
 El valor de HabitatIA está en su capacidad de operar como plataforma de claridad. En un sector donde las decisiones suelen comenzar con incertidumbre, intuiciones dispersas y poca previsibilidad, una herramienta que convierta esas primeras preguntas en una propuesta integrada, visual y económicamente orientada puede ocupar un lugar relevante. Si esa herramienta, además, logra conectar el proyecto con oportunidades reales de ahorro y con una lógica de reutilización de materiales, su propuesta se fortalece no solo en términos comerciales, sino también en términos de impacto. El desafío no será probar que la idea es interesante, sino demostrar que la experiencia es realmente útil, confiable y sostenible como modelo. Esa es la tarea estratégica que queda por delante y la razón por la cual este proyecto justifica un desarrollo serio y progresivo.
 
 
-# Ampliación complementaria del desarrollo
-
 ## 1.8 Vivienda, incertidumbre y toma de decisiones
 Una de las dimensiones menos visibles del problema habitacional es la carga cognitiva que implica tomar decisiones sin herramientas de apoyo suficientes. A diferencia de otras compras o proyectos, la vivienda condensa aspiraciones profundas y riesgos percibidos de alto impacto. Una familia puede convivir durante años con la intención de construir, pero no avanzar porque cada paso parece exigir certezas que todavía no posee. Cuánto costará, si el diseño será adecuado, si el espacio alcanzará, si conviene construir por etapas, si el presupuesto será sostenible, si habrá margen para absorber imprevistos. Estas preguntas no son marginales. Son, en muchos casos, el verdadero cuello de botella.
 
@@ -1244,8 +1242,6 @@ Una versión todavía más avanzada del proyecto podría sumar anexos tales como
 ## 11.12 Cierre complementario
 En última instancia, HabitatIA propone un cambio de lógica en la entrada al proceso habitacional. En lugar de que la persona tenga que recorrer múltiples instancias dispersas para construir una idea preliminar de su vivienda, el proyecto busca condensar en una sola experiencia tres beneficios centrales: comprensión, criterio y optimización. Esa combinación tiene la potencia suficiente para justificar su desarrollo serio, siempre que se mantenga el foco en utilidad real, narrativa honesta y construcción progresiva de confianza.
 
-
-# Desarrollo adicional orientado a versión extensa
 
 ## 2.12 Profundización sobre la experiencia de desorientación del usuario
 En los procesos tradicionales de decisión vinculados a vivienda, una parte significativa del desgaste no proviene solo de la complejidad técnica, sino de la sensación de no saber qué pregunta hacer primero. Este punto merece atención porque da cuenta de una necesidad frecuentemente subestimada. Muchas personas no solo carecen de respuestas. Carecen de una estructura básica de preguntas y de criterios para ordenar una conversación inicial sobre su proyecto.
@@ -1430,8 +1426,6 @@ En una versión más extensa todavía, podrían desarrollarse anexos específico
 ## 11.14 Observación final sobre la naturaleza del proyecto
 HabitatIA tiene una particularidad valiosa: se ubica en un punto donde la innovación no necesita justificarse únicamente por su novedad, sino por su capacidad de ordenar una experiencia que hoy es confusa para muchas personas. Ese es, probablemente, el mejor criterio para evaluar el proyecto. No si es llamativo, sino si ayuda a decidir mejor. Si la plataforma logra cumplir esa función con claridad, honestidad y consistencia, su desarrollo tendrá una base mucho más sólida que la simple atracción por la tecnología.
 
-
-# Expansión final orientada a documento largo de presentación
 
 ## 3.16 Buyer journey extendido del usuario final
 Para comprender en profundidad el potencial de HabitatIA, conviene describir con mayor detalle el viaje del usuario final. No se trata solo de un funnel digital. Es una trayectoria de decisión atravesada por emociones, restricciones, expectativas y aprendizajes.
@@ -1658,8 +1652,6 @@ HabitatIA no surge solo de una oportunidad tecnológica. Surge de una fricción 
 
 El documento desarrollado hasta aquí muestra que HabitatIA tiene una lógica sólida como propuesta de proyecto: identifica un problema real, articula una solución coherente, integra una oportunidad de ahorro, incorpora una narrativa de sostenibilidad y plantea un camino plausible de validación, operación y crecimiento. El desafío, como en todo emprendimiento con ambición sistémica, no será solamente sostener la idea, sino demostrar que el recorrido efectivamente mejora la vida de decisión del usuario. Si eso se logra, HabitatIA tendrá una base mucho más valiosa que una promesa tecnológica atractiva: tendrá una función clara dentro del proceso habitacional de miles de personas.
 
-
-# Ampliación final hacia versión extendida
 
 ## 3.17 Desarrollo más profundo de buyer personas
 ### 3.17.1 Buyer persona, familia primer hogar, versión ampliada
