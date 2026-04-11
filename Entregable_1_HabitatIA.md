@@ -1725,7 +1725,7 @@ Para que HabitatIA gane tracción real, la estrategia, la operación y la valida
 ## 11.25 Criterios de lectura para la tracción operativa
 La lectura estratégica de HabitatIA debe apoyarse en señales operativas concretas. Entre las más importantes aparecen la velocidad de activación del flujo principal, la capacidad de sostener oferta relevante de sobrantes de obra, la frecuencia de consulta de propuestas por parte de los usuarios y el nivel de conversión de interés en acción real. Estas variables son las que permitirán medir si el proyecto está ganando tracción o si todavía sigue funcionando solo como una hipótesis atractiva.
 
-## 11.26 Cierre final del trabajo escrito
+## 11.26 Conclusiones finales del modelo operativo HabitatIA
 Considerado en su conjunto, el desarrollo realizado permite afirmar que HabitatIA posee una base conceptual fuerte, una narrativa diferenciada y una lógica de valor suficientemente rica como para justificar su profundización. El proyecto se apoya sobre una necesidad persistente, integra una propuesta de solución coherente y abre una vía interesante para conectar claridad habitacional, eficiencia económica y reutilización de materiales. Su siguiente desafío no será simplemente seguir escribiendo sobre su potencial, sino llevar esa promesa a validaciones, aprendizajes y decisiones operativas concretas. Esa transición será la que determine si HabitatIA queda como una buena idea bien formulada o si efectivamente se convierte en una propuesta valiosa dentro del ecosistema habitacional.
 
 ## 11.19 Guía para futuras ampliaciones documentales
