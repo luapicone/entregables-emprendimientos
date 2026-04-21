@@ -318,53 +318,62 @@ Del lado profesional, fueron particularmente útiles las preguntas sobre qué su
 
 ## 3.6 Buyer personas ampliados
 ### 3.6.1 Buyer persona A, familia primer hogar
-**Perfil general.** Hogar joven, probablemente en etapa de consolidación, que aspira a una vivienda funcional, ordenada y acorde a su presupuesto. Puede no contar con asesoramiento técnico previo.
+**Perfil general.** Hogar o familia que desea construir o ampliar, pero siente que el proceso es difícil de ordenar desde el inicio. En las entrevistas aparece como un perfil atravesado por ilusión, presión económica y necesidad de respaldo.
 
-**Problema principal.** No sabe por dónde empezar ni qué podría construir sin correr riesgos de desborde presupuestario.
+**Problema principal.** La dificultad para saber cuánto va a costar realmente el proyecto y qué materiales necesita sin depender por completo de terceros.
 
-**Trabajo que necesita resolver.** Transformar una intención de vivienda en una primera decisión posible y entendible.
+**Trabajo que necesita resolver.** Transformar una intención de vivienda en una primera decisión más clara, con referencias visuales, económicas y materiales que le permitan avanzar con menos incertidumbre.
 
-**Frustraciones.** Miedo al sobrecosto, sensación de no dominar el lenguaje técnico, dificultad para comparar opciones, dependencia de terceros para cualquier paso inicial.
+**Frustraciones.** Sobrecostos imprevistos, cálculos inexactos, falta de transparencia en precios, miedo a comprar mal, temor a estafas o a materiales en mal estado, y dificultad para entender lenguaje técnico.
 
-**Qué podría valorar de HabitatIA.** Visualización accesible, claridad, sensación de control y reducción de incertidumbre.
+**Qué valora de HabitatIA según entrevistas.** Claridad presupuestaria, visualización orientativa, lenguaje simple, fotos reales, perfiles verificados, reputación visible, protección al comprador y transparencia en logística y pagos.
 
-### 3.6.2 Buyer persona B, propietario de terreno con intención de avanzar
-**Perfil general.** Cuenta con un activo importante, el terreno, pero aún no logró estructurar el proyecto constructivo.
+### 3.6.2 Buyer persona B, usuario con una oportunidad concreta de avanzar
+**Perfil general.** Usuario que ya está en una etapa más cercana a la acción, porque tiene una posibilidad concreta de construir, ampliar o comenzar a decidir seriamente. El formulario no siempre lo identifica por tenencia explícita de terreno, pero sí aparecen respuestas compatibles con este perfil.
 
-**Problema principal.** Tiene una oportunidad concreta de construir, pero carece de una base clara para definir qué hacer primero.
+**Problema principal.** No logra traducir esa oportunidad en un plan claro. Le cuesta ordenar pasos, comparar alternativas, visualizar el resultado y entender viabilidad económica.
 
-**Trabajo que necesita resolver.** Obtener una propuesta inicial que le permita evaluar escala, costos, materiales y potencial de avance por etapas.
+**Trabajo que necesita resolver.** Obtener una base de decisión que conecte idea, distribución, materiales y presupuesto, para saber si puede avanzar con más seguridad.
 
-**Qué podría valorar de HabitatIA.** Rapidez, referencia visual, estimación preliminar y posibilidad de ordenar una decisión largamente postergada.
+**Qué valora de HabitatIA según entrevistas.** Integración entre render, plano, listado de materiales, presupuesto preliminar, comparación de opciones y lectura de ahorro potencial.
 
 ### 3.6.3 Buyer persona C, arquitecto o estudio con excedentes
-**Perfil general.** Actor profesional que cierra obras con materiales sobrantes o stock remanente.
+**Perfil general.** Profesional o actor de obra que termina trabajos con materiales sobrantes y necesita resolver el excedente sin sumar complejidad innecesaria.
 
-**Problema principal.** No tiene una forma sencilla y especializada de comercializar ese excedente sin dispersión ni desgaste operativo.
+**Problema principal.** Los materiales quedan inmovilizados, ocupan espacio, pierden valor, se deterioran o terminan descartados porque venderlos también consume tiempo y energía.
 
-**Trabajo que necesita resolver.** Convertir materiales inmovilizados en dinero o en una salida eficiente.
+**Trabajo que necesita resolver.** Recuperar parte del capital, liberar espacio y resolver el excedente con el menor esfuerzo administrativo posible.
 
-**Qué podría valorar de HabitatIA.** Publicación simple, visibilidad frente a demanda concreta, sentido de eficiencia y circularidad.
+**Frustraciones.** Tiempo perdido, consultas improductivas, regateos, necesidad de cargar demasiada información, coordinación logística manual y posibles reclamos posteriores.
 
-### 3.6.4 Buyer persona D, pequeño constructor o desarrollador
-**Perfil general.** Busca eficiencia en cada decisión y puede valorar oportunidades de compra con descuento si están bien alineadas con necesidades reales.
+**Qué valora de HabitatIA según entrevistas.** Publicación rápida, demanda seria, salida logística ordenada, posibilidad de recuperar liquidez y una experiencia que no interfiera con el cierre de obra.
 
-**Problema principal.** Dificultad para encontrar insumos convenientes con rapidez y contexto.
+### 3.6.4 Buyer persona D, constructor o profesional orientado a eficiencia
+**Perfil general.** Perfil pragmático que evalúa herramientas según el tiempo que ahorran, el problema operativo que resuelven y el retorno económico concreto que generan.
 
-**Trabajo que necesita resolver.** Bajar costos sin perder tiempo ni aumentar incertidumbre.
+**Problema principal.** Toda fricción adicional reduce el atractivo de la solución. Si una herramienta no simplifica, se percibe como otra tarea más.
 
-**Qué podría valorar de HabitatIA.** Acceso rápido a oportunidades, integración con necesidades del proyecto y mejor lectura económica.
+**Trabajo que necesita resolver.** Optimizar decisiones de compra o salida de materiales sin sumar carga administrativa ni riesgo reputacional.
+
+**Qué valora de HabitatIA según entrevistas.** Simplicidad operativa, rapidez, mínima carga de publicación, compradores serios, recuperación de capital y menor desgaste logístico.
 
 ## 3.7 Qué tipo de validación sería engañosa
-También es útil aclarar qué tipo de señales no deberían sobreinterpretarse. Por ejemplo, que un usuario diga que “la idea está buena” no valida el modelo. Que alguien se sorprenda con un render tampoco valida el producto. Que un arquitecto considere interesante la reutilización de materiales tampoco garantiza que publique. La validación robusta exige señales más fuertes: uso, intención sostenida, consulta concreta, repetición, comparación activa, o disposición a avanzar un paso más allá de la curiosidad inicial.
+Los resultados obtenidos permiten reafirmar que hay señales que no conviene sobreinterpretar. Por ejemplo, que una persona valore la idea general de ahorrar o reutilizar materiales no implica automáticamente que esté dispuesta a comprar online materiales sobrantes. De hecho, en varias respuestas aparecen resistencias explícitas: preferencia por el corralón, desconfianza hacia páginas nuevas, necesidad de tocar el material en persona o dudas respecto a garantías formales.
 
-## 3.7 Criterios de aprendizaje esperados
-La validación debería producir aprendizajes sobre:
-- qué segmento tiene mayor urgencia real;
-- qué propuesta de valor genera mayor intención de uso;
-- qué objeciones deben resolverse en la comunicación;
-- qué componente del producto debe ser más robusto para que la experiencia se perciba como confiable;
-- cuál es la secuencia de adopción más razonable.
+Tampoco sería correcto tomar como validación completa el hecho de que los profesionales reconozcan que los sobrantes son un problema. El problema existe, pero eso no significa por sí mismo que todos estén dispuestos a usar una plataforma. Algunas respuestas muestran interés claro; otras, indiferencia; y otras indican que solo participarían bajo condiciones muy específicas de retorno económico, rapidez y baja fricción.
+
+Por lo tanto, la validación más sólida no surge de una aprobación abstracta, sino de señales más exigentes: condiciones concretas de confianza, aceptación de una operatoria determinada, disposición a usar un canal digital bajo ciertas garantías y criterios operativos explícitos sobre qué haría viable o inviable la adopción.
+
+## 3.8 Criterios de aprendizaje efectivamente obtenidos
+A partir de las entrevistas realizadas, el proceso de validación ya dejó algunos aprendizajes concretos.
+
+- El segmento de particulares y familias muestra una urgencia real asociada a la claridad presupuestaria, la definición de materiales y la reducción de incertidumbre.
+- La propuesta de valor más fuerte no aparece solamente en el render o en la personalización visual, sino en la combinación entre visualización, presupuesto preliminar, listado de materiales y capacidad de decidir con mayor seguridad.
+- El marketplace genera interés, pero su adopción está condicionada por la confianza. En usuarios particulares, esto se traduce en garantías, reputación, evidencia visual y protección. En profesionales, se traduce en rapidez, baja carga administrativa y solución logística.
+- La logística no es un aspecto secundario, sino uno de los principales factores de fricción para ambos lados del sistema.
+- La comunicación del proyecto no puede apoyarse únicamente en innovación o inteligencia artificial. Debe apoyarse en claridad, respaldo y utilidad concreta.
+
+Estos aprendizajes no cierran toda la validación del proyecto, pero sí permiten pasar de una fase de hipótesis generales a una lectura más precisa de qué elementos del modelo muestran tracción conceptual y cuáles exigen diseño más cuidadoso.
 
 ## 3.8 Prioridades de aprendizaje en una primera etapa
 Si hubiera que priorizar qué aprender primero, una secuencia razonable podría ser:
@@ -541,7 +550,11 @@ Delimitar este punto es esencial para sostener una comunicación seria y profesi
 El enfoque general de solución es coherente porque cada módulo alimenta a los demás. La visualización no queda aislada del presupuesto. El cómputo no queda aislado del diseño. El marketplace no queda desligado de una necesidad específica. Esa integración mejora la experiencia y ordena la propuesta de valor de una forma muy superior a la fragmentación habitual del mercado.
 
 ## 4.8 Hipótesis de funcionamiento exitoso
-Una hipótesis razonable del funcionamiento exitoso del sistema es que el usuario perciba valor no solo por la originalidad de la experiencia, sino porque al finalizar el recorrido tenga mayor capacidad de responder preguntas concretas sobre su proyecto. Si HabitatIA logra eso, ya habrá cumplido una función relevante, incluso antes de agregar capas más complejas de negocio o servicios profesionales.
+A la luz de las entrevistas, esta hipótesis puede reformularse con mayor precisión. El funcionamiento exitoso del sistema no dependería solo de que la experiencia resulte original o atractiva, sino de que el usuario termine el recorrido con una sensación concreta de mayor claridad y menor exposición a la incertidumbre. En el caso de particulares y familias, eso significa poder entender mejor cuánto podría costar su proyecto, qué materiales implicaría, qué riesgos deberían controlar y bajo qué condiciones tendría sentido avanzar.
+
+Las entrevistas también muestran que esa percepción de valor no se activa únicamente por una buena visualización. Se fortalece cuando la plataforma combina render o plano orientativo con señales claras de respaldo: precios comprensibles, listado de materiales, transparencia en logística, reputación visible y mecanismos de seguridad. Es decir, la experiencia funciona mejor cuando no se percibe como una promesa aspiracional aislada, sino como una herramienta concreta de decisión.
+
+Del lado profesional, el funcionamiento exitoso del sistema depende de otro criterio: que publicar sobrantes no se convierta en una nueva carga de trabajo. Si la plataforma reduce tiempo, ordena la salida del excedente, ayuda a recuperar liquidez y minimiza la fricción logística, entonces sí puede convertirse en una solución valiosa. En este sentido, las entrevistas no solo confirman la relevancia de la hipótesis general, sino que también muestran cuáles son las condiciones operativas concretas para que esa hipótesis se sostenga en la práctica.
 
 ## 4.9 La importancia del orden narrativo dentro del producto
 No da igual cómo se presenta HabitatIA al usuario. El orden del recorrido puede cambiar de manera sustancial la percepción de valor. Si el producto empieza mostrando un render muy atractivo pero tarda demasiado en conectar eso con decisiones concretas, puede quedar atrapado en una lógica aspiracional. Si, por el contrario, empieza demasiado rápido por materiales y presupuesto sin generar primero una imagen clara del proyecto, podría volverse árido o excesivamente técnico. El diseño del flujo debería encontrar un equilibrio entre motivación, comprensión y decisión.
