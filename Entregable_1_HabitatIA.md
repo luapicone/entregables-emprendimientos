@@ -232,22 +232,14 @@ Validar no es demostrar que la idea “suena bien”. Tampoco es recopilar opini
 - reconocer qué hipótesis deben revisarse antes de escalar.
 
 ## 3.3 Hipótesis principales del proyecto a validar
-### 3.3.1 Hipótesis sobre claridad y visualización
-Se asume como hipótesis razonable que los usuarios valorarán una propuesta que les permita visualizar su vivienda y entender mejor su proyecto antes de contratar etapas más costosas o complejas.
 
-### 3.3.2 Hipótesis sobre costos y materiales
-Se asume que una estimación preliminar de materiales y costos será percibida como una herramienta útil para ordenar expectativas, aun sabiendo que no reemplaza una documentación técnica final.
+Los datos recolectados en el proceso de customer discovery permiten reformular esta sección en base a evidencia empírica. En el segmento de particulares y familias, el principal hallazgo es que la incertidumbre presupuestaria y el riesgo de sobrecostos imprevistos aparecen de forma reiterada como el dolor más crítico al momento de avanzar en un proyecto de vivienda. Junto con eso, también se repite la dificultad para definir con precisión cantidades y tipos de materiales, lo que refuerza la necesidad de una herramienta que conecte diseño, cómputo orientativo y presupuesto preliminar dentro de un mismo flujo.
 
-### 3.3.3 Hipótesis sobre ahorro potencial
-Se plantea como hipótesis que la posibilidad de detectar ahorro real mediante el marketplace aumentará el valor percibido del producto.
+Las respuestas también muestran que la confianza es un factor decisivo para cualquier propuesta de marketplace de materiales sobrantes. Los particulares no expresan interés automático por comprar este tipo de materiales solo por un posible ahorro, sino que condicionan ese interés a la existencia de fotos reales, perfiles verificados, reputación visible, garantías, políticas de devolución, protección al comprador y transparencia logística. Por lo tanto, la hipótesis de ahorro potencial se sostiene solo cuando está acompañada por mecanismos claros de reducción de riesgo.
 
-### 3.3.4 Hipótesis sobre adopción del marketplace
-Se presupone que profesionales con excedentes verán valor en un canal más ordenado y contextualizado para publicar materiales sobrantes, siempre que el proceso sea simple y creíble.
+Del lado profesional, la validación confirma que sí existe una oportunidad vinculada a la publicación de excedentes, pero no bajo cualquier condición. Los arquitectos y constructores muestran interés cuando la plataforma les permite recuperar capital, liberar espacio, evitar descarte y resolver un problema logístico concreto. Sin embargo, ese interés cae si el proceso exige carga administrativa alta, coordinación manual excesiva o tiempos inciertos. Esto confirma que la adopción del marketplace depende de una operatoria extremadamente simple, idealmente de menos de un minuto o con una carga moderada únicamente si la venta rápida está razonablemente garantizada.
 
-### 3.3.5 Hipótesis sobre diferenciación
-Se parte del supuesto de que la integración entre visualización, cálculo preliminar y marketplace será percibida como una experiencia más potente que soluciones parciales separadas.
-
-Estas hipótesis deben presentarse como supuestos de trabajo razonables, no como resultados ya comprobados.
+Finalmente, la integración entre visualización, claridad presupuestaria y materiales no aparece como un supuesto abstracto, sino como una necesidad concreta en parte de las respuestas más alineadas con la propuesta HabitatIA. Algunos encuestados valoran explícitamente una solución que una render, plano, presupuesto, materiales y optimización económica. En consecuencia, la hipótesis de diferenciación por integración encuentra sustento, aunque no de forma universal, sino especialmente entre usuarios que hoy sienten que les falta una herramienta para ordenar decisiones iniciales y traducir aspiraciones en una propuesta viable.
 
 ## 3.4 Metodologías recomendadas de customer discovery
 ### 3.4.1 Entrevistas cualitativas en profundidad
@@ -282,22 +274,24 @@ Dado que HabitatIA puede comunicarse desde diferentes ángulos, conviene validar
 
 ## 3.5 Buyer personas prioritarias
 ### 3.5.1 Familia que proyecta su primer hogar
-Esta buyer persona representa a un hogar que no solo necesita una vivienda, sino también una forma de tomar mejores decisiones respecto de ella. Suele tratarse de personas que cargan con una mezcla de ilusión y temor. Ilusión porque construir la primera vivienda propia implica una transformación profunda en su vida. Temor porque el proceso se percibe como costoso, técnico y difícil de controlar.
+Los resultados confirman que este perfil efectivamente concentra una parte importante de los dolores que HabitatIA intenta resolver. En las respuestas aparecen de forma repetida la angustia por no saber si el presupuesto alcanzará hasta el final, la dificultad para calcular materiales con precisión, el miedo a sobrecostos semanales y la sensación de comprar de más o de menos. También surge una necesidad fuerte de respaldo y seguridad: perfiles verificados, pasarelas de pago conocidas, protección al comprador, comentarios reales, fotos auténticas, políticas de devolución y claridad sobre fletes y gastos ocultos.
 
-Desde el punto de vista estratégico, esta buyer persona valora especialmente la posibilidad de reducir opacidad. No necesariamente espera exactitud absoluta ni reemplazo total del trabajo profesional. Lo que sí necesita es un primer marco que ordene. Quiere saber qué tan lejos o cerca está su proyecto, qué tipo de vivienda podría pensar, cuánto material requeriría y qué decisiones deberían priorizarse.
+Este buyer persona no busca solo inspiración visual. Busca control, previsibilidad y una forma más segura de decidir. Cuando aparece interés por una plataforma de este tipo, el valor se activa si la herramienta puede ayudar a traducir una intención habitacional en algo económicamente comprensible, con lenguaje simple y señales visibles de confianza.
 
 ### 3.5.2 Usuario con terreno propio
-Este perfil tiene una característica que lo vuelve particularmente interesante: cuenta con una base material concreta para avanzar. El terreno actúa como disparador de decisión. En muchos casos, la postergación ya no se debe a la imposibilidad absoluta de imaginar el proyecto, sino a la dificultad para estructurarlo. La persona sabe que tiene una oportunidad, pero no logra definir con precisión cómo capitalizarla.
+Aunque el formulario no segmenta explícitamente cuántos casos pertenecen a personas con terreno ya disponible, sí aparecen respuestas compatibles con este perfil: usuarios que sienten que tienen una oportunidad concreta de avanzar, pero no logran ordenar el proceso, visualizar el resultado final o confirmar si su idea es viable en términos económicos y materiales. En estos casos, el problema ya no es solo el deseo de construir, sino la dificultad para transformar esa posibilidad en una secuencia clara de decisiones.
 
-Para este segmento, HabitatIA puede ser especialmente potente porque reduce la distancia entre la oportunidad y la decisión. Una persona con terreno necesita más que inspiración: necesita una traducción rápida y comprensible de posibilidades. La plataforma puede darle una primera estructura y eso, por sí solo, puede acelerar mucho el proceso de maduración del proyecto.
+Para este perfil, el valor potencial de HabitatIA aparece asociado a la posibilidad de unir plano orientativo, visualización, cómputo preliminar, comparación de alternativas y lectura presupuestaria, todo en un mismo recorrido. La necesidad dominante no es decorativa, sino estructural: entender qué se puede hacer, con qué alcance y bajo qué restricciones.
 
 ### 3.5.3 Arquitecto o estudio con materiales sobrantes
-Este actor no mira HabitatIA desde el mismo lugar que el usuario residencial. Su criterio es más operativo. Va a evaluar si la plataforma le ahorra tiempo, si le abre una salida económica plausible y si conserva un estándar razonable de profesionalismo. No suele tener incentivos para sostener procesos complejos de publicación si no percibe demanda relevante.
+Las respuestas del segmento profesional muestran un patrón muy claro. El problema no es conceptual ni aspiracional, sino logístico y económico. Los materiales sobrantes suelen quedar inmovilizados, perder valor, estropearse a la intemperie, ocupar espacio en obra o depósito, mezclarse con escombros, generar costos extra de flete o terminar regalados o descartados. Este perfil sí reconoce valor en una solución, pero solo si le resuelve un problema concreto con baja fricción operativa.
 
-Para esta buyer persona, la plataforma debe demostrar que entiende el mundo de obra real. El profesional no necesita una propuesta aspiracional; necesita una solución concreta a un problema cotidiano: cómo monetizar mejor materiales que hoy quedan detenidos. Además, puede valorar la posibilidad de vincular esa monetización con una narrativa de eficiencia y sostenibilidad, siempre que el canal sea serio.
+Lo que más motiva a este buyer persona es recuperar liquidez, liberar espacio, evitar desperdicio y sacarse rápidamente un problema de encima. Lo que más lo aleja es la carga administrativa, los regateos informales, la coordinación logística manual y los posibles reclamos posteriores. Por eso, para este perfil la plataforma debe ser simple, rápida y seria. El umbral de tolerancia es bajo: en muchos casos solo aceptarían un proceso mínimo o moderado si la venta rápida está bastante asegurada.
 
 ### 3.5.4 Pequeño constructor orientado a eficiencia
-Este perfil se mueve con una lógica de eficiencia. Suele valorar velocidad, oportunidad y practicidad. Si encuentra una herramienta que le permite identificar alternativas, entender mejor ciertos costos o detectar ahorro en materiales, puede verla como una ventaja competitiva. Sin embargo, su tolerancia a la fricción operativa será baja. El valor debe ser claro desde el inicio.
+Dentro del segmento profesional aparecen también respuestas compatibles con una lógica de eficiencia operativa. Son perfiles que miden el valor de una herramienta según cuánto tiempo les ahorra, cuánto capital recupera y cuánto problema logístico elimina. No priorizan una narrativa aspiracional, sino una solución concreta, rápida y económicamente razonable. Si la plataforma exige esfuerzo y no devuelve agilidad, pierden interés.
+
+Este buyer persona puede encontrar valor en HabitatIA si la herramienta reduce fricción y convierte sobrantes o compras ineficientes en decisiones más ordenadas. Sin embargo, no adopta por curiosidad tecnológica, sino por conveniencia operativa verificable.
 
 ## 3.5 Riesgos de validación a evitar
 ### 3.5.1 Buscar confirmación complaciente
@@ -309,19 +303,18 @@ Es posible que la inteligencia artificial despierte curiosidad, pero eso no impl
 ### 3.5.3 Confundir interés aspiracional con disposición a pagar
 En proyectos vinculados a vivienda, puede existir alto interés conceptual y baja disposición a financiar determinadas etapas. Ese punto necesita exploración específica.
 
-## 3.6 Qué preguntas de entrevista serían estratégicamente útiles
-En una fase real de customer discovery, algunas preguntas podrían resultar especialmente reveladoras. No como guion cerrado, sino como orientación metodológica:
+## 3.6 Qué preguntas de entrevista fueron estratégicamente más útiles
+A la luz de los resultados obtenidos, puede afirmarse que varias de las preguntas del formulario fueron especialmente útiles para revelar no solo opiniones generales, sino también tensiones concretas del proceso de decisión.
 
-- ¿Qué fue lo más difícil la última vez que intentaste avanzar en un proyecto de vivienda?
-- ¿En qué momento sentiste que te faltaba información o claridad?
-- ¿Qué cosas necesitás entender antes de sentirte listo para avanzar?
-- ¿Qué te genera más desconfianza cuando pensás en construir?
-- ¿Qué haría que una herramienta digital te pareciera seria y útil?
-- ¿Qué debería mostrarte una plataforma para que sientas que vale la pena usarla?
-- ¿Qué objeciones tendrías frente a materiales sobrantes, incluso si el precio fuera conveniente?
-- Si terminaras una obra con excedentes, ¿qué te haría publicar esos materiales o no hacerlo?
+La pregunta sobre qué fue lo más difícil la última vez que intentaron avanzar en un proyecto de vivienda permitió identificar con mucha claridad el núcleo del dolor en particulares y familias. Allí aparecieron repetidamente problemas vinculados a sobrecostos, cálculo inexacto de materiales, incertidumbre de precios, dificultad para comparar opciones, logística de reposición y falta de control sobre el presupuesto total. Esta pregunta fue clave porque no empujó al encuestado a opinar sobre la idea, sino a describir una dificultad vivida.
 
-Estas preguntas son valiosas porque apuntan a comportamiento, percepción de riesgo y condiciones de confianza, tres dimensiones centrales del proyecto.
+También resultó muy útil la pregunta sobre en qué momento sintieron que les faltó información o claridad. Gracias a ella se detectó que la falta de claridad se concentra, sobre todo, en tres momentos: al calcular costos y presupuesto, al definir cantidad y tipo de materiales, y al intentar visualizar o comparar alternativas de construcción. Esto permite ubicar con mayor precisión dónde debería intervenir HabitatIA para tener valor real.
+
+La pregunta acerca de qué necesitan entender o confirmar antes de sentirse listos para avanzar aportó una capa metodológica muy importante. Las respuestas muestran que los usuarios no solo necesitan información técnica, sino confirmaciones psicológicas y operativas: saber cuánto les va a salir, validar que el material sirve, entender fletes, confirmar stock, visualizar el resultado, asegurar formas de pago seguras o contar con respaldo frente a problemas. Esta pregunta ayudó a distinguir entre necesidad informativa y necesidad de confianza.
+
+Otra de las preguntas más valiosas fue la referida a qué debería mostrar una plataforma para parecer seria y valer la pena. Allí emergen de forma muy consistente los elementos concretos de credibilidad: fotos reales, perfiles verificados, reputación, comentarios de usuarios, diseño profesional, claridad en precios, protección al comprador, políticas de devolución, pasarelas de pago reconocidas, historial de precios, soporte, filtros por ubicación, seguimiento logístico y evidencia de que la plataforma no está abandonada o llena de publicaciones fantasma. Esta información es especialmente útil porque traduce la idea de “confianza” en funcionalidades observables.
+
+Del lado profesional, fueron particularmente útiles las preguntas sobre qué sucede con los materiales excedentes, qué motivaría a publicarlos, qué nivel de carga administrativa tolerarían, cuál es el principal dolor de cabeza logístico y qué factor les preocupa más respecto a tiempo o reputación. Estas preguntas permitieron confirmar que el problema del excedente existe, pero que no se activa automáticamente una disposición a publicar. La motivación aparece cuando hay liquidez, rapidez, liberación de espacio y solución logística; la resistencia aparece cuando hay que dedicar tiempo, describir demasiado, coordinar fletes o lidiar con compradores informales. En términos de validación, estas preguntas fueron esenciales porque permitieron pasar del supuesto general al criterio operativo real de adopción.
 
 ## 3.6 Buyer personas ampliados
 ### 3.6.1 Buyer persona A, familia primer hogar
