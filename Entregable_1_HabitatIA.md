@@ -14,6 +14,27 @@
 
 # Entregable 1, HabitatIA
 
+## Elevator Pitch
+HabitatIA parte de un problema concreto: muchas personas quieren construir o ampliar su vivienda, pero se frenan en una etapa inicial marcada por incertidumbre presupuestaria, falta de claridad sobre materiales y dificultad para transformar una idea en una propuesta entendible. A esa fricción se suma otra ineficiencia del sector: en muchas obras quedan materiales sobrantes con valor de uso que terminan inmovilizados, mal vendidos o directamente desperdiciados.
+
+La propuesta combina ambas puntas en una sola experiencia. Por un lado, una plataforma asistida por inteligencia artificial que toma datos simples del usuario y los convierte en una propuesta preliminar de vivienda con visualización, plano orientativo, cómputo estimado y lectura inicial de costos. Por otro, un marketplace de materiales sobrantes que cruza las necesidades del proyecto con oferta reutilizable para detectar oportunidades concretas de ahorro.
+
+El modelo de negocio se apoya en una lógica por fases: una capa premium para usuarios que necesitan mayor profundidad en la propuesta y una comisión sobre transacciones del marketplace cuando la plataforma efectivamente conecta oferta y demanda. Así, HabitatIA organiza la decisión inicial de construir, reduce incertidumbre y agrega una vía económica basada en reutilización y eficiencia.
+
+## Informe Ejecutivo
+
+*A desarrollar en el Entregable 2.*
+
+<div style="page-break-after: always;"></div>
+
+*A desarrollar en el Entregable 2.*
+
+<div style="page-break-after: always;"></div>
+
+*A desarrollar en el Entregable 2.*
+
+<div style="page-break-after: always;"></div>
+
 ## Índice
 1. Contexto e introducción  
 2. Problema, segmento y oportunidad  
@@ -54,17 +75,29 @@ El sector de la construcción presenta, además, un problema adicional que ampl�
 En ese contexto, la propuesta de incorporar un marketplace dentro del ecosistema HabitatIA no debe leerse como un accesorio o un agregado oportunista. Es una extensión lógica del problema que el proyecto busca resolver. Si la plataforma ya ayuda a identificar qué materiales serían necesarios para una vivienda determinada, entonces también está en condiciones de detectar si parte de esos materiales puede conseguirse a menor precio dentro de una red de sobrantes reutilizables. Esa conexión entre proyecto y ahorro potencial es una de las palancas de valor más claras de la propuesta.
 
 ## 1.5 Relevancia contemporánea de HabitatIA
-La relevancia de HabitatIA puede leerse en la convergencia de varias tendencias contemporáneas:
+La relevancia de HabitatIA puede leerse en la convergencia de varias tendencias contemporáneas.
 
-- mayor necesidad de soluciones habitacionales económicamente previsibles;
-- crecimiento del interés por herramientas digitales de autoorientación;
-- mayor sensibilidad frente al desperdicio y la sostenibilidad;
-- madurez tecnológica suficiente para integrar visualización, personalización y cálculo preliminar;
-- necesidad de nuevas experiencias de compra y decisión en sectores tradicionalmente opacos.
+### 1.5.1 Tendencias demográficas y culturales
+La necesidad de soluciones habitacionales económicamente previsibles sigue creciendo en hogares que necesitan construir, ampliar o reorganizar su vivienda con mayor claridad. Al mismo tiempo, cambia la expectativa del usuario frente a decisiones complejas: cada vez hay más demanda de herramientas que ayuden a ordenar información, reducir incertidumbre y dar un primer paso con mayor autonomía.
 
-HabitatIA aparece, entonces, como una propuesta que no solo responde a una necesidad puntual, sino que se inserta en un cambio más amplio en la forma de tomar decisiones complejas. Su oportunidad estratégica no deriva únicamente de la originalidad de la idea, sino de su alineación con problemas persistentes y con expectativas actuales del usuario.
+### 1.5.2 Tendencias tecnológicas
+La madurez tecnológica ya permite integrar visualización, personalización y cálculo preliminar dentro de una misma experiencia. También crece el interés por herramientas digitales de autoorientación capaces de traducir necesidades dispersas en propuestas más comprensibles y accionables.
 
-## 1.6 Idea fuerza del proyecto
+### 1.5.3 Tendencias de la industria y mercado
+El sector muestra una mayor sensibilidad frente al desperdicio, la sostenibilidad y la necesidad de experiencias de compra y decisión menos opacas. En ese marco, la reutilización de materiales y la organización de canales más eficientes para conectar oferta y demanda ganan relevancia económica y operativa.
+
+HabitatIA se inserta en ese cruce entre necesidad habitacional, digitalización de la experiencia y búsqueda de mayor eficiencia en el uso de recursos.
+
+## 1.6 Objetivos de Desarrollo Sostenible involucrados
+HabitatIA se vincula de forma directa con tres Objetivos de Desarrollo Sostenible.
+
+**ODS 11, Ciudades y comunidades sostenibles.** La plataforma mejora el acceso a una planificación habitacional más eficiente y ordenada, con herramientas que ayudan a tomar decisiones iniciales con mayor claridad.
+
+**ODS 12, Producción y consumo responsables.** El marketplace fomenta una lógica de economía circular al promover la reutilización de materiales de obra que de otro modo podrían quedar inmovilizados o desperdiciados.
+
+**ODS 9, Industria, innovación e infraestructura.** HabitatIA digitaliza y moderniza una parte de los procesos de la industria de la construcción, especialmente en la etapa de preplanificación, comparación y organización de información.
+
+## 1.7 Idea fuerza del proyecto
 La idea fuerza que organiza este documento es que HabitatIA busca volver más accesible, transparente y económicamente viable la etapa inicial de planificación de una vivienda, conectando personalización asistida por inteligencia artificial con ahorro potencial derivado de una lógica de reutilización de materiales. Esta formulación resulta relevante porque evita reducir el proyecto a un simple “generador de renders”. El render es uno de los componentes de valor, pero no el único ni el principal. El núcleo del proyecto está en reducir la distancia entre una aspiración habitacional y una decisión informada.
 
 
@@ -357,6 +390,27 @@ Del lado profesional, fueron particularmente útiles las preguntas sobre qué su
 
 **Qué valora de HabitatIA según entrevistas.** Simplicidad operativa, rapidez, mínima carga de publicación, compradores serios, recuperación de capital y menor desgaste logístico.
 
+## 3.6 Mapa de empatía por segmento
+Como complemento del análisis de validación, conviene insertar un gráfico de **Mapa de Empatía** para cada uno de los dos grandes segmentos del proyecto: **Particular** y **Profesional**. El gráfico puede incorporarse como imagen o esquema visual dentro del entregable, pero debería estar acompañado por una lectura breve que ordene qué ve, qué oye, qué piensa y siente cada perfil frente al proceso de construcción.
+
+### 3.6.1 Mapa de empatía del segmento particular
+**Instrucción para insertar gráfico.** Incorporar aquí el gráfico del **Mapa de Empatía del segmento particular**.
+
+**Qué ve.** Ve precios que cambian, referencias dispersas, publicaciones poco claras, imágenes aspiracionales que no siempre se conectan con su presupuesto y un proceso que parece más complejo de lo que imaginaba.
+
+**Qué oye.** Escucha recomendaciones cruzadas de familiares, conocidos, corralones, albañiles y profesionales, muchas veces con criterios distintos entre sí. También oye advertencias sobre sobrecostos, errores de cálculo, demoras y riesgos de comprar mal.
+
+**Qué piensa y siente.** Piensa en cómo avanzar sin equivocarse, cómo evitar gastos imprevistos y cómo transformar una intención de vivienda en algo viable. Siente ilusión por construir, pero también ansiedad, desorientación y temor a comprometer recursos en decisiones poco claras.
+
+### 3.6.2 Mapa de empatía del segmento profesional
+**Instrucción para insertar gráfico.** Incorporar aquí el gráfico del **Mapa de Empatía del segmento profesional**.
+
+**Qué ve.** Ve materiales sobrantes que ocupan espacio, pierden valor o generan desorden operativo. Ve también canales de venta informales, compradores poco serios y procesos que consumen tiempo sin garantizar salida rápida.
+
+**Qué oye.** Escucha pedidos de precios, negociaciones desgastantes, consultas poco precisas y reclamos logísticos. También oye la presión cotidiana por cerrar obra, liberar stock y reducir pérdidas sin sumar más carga administrativa.
+
+**Qué piensa y siente.** Piensa en recuperar capital, liberar espacio y resolver el excedente con rapidez. Siente frustración cuando el material queda inmovilizado, desgaste cuando vender implica demasiado esfuerzo y cautela frente a cualquier canal que pueda generar más problema que solución.
+
 ## 3.7 Qué tipo de validación sería engañosa
 Los resultados obtenidos permiten reafirmar que hay señales que no conviene sobreinterpretar. Por ejemplo, que una persona valore la idea general de ahorrar o reutilizar materiales no implica automáticamente que esté dispuesta a comprar online materiales sobrantes. De hecho, en varias respuestas aparecen resistencias explícitas: preferencia por el corralón, desconfianza hacia páginas nuevas, necesidad de tocar el material en persona o dudas respecto a garantías formales.
 
@@ -519,6 +573,9 @@ HabitatIA no dependería de un único modelo de inteligencia artificial, sino de
 A partir de esa base estructurada, el sistema podría activar un motor de reglas y parametrización arquitectónica encargado de convertir la intención del usuario en una tipología preliminar consistente. Así se evita depender por completo de una IA “creativa” y se incorporan lógica de negocio y criterios mínimos de coherencia espacial y presupuestaria. La capa visual, por su parte, podría resolverse con modelos generativos de imagen, por ejemplo modelos de difusión integrados por API, similares a los utilizados por herramientas del tipo Stable Diffusion o Midjourney, ajustados a prompts construidos desde la información estructurada del proyecto.
 
 La capa de cómputo y presupuesto tampoco debería surgir solo de texto libre, sino de una combinación entre base de datos de materiales, reglas de estimación y procesamiento con modelos de lenguaje. El LLM puede ayudar a interpretar y organizar el pedido, pero el presupuesto preliminar y la lista de materiales ganan solidez cuando se apoyan en tablas, equivalencias, coeficientes y lógica determinística. Finalmente, el marketplace actuaría como una capa de matching que compara ese JSON de materiales requeridos con publicaciones disponibles para detectar oportunidades concretas de ahorro. La IA queda integrada a una arquitectura funcional donde lenguaje, imagen, reglas y datos estructurados cumplen roles distintos y complementarios.
+
+### 4.4.8 Aproximación inicial del equipo y expertise necesario
+La primera etapa del proyecto requiere un equipo con capacidades complementarias. **Ingeniería e IA** para desarrollar los modelos de visualización, procesamiento de entradas y estructuración de salidas. **Arquitectura o perfil técnico** para validar reglas de cómputo métrico, consistencia espacial y criterios de materiales. **Comercial B2B** para captar estudios, arquitectos y constructoras que puedan poblar el marketplace con oferta relevante y operativamente viable.
 
 ## 4.5 Alcance razonable en una primera etapa
 La primera etapa de HabitatIA debería concentrarse en una experiencia acotada y útil. No necesita resolver la documentación ejecutiva ni la dirección de obra, ni transformarse de inmediato en una plataforma integral de construcción. Le alcanza con resolver bien la preplanificación.
@@ -696,7 +753,21 @@ La propuesta de valor también puede ser recordada con facilidad. En mercados do
 ## 5.22 Propuesta de valor y legitimidad del ahorro
 No cualquier promesa de ahorro resulta creíble en un sector tan sensible como construcción. Para que el ahorro sea legítimo, debe aparecer conectado con una lógica concreta. HabitatIA puede fortalecer mucho su propuesta si muestra que el ahorro no proviene de una promesa vacía, sino de un mejor ordenamiento del proyecto y de la posibilidad de identificar materiales reutilizables pertinentes. Esa legitimidad transforma una promesa comercial en una ventaja defendible.
 
-## 5.23 La claridad como beneficio competitivo de largo plazo
+## 5.23 Value Proposition Canvas
+Como complemento de la propuesta de valor, conviene incorporar aquí el esquema visual del **Value Proposition Canvas** para mostrar con claridad la relación entre trabajos del cliente, dolores, ganancias y respuesta de HabitatIA.
+
+**Referencia para insertar esquema visual.** Incorporar en este punto el gráfico del **Value Proposition Canvas de HabitatIA**.
+
+### 5.23.1 Jobs to be done
+En el segmento particular, el trabajo principal consiste en transformar una intención de vivienda en una decisión inicial más clara: entender qué podría construirse, con qué materiales, con qué costo aproximado y bajo qué restricciones. En el segmento profesional, el trabajo principal pasa por resolver la salida de materiales excedentes de forma rápida, ordenada y con el menor desgaste operativo posible.
+
+### 5.23.2 Pains, dolores del cliente
+En particulares y familias, los dolores aparecen en la incertidumbre presupuestaria, el miedo a sobrecostos, la dificultad para calcular materiales, la falta de referencias confiables y la desconfianza frente a canales poco transparentes. En profesionales, los dolores se concentran en el stock inmovilizado, la pérdida de valor del material, la ocupación de espacio, la carga administrativa de publicar y la fricción logística o comercial de vender por canales informales.
+
+### 5.23.3 Gains, ganancias esperadas
+El cliente particular espera ganar claridad, previsibilidad, una base más segura para decidir y una oportunidad real de ahorro. El cliente profesional espera recuperar capital, liberar espacio, reducir desperdicio y encontrar una salida más eficiente para sus excedentes. En ambos casos, la ganancia también pasa por reducir fricción y mejorar la calidad de la decisión.
+
+## 5.24 La claridad como beneficio competitivo de largo plazo
 En muchos proyectos digitales, la claridad se trata como algo comunicacional. En HabitatIA podría convertirse en un beneficio competitivo de largo plazo. Si el producto realmente ayuda a clarificar una etapa opaca del proceso habitacional, esa experiencia de claridad puede ser tan valiosa como cualquier funcionalidad puntual. En ese sentido, la claridad no es solo parte de la propuesta. Puede ser su núcleo más durable.
 
 ---
@@ -971,7 +1042,19 @@ En algunos casos, pueden resolver una parte del problema económico, pero no aco
 ## 8.3 Variables clave de comparación
 Para analizar el posicionamiento de HabitatIA conviene mirar algunas variables concretas: **grado de personalización, accesibilidad económica de entrada, claridad presupuestaria, experiencia digital integrada, capacidad de generar ahorro aplicable, incorporación de sostenibilidad y facilidad de uso para no especialistas**. Esa combinación permite comparar no solo funcionalidades, sino también calidad de experiencia y pertinencia real para el usuario.
 
-## 8.4 Dónde puede diferenciarse HabitatIA
+## 8.4 Mapa comparativo de atributos
+Una forma clara de ubicar a HabitatIA dentro del entorno competitivo es cruzar los principales tipos de competidor con cuatro atributos centrales: **accesibilidad, personalización, criterio económico y circularidad**.
+
+| Actor / atributo | Accesibilidad | Personalización | Criterio económico | Circularidad |
+|---|---|---|---|---|
+| **HabitatIA** | Alta | Alta | Alta | Alta |
+| **Estudios tradicionales** | Baja | Alta | Media | Baja |
+| **Apps de renders / inspiración** | Alta | Media | Baja | Baja |
+| **Marketplaces de materiales** | Media | Baja | Media | Media |
+
+La lectura del mapa muestra una posición diferencial clara. **Los estudios tradicionales** concentran profundidad técnica y personalización, pero con una barrera de entrada más alta. **Las apps de renders** ofrecen acceso rápido y atractivo visual, aunque con poco criterio económico y sin una lógica de circularidad. **Los marketplaces** resuelven parte de la transacción, pero sin suficiente personalización ni conexión directa con el proyecto habitacional. **HabitatIA** ocupa el cruce entre accesibilidad, personalización, lectura económica y reutilización de materiales dentro de una misma experiencia.
+
+## 8.5 Dónde puede diferenciarse HabitatIA
 ### 8.4.1 Integración de experiencia
 Este es probablemente su diferencial más fuerte. La propuesta integra visualización, plano, materiales, presupuesto y ahorro potencial en un mismo recorrido.
 
@@ -1164,7 +1247,12 @@ Avanzar sobre premium, comisiones, publicaciones destacadas o servicios compleme
 ### 9.6.5 Retención y recomendación
 Buscar que la experiencia genere satisfacción, confianza y disposición a recomendar o a reutilizar la plataforma.
 
-## 9.7 Mensajes clave por segmento
+## 9.7 Branding
+La identidad de marca de HabitatIA debe transmitir orden, claridad y confianza desde el primer contacto. El tono conviene que sea **asertivo, pedagógico y confiable**: asertivo para comunicar valor sin ambigüedad, pedagógico para explicar un proceso complejo sin volverlo técnico en exceso, y confiable para sostener una relación seria en una categoría donde el error percibido tiene mucho peso.
+
+La identidad visual debería reforzar esa lógica. El sistema de marca necesita inspirar **orden, transparencia y legibilidad**, evitando códigos visuales recargados o demasiado aspiracionales que puedan desconectarse de la función práctica del producto. En HabitatIA, branding y experiencia no deberían ir por carriles separados. La marca también cumple un papel en la construcción de confianza comercial.
+
+## 9.8 Mensajes clave por segmento
 ### Para el usuario final
 "Entendé mejor qué vivienda podés construir y cuánto podría costarte antes de avanzar a ciegas."
 
@@ -1174,24 +1262,24 @@ Buscar que la experiencia genere satisfacción, confianza y disposición a recom
 ### Para pequeños constructores
 "Encontrá información útil y oportunidades de ahorro para optimizar decisiones de obra."
 
-## 9.8 Estrategia inicial recomendada
+## 9.9 Estrategia inicial recomendada
 Una estrategia inicial realista debería concentrarse en:
 - segmentos con mayor urgencia y claridad de problema;
 - demostraciones de valor concretas;
 - generación de primeras historias de uso;
 - activación de una oferta inicial de materiales suficientemente confiable.
 
-## 9.9 Riesgos del plan comercial
+## 9.10 Riesgos del plan comercial
 Entre los principales riesgos comerciales se encuentran:
 - comunicar demasiado desde la novedad tecnológica y poco desde el valor práctico;
 - captar usuarios curiosos pero no relevantes;
 - sobredimensionar la promesa del marketplace antes de consolidar oferta;
 - no dedicar suficiente esfuerzo a la construcción de confianza.
 
-## 9.10 Conclusión comercial
+## 9.11 Conclusión comercial
 El plan comercial de HabitatIA debe ser gradual, pedagógico y orientado a construir legitimidad. No se trata solo de llevar tráfico al sitio, sino de hacer que la propuesta sea comprendida, percibida como útil y adoptada por los segmentos correctos. En un proyecto de esta naturaleza, la calidad de la tracción inicial puede ser más importante que su volumen bruto.
 
-## 9.11 Go to market por fases
+## 9.12 Go to market por fases
 El plan comercial puede ordenarse en una secuencia por fases que permita reducir riesgo y acumular aprendizaje.
 
 ### 9.11.1 Fase 1, validación inicial con foco en captación cualificada
@@ -1206,7 +1294,7 @@ Una vez que el flujo principal se perciba como valioso, conviene potenciar el ma
 ### 9.11.4 Fase 4, expansión por alianzas
 Con una propuesta más madura, HabitatIA podría comenzar a formalizar acuerdos con actores del ecosistema físico, como corralones, proveedores, estudios y organizaciones vinculadas al hábitat.
 
-## 9.12 Lógica de confianza comercial
+## 9.13 Lógica de confianza comercial
 HabitatIA necesita construir una confianza de doble cara.
 
 ### 9.12.1 Confianza del usuario final
@@ -1215,19 +1303,19 @@ Debe sentir que la plataforma no está simplificando en exceso un problema serio
 ### 9.12.2 Confianza del profesional oferente
 Debe percibir que publicar materiales no implica una carga operativa excesiva y que existe una oportunidad real de conexión con demanda relevante.
 
-## 9.13 Métricas comerciales iniciales sugeridas
+## 9.14 Métricas comerciales iniciales sugeridas
 Para gestionar el plan comercial con criterio, podrían definirse indicadores iniciales tales como tasa de inicio y finalización del formulario, porcentaje de usuarios que visualizan el presupuesto completo, tasa de usuarios que consultan el ahorro potencial, cantidad de materiales publicados por oferente, porcentaje de publicaciones con consulta o interés, costo de adquisición por lead relevante y tasa de activación de usuarios que completan la experiencia principal.
 
-## 9.14 La dimensión pedagógica del plan comercial
+## 9.15 La dimensión pedagógica del plan comercial
 HabitatIA no se comercializa solamente con anuncios. También necesita una dimensión pedagógica. El usuario debe entender por qué el producto le sirve, qué problema le resuelve y qué puede esperar de la experiencia. Por ese motivo, el contenido, las demos y la comunicación explicativa no deben tratarse como elementos accesorios, sino como piezas centrales del go to market.
 
-## 9.15 Posibles alianzas con capacidad de legitimación
+## 9.16 Posibles alianzas con capacidad de legitimación
 Más allá de aliados comerciales clásicos, también convendría explorar actores con capacidad de legitimación narrativa. Organizaciones vinculadas a vivienda, hábitat, economía circular o innovación social podrían convertirse en una capa adicional de credibilidad. No necesariamente como socios operativos inmediatos, pero sí como referencias que fortalezcan el posicionamiento del proyecto.
 
-## 9.16 Secuencia de adquisición más razonable
+## 9.17 Secuencia de adquisición más razonable
 Una secuencia comercial madura podría ser atraer con una promesa de claridad y personalización, convertir mostrando visualización y presupuesto preliminar, retener ampliando el valor mediante comparación, variantes y ahorro, monetizar cuando el usuario ya percibe utilidad suficiente y recomendar cuando la experiencia haya logrado generar alivio real frente a la incertidumbre inicial.
 
-## 9.17 Profundización del embudo comercial desde el punto de vista del usuario
+## 9.18 Profundización del embudo comercial desde el punto de vista del usuario
 Desde la óptica del usuario final, el embudo no debe pensarse como un túnel de venta, sino como un proceso de ganancia de confianza.
 
 ### 9.17.1 Etapa de descubrimiento
@@ -1247,10 +1335,10 @@ Está en condiciones de decidir si profundiza el uso, vuelve, recomienda o avanz
 
 Esta lectura mejora la calidad del plan comercial porque evita tratar al usuario como un simple lead y lo ubica como alguien que necesita atravesar un proceso real de comprensión y evaluación.
 
-## 9.18 Posible estrategia de contenidos por momentos del journey
+## 9.19 Posible estrategia de contenidos por momentos del journey
 Los contenidos podrían estructurarse según distintos momentos del recorrido del usuario: contenidos de descubrimiento, por qué construir es difícil de planificar y cómo ordenarlo mejor; contenidos de consideración, qué mirar en una propuesta preliminar de vivienda; contenidos de decisión, cómo interpretar materiales, costos y ahorro potencial; y contenidos de legitimación, diferencias entre una referencia aspiracional y una herramienta que ayuda a decidir. Esta arquitectura de contenidos reforzaría la coherencia entre marketing y producto.
 
-## 9.19 Expansión del plan comercial, lógica de adquisición y crecimiento
+## 9.20 Expansión del plan comercial, lógica de adquisición y crecimiento
 El plan comercial de HabitatIA debería pensarse más como una construcción de mercado que como una simple ejecución de marketing. La categoría aún requiere pedagogía, legitimación y pruebas de valor. Esto significa que la estrategia comercial no puede basarse solo en captar usuarios, sino en construir condiciones para que esos usuarios comprendan, prueben y recomienden la propuesta.
 
 ### 9.19.1 Construcción de demanda informada
@@ -1265,7 +1353,7 @@ En categorías sensibles como vivienda, la conversión tiene más chances de sos
 ### 9.19.4 Retención basada en utilidad progresiva
 La retención no debería depender solo de notificaciones o recordatorios. Tendrá más sentido si el producto ofrece nuevas capas de valor a medida que el usuario avanza, por ejemplo variantes, comparaciones, nuevas oportunidades de ahorro o nuevas formas de organizar su proyecto.
 
-## 9.20 Estrategia de contenidos ampliada
+## 9.21 Estrategia de contenidos ampliada
 La estrategia de contenidos puede expandirse mucho más y volverse uno de los activos más fuertes del proyecto.
 
 ### 9.20.1 Contenidos de diagnóstico
@@ -1658,6 +1746,9 @@ Mejora previsibilidad inicial y habilita oportunidades de optimización de costo
 - infraestructura cloud para escalar la plataforma;
 - entorno web para el marketplace y la experiencia principal del producto.
 
+### 11.3.1 Business Model Canvas
+**Instrucción para insertar gráfico.** Incorporar aquí el gráfico del **Business Model Canvas de 9 bloques** en su versión inicial, contemplando propuesta de valor, segmentos de clientes, canales, relaciones con clientes, fuentes de ingreso, recursos clave, actividades clave, socios clave y estructura de costos.
+
 ## 11.4 Modelo de negocio preliminar
 El modelo combina distintas fuentes de ingreso: comisión por transacciones concretadas en el marketplace, planes premium para usuarios que requieran mayor profundidad de propuesta, servicios pagos para profesionales o estudios con necesidad de mayor visibilidad, y alianzas con proveedores o actores del ecosistema de construcción y sostenibilidad.
 
@@ -1666,5 +1757,15 @@ La lógica de fondo es diversificar la captura de valor y no depender de un úni
 
 ## 11.6 Criterio de elaboración
 El presente desarrollo integra y amplía los contenidos presentes en `Contenido Entregable 1`, `HabitatIA_base_contextual_70_paginas` y `Propuesta de Proyecto: HabitatIA`, reorganizándolos en un documento extenso y formal. El criterio central fue priorizar coherencia estratégica, profundidad argumental, claridad profesional y continuidad narrativa, con la intención de acercarse a un entregable de alto nivel de desarrollo.
+
+### 11.6.1 Identificación de roles dentro del grupo
+La siguiente tabla permite registrar quién desarrolló cada parte del trabajo y qué áreas podría liderar a futuro cada integrante.
+
+| Integrante | Secciones desarrolladas | Aportes principales | Área a liderar a futuro |
+|---|---|---|---|
+| ________________________ | ________________________ | ________________________ | ________________________ |
+| ________________________ | ________________________ | ________________________ | ________________________ |
+| ________________________ | ________________________ | ________________________ | ________________________ |
+| ________________________ | ________________________ | ________________________ | ________________________ |
 
 ---
