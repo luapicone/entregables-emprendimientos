@@ -989,16 +989,20 @@ Una fortaleza potencial del proyecto es que no necesita limitarse a viviendas �
 En una primera etapa, puede resultar razonable que la monetización tenga un rol secundario frente al aprendizaje. La prioridad es validar si el flujo principal genera valor real. En esta fase, incluso una propuesta gratuita o parcialmente gratuita puede tener sentido estratégico si permite recoger datos relevantes sobre comportamiento, comprensión y percepción de utilidad.
 
 ### 7.13.2 Fase de monetización temprana del servicio principal
-Una vez que el usuario reconoce valor en la propuesta preliminar, puede abrirse una monetización asociada a capas más profundas del servicio. Esto no implica necesariamente cobrar por el acceso inicial. Podría consistir en cobrar por versiones ampliadas, comparaciones avanzadas, múltiples variantes o reportes más detallados.
+Una vez que el usuario reconoce valor en la propuesta preliminar, puede abrirse una monetización asociada a capas más profundas del servicio. Esto no implica necesariamente cobrar por el acceso inicial. Una hipótesis comercial razonable sería mantener gratuita la primera experiencia orientativa y cobrar un plan premium cuando el usuario quiera descargar un cómputo más detallado, variantes comparativas o un reporte exportable. Como referencia preliminar, ese plan podría ubicarse en un rango equivalente a una consulta arquitectónica breve de mercado, por ejemplo entre ARS 25.000 y ARS 40.000 por proyecto, con un punto de entrada sugerido cercano a ARS 29.900 para la descarga del cómputo detallado en Excel y reporte ampliado.
 
 ### 7.13.3 Fase de monetización del marketplace
-Si el marketplace comienza a mostrar movimiento real, la plataforma podría capturar valor mediante comisión por transacción, publicación destacada o servicios de visibilidad para oferentes. Esta fase exige más madurez porque depende de confianza, volumen y calidad de coincidencias.
+Si el marketplace comienza a mostrar movimiento real, la plataforma podría capturar valor mediante comisión por transacción, publicación destacada o servicios de visibilidad para oferentes. Como hipótesis inicial de pricing, una comisión del 8 % sobre la operación aparece como un punto intermedio razonable: suficientemente baja como para no desalentar la publicación de excedentes, pero suficientemente alta como para capturar valor por intermediación, confianza, visibilidad y matching contextualizado. Esta fase exige más madurez porque depende de confianza, volumen y calidad de coincidencias.
 
 ### 7.13.4 Fase de monetización híbrida
 En una etapa más avanzada, HabitatIA podría combinar ingresos provenientes de usuarios finales, actores del marketplace y acuerdos con aliados. Esta diversificación fortalecería la sustentabilidad del modelo.
 
 ## 7.14 Consideraciones sobre pricing
 El precio, en un proyecto de este tipo, no solo comunica costo. También comunica categoría y alcance. Un precio demasiado alto podría desalentar la prueba inicial. Un precio demasiado bajo podría debilitar la percepción de valor o sostener un modelo frágil. Por eso, la lógica de pricing debería construirse con mucho cuidado, probablemente validando distintos niveles de profundidad del servicio antes de consolidar una estructura definitiva.
+
+En términos preliminares, HabitatIA podría apoyarse en una estructura simple y entendible. Primero, una capa gratuita o de muy bajo costo para que el usuario obtenga una propuesta inicial y compruebe utilidad. Segundo, un plan premium cercano al valor de una hora de consulta arquitectónica breve, pensado para usuarios que ya pasaron de la curiosidad a la necesidad concreta de decidir. Tercero, una comisión por transacción en el marketplace cercana al 8 %, que funcione como captura de valor sobre una operación ya concretada y no como barrera de entrada previa.
+
+Esta combinación tiene lógica estratégica porque distribuye la monetización según el momento de valor percibido. El usuario final paga cuando necesita más profundidad y descargables concretos. El oferente o la transacción pagan cuando la plataforma efectivamente ayuda a monetizar un excedente. De este modo, el negocio evita apoyarse en una sola fuente de ingresos y mantiene coherencia con la propuesta de reducir incertidumbre y generar ahorro verificable.
 
 ## 7.15 Riesgos de sobrediseñar la cartera de servicios
 Un error frecuente en proyectos prometedores es querer convertir demasiado rápido una idea consistente en una oferta hipertrofiada. HabitatIA debe evitar ese riesgo. La expansión de productos y servicios solo tendrá sentido si cada capa nueva refuerza el valor central del recorrido. Cuando una cartera crece antes que la comprensión del usuario, la propuesta se debilita en lugar de fortalecerse.
@@ -1783,6 +1787,8 @@ Las alternativas de monetización más plausibles incluyen:
 - planes premium para usuarios que requieran mayor profundidad de propuesta;
 - servicios pagos para profesionales o estudios con necesidad de mayor visibilidad;
 - alianzas con proveedores o actores del ecosistema de construcción y sostenibilidad.
+
+Si se baja este esquema a una primera hipótesis numérica, el modelo podría arrancar con una comisión del 8 % por operación exitosa dentro del marketplace y con un plan premium individual en torno a ARS 29.900 para habilitar descarga de cómputo detallado en Excel, reporte ampliado y variantes comparativas básicas. A modo orientativo, este precio se justifica por equivaler aproximadamente al costo de una consulta arquitectónica breve o de una instancia inicial de asesoramiento profesional liviano, pero con la ventaja de estar integrado al flujo digital del proyecto.
 
 
 ## 11.6 Criterio de elaboración
