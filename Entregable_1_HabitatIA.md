@@ -1025,42 +1025,44 @@ Definir productos y servicios no solo sirve para comunicar mejor. También oblig
 # 8. Entorno competitivo
 
 ## 8.1 La competencia como ecosistema y no como espejo exacto
-Uno de los errores frecuentes al analizar competencia en proyectos híbridos es buscar un único actor que haga exactamente lo mismo. En HabitatIA, ese enfoque sería pobre. Más profesional es entender el entorno competitivo como un ecosistema de soluciones parciales, sustitutos y actores con los que la plataforma compite y coopera al mismo tiempo. Este análisis es especialmente importante porque permite ubicar el proyecto en una intersección estratégica y detectar no solo amenazas, sino también vacíos del mercado.
+Uno de los errores frecuentes al analizar competencia en proyectos híbridos es buscar un único actor que haga exactamente lo mismo. En HabitatIA, ese enfoque sería pobre. Más profesional es entender el entorno competitivo como un ecosistema de soluciones parciales, sustitutos y actores con los que la plataforma compite y coopera al mismo tiempo. Este análisis es especialmente importante porque permite ubicar el proyecto en una intersección estratégica y detectar no solo amenazas, sino también vacíos del mercado. Cuando esa lectura se baja a jugadores reales, el panorama se vuelve más claro: HabitatIA no compite contra una sola empresa, sino contra categorías concretas como marketplaces generalistas de materiales, corralones digitales, software de diseño accesible y herramientas profesionales de arquitectura y BIM.
 
 ## 8.2 Categorías principales de competidores y sustitutos
-### 8.2.1 Estudios de arquitectura tradicionales
-Resuelven personalización, criterio técnico y acompañamiento profesional. Su mayor fortaleza está en la profundidad del servicio. Su mayor limitación, en relación con HabitatIA, aparece en el costo de entrada, la velocidad y la menor capacidad de ofrecer una experiencia inmediata para la etapa exploratoria.
+### 8.2.1 Marketplaces generalistas de materiales y clasificados
+Aquí aparece un competidor real y evidente como Mercado Libre, que ya tiene una categoría consolidada de construcción y materiales. Su fortaleza es la escala, la costumbre de uso, la infraestructura de pagos y envíos, y la enorme variedad de oferta. Su debilidad para el caso HabitatIA es que no organiza la compra desde la lógica del proyecto habitacional. El usuario encuentra productos o publicaciones, pero no una lectura integrada entre necesidades de obra, cantidades requeridas, visualización y oportunidad de ahorro contextualizada.
 
-### 8.2.2 Plataformas de inspiración visual y renders
-Son útiles para inspirar, imaginar o explorar estilos, pero suelen carecer de conexión con materiales, costos y lógica de proyecto. En ese sentido, pueden competir por la atención del usuario, pero no cubren la misma profundidad funcional.
+### 8.2.2 Corralones digitales y retail de construcción
+En esta categoría entran jugadores como Easy y, a escala regional, formatos como Sodimac Constructor o Homecenter. Resuelven abastecimiento, marca, stock formal y una experiencia de compra más ordenada que los canales puramente informales. Su fortaleza está en la confianza comercial, la amplitud de catálogo y la capacidad de vender materiales nuevos con una operatoria más estructurada. Su límite, en relación con HabitatIA, es que no convierten la necesidad del usuario en un proyecto preliminar con lógica de personalización, ni conectan esa decisión con una capa de reutilización inteligente de sobrantes.
 
-### 8.2.3 Marketplaces generales de materiales
-Compiten por el lado transaccional del marketplace, pero no integran una demanda guiada por un proyecto habitacional específico. Esa falta de contexto debilita la experiencia comparada con la propuesta de HabitatIA.
+### 8.2.3 Software accesible de diseño y visualización
+Acá aparecen referencias como Planner 5D, Floorplanner y Homestyler. Son competidores reales por el lado de la visualización, el plano y la experiencia de exploración autónoma. Su fortaleza es la facilidad de uso, la rapidez para producir vistas atractivas y la accesibilidad para usuarios no técnicos. Su debilidad, para este caso, es que normalmente no resuelven el tramo económico y operativo completo: no están pensados como motores de decisión habitacional con presupuesto preliminar conectado a materiales ni como marketplaces de excedentes de obra.
 
-### 8.2.4 Soluciones modulares o constructoras especializadas
-Pueden captar usuarios que buscan rapidez y estandarización. Su debilidad relativa puede estar en la menor personalización y en la falta de integración con una lógica de ahorro por reutilización.
+### 8.2.4 Software profesional de arquitectura y BIM
+En una capa distinta aparecen herramientas como Revit dentro del ecosistema Autodesk AEC y SketchUp. No compiten exactamente desde la misma propuesta de entrada, pero sí representan sustitutos parciales o referencias de legitimidad técnica. Su fortaleza es el rigor profesional, la profundidad de modelado y la documentación. Su limitación relativa para el segmento inicial de HabitatIA es que exigen más conocimiento, más tiempo y, muchas veces, intermediación profesional. Son soluciones potentes, pero menos accesibles para el usuario que todavía está tratando de ordenar una decisión preliminar.
 
-### 8.2.5 Herramientas de presupuesto o cálculo aislado
-En algunos casos, pueden resolver una parte del problema económico, pero no acompañan con la misma potencia visual ni con la integración del marketplace.
+### 8.2.5 Estudios tradicionales, constructoras y soluciones cerradas
+Resuelven personalización, criterio técnico y acompañamiento profesional, o bien rapidez mediante propuestas más estandarizadas. Su fortaleza está en la profundidad del servicio o en la ejecución cerrada. Su mayor limitación, en relación con HabitatIA, aparece en el costo de entrada, la velocidad de exploración y la menor capacidad de ofrecer una experiencia inmediata y comparativa para la etapa exploratoria.
 
 ## 8.3 Variables clave de comparación
-Para analizar el posicionamiento de HabitatIA conviene mirar algunas variables concretas: **grado de personalización, accesibilidad económica de entrada, claridad presupuestaria, experiencia digital integrada, capacidad de generar ahorro aplicable, incorporación de sostenibilidad y facilidad de uso para no especialistas**. Esa combinación permite comparar no solo funcionalidades, sino también calidad de experiencia y pertinencia real para el usuario.
+Para analizar el posicionamiento de HabitatIA conviene mirar algunas variables concretas: **grado de personalización, accesibilidad económica de entrada, claridad presupuestaria, experiencia digital integrada, capacidad de contextualizar materiales según proyecto, generación de ahorro aplicable, incorporación de sostenibilidad y facilidad de uso para no especialistas**. Esa combinación permite comparar no solo funcionalidades, sino también calidad de experiencia y pertinencia real para el usuario.
 
 ## 8.4 Mapa comparativo de atributos
-Una forma clara de ubicar a HabitatIA dentro del entorno competitivo es cruzar los principales tipos de competidor con cuatro atributos centrales: **accesibilidad, personalización, criterio económico y circularidad**.
+Una forma más precisa de ubicar a HabitatIA dentro del entorno competitivo es cruzar categorías reales con cinco atributos centrales: **accesibilidad, personalización, criterio económico, contextualización por proyecto y circularidad**.
 
-| Actor / atributo | Accesibilidad | Personalización | Criterio económico | Circularidad |
-|---|---|---|---|---|
-| **HabitatIA** | Alta | Alta | Alta | Alta |
-| **Estudios tradicionales** | Baja | Alta | Media | Baja |
-| **Apps de renders / inspiración** | Alta | Media | Baja | Baja |
-| **Marketplaces de materiales** | Media | Baja | Media | Media |
+| Actor / categoría | Accesibilidad | Personalización | Criterio económico | Contexto de proyecto | Circularidad |
+|---|---|---|---|---|---|
+| **HabitatIA** | Alta | Alta | Alta | Alta | Alta |
+| **Mercado Libre / marketplaces generalistas** | Alta | Baja | Media | Baja | Media |
+| **Easy / corralones digitales** | Media | Baja | Media | Baja | Baja |
+| **Planner 5D / Floorplanner / Homestyler** | Alta | Media | Baja | Media | Baja |
+| **Revit / SketchUp / software profesional** | Baja | Alta | Media | Alta | Baja |
+| **Estudios tradicionales** | Baja | Alta | Media | Alta | Baja |
 
-La lectura del mapa muestra una posición diferencial clara. **Los estudios tradicionales** concentran profundidad técnica y personalización, pero con una barrera de entrada más alta. **Las apps de renders** ofrecen acceso rápido y atractivo visual, aunque con poco criterio económico y sin una lógica de circularidad. **Los marketplaces** resuelven parte de la transacción, pero sin suficiente personalización ni conexión directa con el proyecto habitacional. **HabitatIA** ocupa el cruce entre accesibilidad, personalización, lectura económica y reutilización de materiales dentro de una misma experiencia.
+La lectura del mapa muestra una posición diferencial más concreta. **Mercado Libre** y otros marketplaces resuelven escala transaccional, pero sin traducir la demanda desde un proyecto habitacional. **Easy** y otros corralones digitales aportan confianza comercial y catálogo formal, aunque no acompañan la etapa de definición del proyecto. **Planner 5D, Floorplanner y Homestyler** facilitan visualización y exploración, pero no conectan de forma nativa esa experiencia con presupuesto preliminar ni con compra contextualizada de materiales. **Revit, SketchUp y herramientas profesionales** ofrecen profundidad técnica, aunque con mayor barrera de entrada. **HabitatIA** intenta ocupar el cruce entre accesibilidad, personalización, lectura económica, materiales y reutilización dentro de una misma experiencia.
 
 ## 8.5 Dónde puede diferenciarse HabitatIA
 ### 8.4.1 Integración de experiencia
-Este es probablemente su diferencial más fuerte. La propuesta integra visualización, plano, materiales, presupuesto y ahorro potencial en un mismo recorrido.
+Este es probablemente su diferencial más fuerte. La propuesta integra visualización, plano, materiales, presupuesto y ahorro potencial en un mismo recorrido, mientras que los competidores reales suelen resolver solo una parte: o la compra, o la visualización, o la documentación profesional.
 
 ### 8.4.2 Posicionamiento temprano en el journey del usuario
 Mientras muchos actores intervienen cuando el usuario ya decidió contratar un servicio o comprar materiales, HabitatIA puede capturar valor antes, en la etapa de orientación inicial.
