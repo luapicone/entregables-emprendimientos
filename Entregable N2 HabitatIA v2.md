@@ -15,6 +15,12 @@
 > Nota: este archivo `.md` no tiene paginación nativa por hoja como un `.docx` o `.pdf`. Acá queda el índice jerárquico de secciones y subsecciones del documento.
 
 - Elevator Pitch
+- Informe ejecutivo
+  - Resumen ejecutivo
+  - Problema y oportunidad
+  - Solución propuesta y diferenciación
+  - Modelo de negocio y estrategia de implementación
+  - Riesgos principales y criterios de avance
 - 1. Contexto e introducción
   - 1.1 Introducción general
   - 1.2 La vivienda como problema estructural
@@ -201,6 +207,48 @@ HabitatIA parte de un problema concreto: muchas personas quieren construir o amp
 La propuesta combina ambas puntas en una sola experiencia. Por un lado, una plataforma asistida por inteligencia artificial que toma datos simples del usuario y los convierte en una propuesta preliminar de vivienda con visualización, plano orientativo, cómputo estimado y lectura inicial de costos. Por otro, un marketplace de materiales sobrantes que cruza las necesidades del proyecto con oferta reutilizable para detectar oportunidades concretas de ahorro.
 
 El modelo de negocio se apoya en una lógica por fases: una capa premium para usuarios que necesitan mayor profundidad en la propuesta y una comisión sobre transacciones del marketplace cuando la plataforma efectivamente conecta oferta y demanda. Así, HabitatIA organiza la decisión inicial de construir, reduce incertidumbre y agrega una vía económica basada en reutilización y eficiencia.
+
+## Informe ejecutivo
+
+### Resumen ejecutivo
+
+HabitatIA es una propuesta PropTech orientada a resolver una fricción estructural del proceso habitacional: la distancia entre la intención de construir o ampliar una vivienda y la posibilidad real de tomar decisiones iniciales con claridad. En la práctica, muchas personas llegan a esa etapa con aspiración, terreno, necesidad o presupuesto parcial, pero sin herramientas concretas para traducir esos recursos en una propuesta comprensible. El resultado suele ser postergación, ansiedad decisional, sobredependencia de terceros y una percepción de que iniciar el proceso requiere un nivel técnico y económico que excede al usuario promedio.
+
+Frente a ese problema, HabitatIA plantea una plataforma digital asistida por inteligencia artificial que organiza la etapa preliminar de decisión. A partir de datos simples cargados por el usuario, el sistema busca generar una primera propuesta habitacional con visualización orientativa, estimación de costos, sugerencia de materiales y lectura funcional del proyecto. La propuesta no pretende reemplazar el trabajo profesional de detalle ni la ejecución técnica de obra. Su valor radica en transformar una intención difusa en una alternativa inicial más inteligible, comparable y económicamente interpretable.
+
+La segunda capa estratégica del proyecto incorpora un marketplace de materiales sobrantes o reutilizables. Esta dimensión amplía el alcance de HabitatIA porque no solo ordena la decisión de construir, sino que además conecta esa necesidad con oportunidades concretas de ahorro. De este modo, la plataforma integra dos ineficiencias muy extendidas del sector: por un lado, la falta de claridad temprana del lado de la demanda; por otro, la existencia de excedentes con valor económico desaprovechado del lado de la oferta.
+
+### Problema y oportunidad
+
+El problema central que aborda HabitatIA no es únicamente el costo de construir, sino la dificultad para entender qué se puede construir, con qué recursos y bajo qué lógica económica preliminar. Muchas personas no llegan a contratar servicios profesionales completos porque todavía no tienen claridad suficiente para dar ese paso. Esto genera un vacío entre la inspiración y la acción. En ese vacío proliferan decisiones mal informadas, presupuestos mal interpretados, frustraciones por expectativas irreales y abandono prematuro del proceso.
+
+La oportunidad del proyecto surge precisamente en esa etapa subatendida. Existe una demanda latente de herramientas que permitan explorar opciones habitacionales de manera accesible, visual y ordenada antes de entrar en instancias más costosas o técnicas. A su vez, el sector de la construcción convive con pérdidas silenciosas vinculadas a materiales que sobran de una obra y no encuentran un circuito eficiente de reingreso al mercado. La posibilidad de vincular ambas puntas dentro de una misma experiencia genera una oportunidad económica y operativa con rasgos diferenciales.
+
+Desde una mirada estratégica, HabitatIA se apoya en tendencias que favorecen su pertinencia. Los usuarios esperan cada vez más herramientas que reduzcan asimetrías de información y ofrezcan autonomía temprana en procesos complejos. Al mismo tiempo, crecen la sensibilidad por eficiencia económica, la búsqueda de ahorro inteligente y el interés por soluciones con lógica de circularidad. HabitatIA se vuelve relevante porque combina esos tres vectores en un mismo flujo: comprensión, decisión y optimización.
+
+### Solución propuesta y diferenciación
+
+La propuesta de HabitatIA puede sintetizarse como un sistema de traducción inicial entre deseo habitacional, restricción presupuestaria y decisión concreta. Su diferencial no está en producir solamente imágenes atractivas ni en prometer precisión definitiva desde una primera interacción. Su fortaleza radica en estructurar una conversación útil con el usuario y devolverle una lectura preliminar más accionable del proyecto que quiere encarar.
+
+En términos funcionales, la plataforma recibe preferencias, necesidades espaciales, prioridades de uso, ubicación y parámetros presupuestarios. Con esa base, genera una primera interpretación que puede incluir distribución general, render o visual orientativa, cómputo preliminar de materiales y estimación inicial de costos. Esa salida no debe entenderse como documentación ejecutiva, sino como una herramienta de claridad. La lógica del producto es reducir incertidumbre, no reemplazar procesos profesionales posteriores.
+
+La incorporación del marketplace expande el diferencial. Si HabitatIA identifica materiales necesarios para una alternativa habitacional, también puede detectar coincidencias con stock reutilizable disponible en el ecosistema. Esto agrega una capa concreta de ahorro y circularidad que otras soluciones no suelen integrar de manera orgánica. En lugar de ofrecer valor fragmentado, la propuesta conecta diseño preliminar, lectura económica y oportunidad de compra dentro de una sola experiencia.
+
+### Modelo de negocio y estrategia de implementación
+
+El modelo de negocio propuesto es consistente con una lógica de desarrollo por fases. En una primera etapa, HabitatIA puede capturar valor a través de una capa premium para usuarios que necesiten un mayor nivel de profundidad, más iteraciones o funcionalidades ampliadas dentro del proceso de preplanificación. En una segunda dimensión, la plataforma puede monetizar el marketplace mediante comisión por transacción, publicación destacada u otros formatos asociados al match efectivo entre oferta y demanda.
+
+La estrategia de implementación debería comenzar con foco y no con amplitud excesiva. El proyecto gana solidez si prioriza un segmento inicial claro, como personas o familias con intención concreta de construir sobre terreno propio, y un recorte geográfico acotado que permita aprender con mayor velocidad. En paralelo, conviene activar progresivamente el lado de la oferta de materiales con arquitectos, estudios, pequeños constructores o actores que ya acumulan sobrantes y podrían encontrar una salida económica simple a ese stock.
+
+El criterio de avance no debería basarse solo en interés declarado, sino en señales concretas de uso. Entre las más relevantes se encuentran la disposición de los usuarios a cargar datos reales, la tasa de finalización del flujo, la percepción de utilidad de la salida generada, la intención de volver a usar la herramienta y la capacidad del marketplace de producir coincidencias valiosas. En un proyecto de estas características, aprender rápido vale más que intentar escalar prematuramente.
+
+### Riesgos principales y criterios de avance
+
+Como toda propuesta que combina tecnología, experiencia de usuario y marketplace, HabitatIA enfrenta riesgos específicos. El primero es la sobrepromesa: si el discurso del proyecto insinúa una precisión técnica que la plataforma aún no puede sostener, la confianza puede deteriorarse rápido. El segundo riesgo es la amplitud excesiva del alcance. Intentar resolver demasiados problemas desde el inicio puede debilitar la claridad del producto y complejizar la implementación antes de validar el valor central.
+
+También existe un riesgo operativo en la construcción del marketplace. Para que esta capa genere valor real, no alcanza con listar materiales. Se necesita una oferta suficientemente relevante, confiable y bien categorizada para que la experiencia sea percibida como útil. Si esa masa crítica no aparece, el marketplace puede transformarse en una promesa vacía y afectar la lectura global del proyecto.
+
+Por eso, el criterio ejecutivo más importante para evaluar HabitatIA no es cuánto parece poder hacer, sino cuánto valor concreto entrega en su flujo principal. Si la plataforma logra que un usuario pase de la incertidumbre a una comprensión inicial más clara de su proyecto, ya está resolviendo una fricción relevante. Si además consigue conectar parte de esa necesidad con ahorro verificable vía marketplace, el modelo gana una segunda fuente de valor con alto potencial estratégico. En síntesis, HabitatIA presenta una propuesta consistente, contemporánea y con posibilidades reales de diferenciación, siempre que avance con foco, validación rigurosa y disciplina para no confundir visión con evidencia.
 
 # 1. Contexto e introducción
 
