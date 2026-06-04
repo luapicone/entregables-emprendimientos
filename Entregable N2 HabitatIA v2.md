@@ -1786,313 +1786,77 @@ Hay un equilibrio delicado entre diferenciarse y parecer exagerado. HabitatIA ne
 
 # 9. Plan comercial físico y digital
 
-## 9.1 Principio rector del plan comercial
+## 9.1 Enfoque general del plan comercial
 
-El plan comercial de HabitatIA debe responder a una lógica clara: construir confianza y relevancia antes que volumen indiscriminado. Dado que la categoría vivienda es altamente sensible, la adquisición de usuarios no puede pensarse solo en términos de tráfico. Debe articular demostración de valor, pedagogía sobre la propuesta y un recorrido de conversión coherente con la complejidad de la decisión.
+El plan comercial de HabitatIA debe construirse sobre una premisa simple: en una categoría tan sensible como vivienda, la confianza es anterior a la escala. El usuario no compra solamente una herramienta digital; compra una forma más clara de tomar decisiones sobre un proyecto que involucra dinero, tiempo, expectativas familiares y riesgo percibido. Por eso, el objetivo comercial no puede limitarse a generar tráfico o captar leads. Debe lograr que la propuesta sea comprendida, percibida como útil y validada en la práctica.
 
-## 9.2 El rol del canal digital
+La estrategia comercial, en consecuencia, necesita combinar dos dimensiones. La primera es digital, porque el producto se vive principalmente a través de una plataforma, un formulario guiado, una experiencia de visualización y una capa de estimación. La segunda es física, porque el problema que HabitatIA aborda existe dentro de un ecosistema material formado por corralones, arquitectos, proveedores, constructores, eventos sectoriales y decisiones de obra concretas. La potencia del modelo aparece justamente cuando ambas dimensiones se conectan.
 
-El canal digital es central en HabitatIA porque la experiencia principal del producto se apoya en una interfaz web, en un formulario guiado y en la visualización de resultados dentro de una lógica de autoservicio o semiautoservicio. Sin embargo, “ser digital” no alcanza. El canal digital debe cumplir simultáneamente funciones de educación, captación, conversión y legitimación.
+Más que un plan de promoción aislado, HabitatIA necesita un sistema comercial integrado. Ese sistema debe articular marketing, ventas, branding, acompañamiento, canales y recorrido del usuario dentro de una misma lógica. El desafío central no es “comunicar mucho”, sino comunicar con precisión, atraer al segmento correcto, demostrar valor tempranamente y sostener una relación que pueda transformarse en monetización, recurrencia y recomendación.
 
-### 9.2.1 Sitio web como activo de conversión
+## 9.2 Plan de marketing digital y físico
 
-El sitio no debe ser solamente una vidriera institucional. Debe permitir que el usuario entienda rápidamente el valor de la plataforma, identifique si está dirigida a su problema y dé un primer paso concreto.
+El marketing de HabitatIA debe orientarse a convertir una necesidad difusa en una intención explícita de prueba. La mayoría de los usuarios no buscará inicialmente “una plataforma PropTech con marketplace de materiales”, sino soluciones a problemas concretos: cuánto cuesta construir, qué se puede hacer con cierto presupuesto, cómo ordenar un proyecto, cómo ahorrar materiales o cómo visualizar una idea antes de contratar etapas más complejas. Por lo tanto, la estrategia de marketing debe hablar desde el problema y no desde la tecnología.
 
-### 9.2.2 Landing pages específicas por necesidad
+En el plano digital, el sitio web debe ser el activo central de conversión. No debería funcionar como una vidriera institucional estática, sino como un sistema de páginas orientadas a necesidades reales. Una arquitectura efectiva podría incluir landings específicas para perfiles distintos: personas con terreno propio, familias que quieren ampliar, usuarios con presupuesto acotado, arquitectos con materiales sobrantes y pequeños constructores con foco en ahorro. Esta segmentación mejora la pertinencia del mensaje, facilita la captación de intención y permite medir con más precisión qué problema tracciona mejor.
 
-Una estrategia sólida podría contemplar páginas orientadas a distintos dolores o escenarios:
+El segundo pilar del marketing digital es el contenido. HabitatIA necesita educar, legitimar y reducir objeciones antes de vender. En ese sentido, el marketing de contenidos no es accesorio: es parte del producto comercial. Las piezas más valiosas serían aquellas que traduzcan complejidad en comprensión práctica, por ejemplo: cómo pensar una vivienda según presupuesto disponible, errores frecuentes al iniciar una obra, diferencias entre inspiración visual y proyecto viable, oportunidades de ahorro en materiales, o criterios para reutilizar excedentes sin aumentar fricción. Este contenido puede vivir en blog, redes, email y materiales descargables.
 
-construir con presupuesto limitado;
+En adquisición paga, conviene concentrar recursos en pocos frentes bien definidos. Google Search puede capturar intención alta en búsquedas vinculadas a “costo de construir”, “materiales para casa”, “presupuesto de obra”, “casa en terreno propio” o “cálculo preliminar”. Meta Ads puede servir para despertar demanda latente mediante creatividades enfocadas en claridad, ahorro y visualización. A esto se puede sumar remarketing para quienes visitaron el sitio, iniciaron el flujo o mostraron interés en páginas específicas. El criterio de optimización no debería ser alcance bruto, sino acciones que anticipen valor: inicio de flujo, lead calificado, demo solicitada o interacción profunda.
 
-proyectar una vivienda en terreno propio;
+En el plano físico, el marketing debe actuar como legitimador. HabitatIA tiene sentido en espacios donde la necesidad de ordenar una decisión habitacional ya está presente. Por eso, materiales impresos con QR, acuerdos de derivación, piezas explicativas para puntos de venta y presencia en eventos o ferias del sector pueden ser más potentes que acciones masivas desconectadas. Corralones, estudios, proveedores y actores vinculados al ecosistema de vivienda pueden funcionar como amplificadores de confianza, no porque “vendan” la plataforma activamente, sino porque la introducen dentro de un contexto creíble.
 
-calcular materiales preliminares;
+## 9.3 Plan de ventas digital y físico
 
-ahorrar con materiales sobrantes;
+La lógica de ventas de HabitatIA debe ser consultiva y progresiva. No se trata de forzar una compra inmediata, sino de acompañar al usuario desde la curiosidad inicial hasta la percepción de utilidad concreta. El producto debe venderse demostrando valor, no solo describiéndolo. La primera conversión relevante no es necesariamente el pago, sino la activación: que el usuario complete el flujo, vea una propuesta preliminar y sienta que ganó claridad respecto de su proyecto.
 
-publicar excedentes de obra.
+En ventas digitales, el funnel debería estructurarse en cinco etapas. La primera es atracción calificada, donde el objetivo es captar personas con problema real, no simple curiosidad tecnológica. La segunda es consideración, donde el usuario deja datos, inicia el flujo o solicita una instancia de contacto. La tercera es activación, momento en el que experimenta el núcleo de la propuesta. La cuarta es monetización, donde se presenta una capa premium con mayor profundidad, variantes, cómputo más detallado o beneficios concretos. La quinta es expansión del valor, cuando la relación puede derivar en regreso, recomendación, compra adicional o uso del marketplace.
 
-Esta segmentación mejora la pertinencia del mensaje y puede aumentar la conversión.
+La venta física, por su parte, no debe entenderse como un canal separado, sino como un complemento de la venta digital. Corralones y proveedores pueden derivar usuarios que todavía no saben qué comprar ni cuánto material necesitan. Arquitectos y estudios pueden recomendar la plataforma a clientes que llegan con ideas poco claras y necesidad de ordenar la etapa previa. Eventos, ferias y rondas sectoriales pueden servir para mostrar el producto, generar reuniones y captar usuarios o aliados con mayor cercanía al problema. En todos los casos, el objetivo no es cerrar una venta compleja en el momento, sino abrir una puerta hacia el flujo digital donde HabitatIA demuestra su valor.
 
-### 9.2.3 Estrategia de contenidos
+Desde el punto de vista económico, la venta debe ser simple de entender. Una estructura razonable sería ofrecer una entrada gratuita o de baja fricción para experimentar el valor inicial, una oferta premium con profundidad adicional y una monetización complementaria vía marketplace cuando haya match efectivo entre oferta y demanda. Esta secuencia reduce barreras de adopción y alinea la monetización con el momento en que el usuario ya reconoce utilidad real.
 
-El contenido cumple un rol estructural porque HabitatIA necesita explicar valor, reducir objeciones y posicionarse en búsquedas relevantes. Algunas líneas de contenido de alto potencial serían:
+## 9.4 Branding
 
-guías sobre cómo planificar una vivienda desde cero;
+El branding de HabitatIA no debe pensarse como un maquillaje estético, sino como una herramienta comercial y estratégica. En una categoría donde el usuario teme equivocarse, la marca cumple la función de ordenar percepciones. Tiene que transmitir claridad, criterio y confiabilidad. Si el branding resulta demasiado aspiracional, frío o abstracto, puede alejar al usuario de la promesa práctica del producto. Si resulta demasiado técnico, puede intimidar. El equilibrio debe ubicarse en una identidad contemporánea, clara y profesional.
 
-errores frecuentes al calcular costos de obra;
+La personalidad de marca conviene apoyarla en cuatro atributos centrales: claridad, inteligencia útil, cercanía y confianza. Claridad, porque la propuesta debe ayudar a ordenar un problema que suele vivirse como caótico. Inteligencia útil, porque el uso de IA solo tiene sentido si se traduce en decisiones mejores. Cercanía, porque el lenguaje debe ser humano y comprensible. Confianza, porque el proyecto trata con decisiones patrimoniales y emocionales de alta sensibilidad. Estos atributos deberían reflejarse tanto en el discurso comercial como en la interfaz, el contenido, las piezas gráficas y los canales de atención.
 
-diferencias entre inspiración estética y proyecto viable;
+También es clave definir mensajes madre por segmento. Para usuario final, HabitatIA debe prometer comprensión y previsibilidad: entender qué puede construir y con qué costo aproximado antes de avanzar a ciegas. Para arquitectos o estudios con sobrantes, la marca debe hablar de orden y monetización de excedentes. Para pequeños constructores o actores asociados, debe enfatizar eficiencia, oportunidades de ahorro y mejor lectura del proyecto. En todos los casos, la promesa debe ser concreta y defendible. El branding más fuerte será aquel que no sobredimensione la tecnología, sino que haga visible el alivio real que la plataforma produce.
 
-oportunidades de ahorro mediante reutilización de materiales;
+## 9.5 Relacionamiento con clientes
 
-construcción más eficiente y sostenible.
+El relacionamiento con clientes es una pieza crítica porque HabitatIA opera en una decisión de ciclo relativamente largo. Es improbable que todos los usuarios lleguen, entiendan, compren y recomienden en una sola interacción. Muchos necesitarán tiempo, comparación, consulta y acompañamiento. Por eso, la relación no puede terminar en la captación del lead. Debe existir una estrategia deliberada de nutrición, seguimiento y construcción de confianza.
 
-### 9.2.4 SEO y captación de intención
+El primer nivel de relacionamiento debería ser conversacional y rápido. WhatsApp puede cumplir un papel muy importante como puente entre la curiosidad y la activación real. En categorías complejas, la posibilidad de hacer una pregunta concreta y recibir una respuesta humana o semiasistida puede destrabar dudas que una landing por sí sola no resuelve. El segundo nivel es el email nurturing, útil para acompañar a usuarios que aún no están listos para avanzar, pero sí muestran intención. Allí se pueden enviar contenidos, ejemplos, guías, casos conceptuales y recordatorios de valor.
 
-La propuesta presenta buen encaje con búsquedas de alta intención vinculadas a costo de construcción, cálculo de materiales, ideas de viviendas económicas, diseño de casas y materiales sobrantes. Un trabajo consistente de posicionamiento orgánico puede convertirse en un activo importante a mediano plazo.
+Un tercer nivel de relacionamiento, especialmente en etapa temprana, puede ser la demo guiada o la atención de onboarding. No hace falta convertir esto en un servicio pesado; basta con ofrecer una instancia breve para perfiles de alto potencial o alta necesidad de legitimación. A medida que el proyecto madure, el relacionamiento también debería incorporar lógica de postuso: pedir feedback, medir satisfacción, detectar objeciones, registrar señales de valor y estimular recomendación o regreso.
 
-### 9.2.5 Campañas de performance
+La clave es que la relación con el cliente no se base en presión comercial, sino en utilidad progresiva. HabitatIA debe convertirse en un interlocutor valioso dentro del proceso de decisión del usuario. Si logra eso, la relación comercial deja de depender exclusivamente de anuncios y empieza a fortalecerse por experiencia y confianza acumulada.
 
-En una etapa inicial, las campañas de performance deberían concentrarse en pocos canales y con roles bien definidos. Meta Ads puede servir para captar demanda latente mediante creatividades que muestren claridad de costos, visualización y ahorro potencial. Google Search, en cambio, debería atacar intención alta en búsquedas como costo de construir, cálculo preliminar de materiales, casa en terreno propio o presupuesto de obra. A eso conviene sumar una tercera vía de adquisición menos escalable pero más calificada: alianzas con corralones, arquitectos, estudios y pequeños constructores que puedan derivar usuarios con necesidad real. La pauta no debería optimizarse por tráfico bruto, sino por señales concretas de avance: leads calificados, inicios de flujo, formularios completos, demos pedidas o publicaciones efectivas en marketplace.
+## 9.6 Canales de venta
 
-## 9.3 Construcción de confianza en el mundo digital
+Los canales de venta de HabitatIA deben combinar capilaridad digital con legitimación física. En digital, los principales canales serían el sitio web, landing pages segmentadas, campañas de búsqueda, campañas en redes, remarketing, email y WhatsApp. Estos canales sirven para atraer, capturar intención, convertir y acompañar el recorrido. Su ventaja es la escala, la trazabilidad y la posibilidad de testear mensajes rápidamente.
 
-La confianza no surge automáticamente por tener una plataforma funcional. En HabitatIA deberá construirse deliberadamente. Algunos mecanismos posibles incluyen:
+En físico, los canales con mayor sentido son corralones, casas de materiales, estudios de arquitectura, pequeños constructores, eventos del sector, ferias de vivienda, espacios de innovación y posibles alianzas institucionales. No todos estos canales deben activarse al mismo tiempo. La prioridad debería estar en aquellos que combinen cercanía al problema con baja complejidad operativa. Por eso, corralones y arquitectos aparecen como puertas de entrada especialmente razonables: ambos interactúan con usuarios que ya están en una etapa concreta de decisión y ambos pueden beneficiarse de una herramienta que ordene mejor esa conversación.
 
-claridad sobre el alcance de la herramienta;
+También conviene pensar los canales según el tipo de valor que aportan. Algunos sirven para captación directa, como Google o Meta. Otros sirven para derivación calificada, como corralones y estudios. Otros cumplen un rol más reputacional que transaccional, como ferias, eventos o actores institucionales. Esta lectura evita exigirle a cada canal lo mismo y mejora la asignación de recursos. El diseño comercial debería evaluar cada canal no solo por volumen, sino por calidad de usuario, costo de adquisición, tasa de activación y aporte a la confianza de marca.
 
-ejemplos o casos demostrativos;
+## 9.7 Customer journey
 
-comunicación transparente sobre la naturaleza preliminar de ciertas estimaciones;
+El customer journey de HabitatIA debe comprenderse como un proceso de maduración de confianza. La primera etapa es descubrimiento. En ese momento, el usuario identifica una promesa que parece hablar de un problema propio: no sabe bien qué construir, cuánto costaría o cómo ordenar el proyecto. La segunda etapa es comprensión. Allí evalúa si HabitatIA realmente hace algo útil o si es solo una promesa tecnológica más. El sitio, el contenido, el tono y la claridad del mensaje son decisivos en este punto.
 
-diseño visual profesional;
+La tercera etapa es exploración. El usuario inicia el flujo, carga datos, observa cómo se traduce su necesidad y empieza a medir si la herramienta efectivamente le devuelve claridad. La cuarta etapa es apropiación. Si la experiencia funciona, deja de ver la plataforma como una curiosidad y empieza a verla como una ayuda real para pensar su proyecto. En este momento se abre la posibilidad de monetización premium, consulta adicional o avance hacia el marketplace. La quinta etapa es decisión. El usuario decide si profundiza el uso, compra, vuelve, comparte o recomienda.
 
-lenguaje claro y no excesivamente técnico;
+Para el lado de oferta de materiales, el journey es diferente pero análogo. El profesional o constructor primero descubre una posibilidad de monetizar sobrantes de forma más ordenada. Luego necesita entender que publicar no será una carga excesiva. Después evalúa si hay demanda real y si la plataforma le ofrece credibilidad suficiente. Finalmente decide si participa, publica y sostiene el canal. Esto muestra que HabitatIA no tiene un solo customer journey, sino al menos dos recorridos conectados: uno del lado demanda habitacional y otro del lado oferta de materiales.
 
-testimonios futuros, una vez exista validación real.
+Una buena estrategia comercial debe alinear cada pieza con una etapa del journey. El contenido sirve especialmente para descubrimiento y comprensión. La landing y el flujo sirven para exploración. WhatsApp, email y demos ayudan en apropiación. La oferta premium y el marketplace aparecen con más sentido en decisión y avance. Si estos componentes están coordinados, HabitatIA no solo tendrá un plan comercial más ordenado, sino también una experiencia más coherente entre lo que promete y lo que realmente entrega.
 
-## 9.4 Canales de contacto y acompañamiento
+## 9.8 Síntesis operativa del plan comercial
 
-La complejidad de la decisión habitacional hace razonable complementar la experiencia digital con canales de contacto más personales.
+Como síntesis, HabitatIA necesita un plan comercial híbrido, gradual y enfocado. Híbrido, porque su propuesta vive entre lo digital y lo físico. Gradual, porque la confianza y la validación importan más que la escala prematura. Enfocado, porque no todos los segmentos, mensajes ni canales deben activarse al mismo tiempo. La mejor estrategia inicial será aquella que priorice pocos problemas, pocos perfiles y pocas vías de adquisición, pero con alta coherencia entre marketing, ventas, marca, atención y recorrido del usuario.
 
-### 9.4.1 WhatsApp y atención conversacional
-
-Puede funcionar como puente entre la curiosidad inicial y la activación real, especialmente en usuarios que necesitan confirmar dudas antes de avanzar.
-
-### 9.4.2 Email marketing y nurturing
-
-Puede utilizarse para acompañar leads, enviar contenido relevante y sostener el interés entre el primer contacto y la decisión de uso.
-
-### 9.4.3 Demostraciones guiadas
-
-En etapas tempranas, demos breves pueden ser útiles para segmentos que requieren mayor legitimación o comprensión del producto.
-
-## 9.5 Plan comercial físico
-
-Aunque HabitatIA sea digital en su propuesta central, sería un error ignorar la dimensión física del ecosistema donde se inserta.
-
-### 9.5.1 Corralones y proveedores
-
-Pueden actuar como aliados comerciales, fuentes de legitimidad y nodos de derivación de usuarios. La lógica más razonable no sería pedirles una venta compleja, sino ofrecerles una herramienta útil para clientes que todavía no tienen claro qué construir, cuánto material van a necesitar o cómo ordenar un presupuesto preliminar. En términos operativos, podrían funcionar mediante acuerdos simples de derivación, piezas físicas en punto de venta, QR a landing pages específicas o beneficios compartidos una vez que el usuario avance dentro del flujo.
-
-### 9.5.2 Arquitectos y estudios
-
-Además de alimentar el marketplace, pueden convertirse en validadores y aliados estratégicos del canal comercial. Del lado de adquisición, su mayor valor está en referir usuarios con terreno propio o decisión de obra ya iniciada, es decir, perfiles con más probabilidad de conversión que el tráfico frío. Del lado de monetización, también pueden abrir la puerta a servicios premium o a publicaciones mejor curadas dentro del marketplace.
-
-### 9.5.3 Eventos, ferias y espacios sectoriales
-
-Este tipo de espacios puede servir para mostrar la propuesta, captar señales tempranas y construir reputación dentro del ecosistema. No deberían leerse como canal masivo, sino como instancia de legitimación y adquisición cualificada: menos volumen, pero conversaciones de mayor calidad con profesionales, proveedores y potenciales usuarios en etapa más avanzada.
-
-### 9.5.4 Articulación con actores institucionales
-
-En una fase posterior, HabitatIA podría explorar vínculos con municipalidades, organizaciones de hábitat, programas de vivienda o actores del ecosistema emprendedor y de sostenibilidad.
-
-## 9.6 Embudo comercial sugerido
-
-### 9.6.1 Atracción
-
-La etapa de Awareness debería combinar canales de intención y canales de descubrimiento. Una hipótesis inicial razonable sería trabajar con un mix donde Meta Ads y contenidos pagos expliquen el problema y generen curiosidad, Google capture búsquedas de alta intención, y las alianzas con corralones y arquitectos aporten tráfico más calificado. Como referencia operativa mensual para una primera etapa, HabitatIA podría proponerse atraer entre 5.000 y 7.000 visitas calificadas al sitio o a landing pages específicas, evitando medir éxito solo por impresiones o alcance.
-
-### 9.6.2 Conversión inicial
-
-La etapa de Consideración debería medir si ese tráfico realmente reconoce valor. Un supuesto prudente sería esperar que entre 10 % y 14 % de esas visitas dejen sus datos o inicien el flujo principal. Sobre una base de 6.000 visitas calificadas mensuales, eso implicaría entre 600 y 840 usuarios que pasan de awareness a consideración real. En esta fase, los activos más importantes no son solo la landing, sino también WhatsApp, email de seguimiento y demos breves para quienes necesiten mayor legitimación.
-
-### 9.6.3 Activación
-
-La etapa de Conversión no debería leerse como un único paso, sino como una secuencia. Primero, que el usuario complete la experiencia principal y perciba utilidad concreta. Segundo, que una parte de esos usuarios avance hacia monetización premium. Si se toma como supuesto que entre 35 % y 45 % de los usuarios que iniciaron el flujo lo completan con una experiencia satisfactoria, eso dejaría entre 210 y 378 activados mensuales sobre el escenario anterior. Si luego entre 8 % y 12 % de esos activados compran el plan premium, HabitatIA podría aspirar en una etapa temprana a entre 17 y 45 conversiones pagas mensuales, con una base de trabajo razonable en torno a 25 o 30.
-
-### 9.6.4 Monetización
-
-La monetización debería explicitarse desde el inicio con una lógica simple: entrada gratuita o de muy bajo costo para facilitar prueba, plan premium para quienes quieran descargar cómputo detallado en Excel, reporte ampliado y variantes comparativas básicas, y comisión del 8 % sobre operaciones exitosas del marketplace una vez exista suficiente tracción. En términos de economics, si el ticket inicial del premium se ubica alrededor de ARS 29.900 y el objetivo de adquisición paga se trabaja con un CAC blended deseable por debajo de ARS 12.000 a ARS 15.000 por cliente premium, la relación entre captación y monetización empieza a ser defendible. Si además una parte de esos usuarios repite, recomienda o más adelante opera dentro del marketplace, el LTV podría ubicarse razonablemente por encima del ingreso de una sola compra inicial.
-
-### 9.6.5 Retención y recomendación
-
-Buscar que la experiencia genere satisfacción, confianza y disposición a recomendar o a reutilizar la plataforma. En una primera etapa, una referencia sana podría ser aspirar a que al menos 15 % a 20 % de los usuarios activados regresen, compartan la propuesta o continúen la conversación por otro canal. Esa retención temprana vale tanto como la conversión porque ayuda a bajar CAC efectivo y mejora la calidad del aprendizaje comercial.
-
-## 9.7 Branding
-
-La identidad de marca de HabitatIA debe transmitir orden, claridad y confianza desde el primer contacto. El tono conviene que sea asertivo, pedagógico y confiable: asertivo para comunicar valor sin ambigüedad, pedagógico para explicar un proceso complejo sin volverlo técnico en exceso, y confiable para sostener una relación seria en una categoría donde el error percibido tiene mucho peso.
-
-La identidad visual debería reforzar esa lógica. El sistema de marca necesita inspirar orden, transparencia y legibilidad, evitando códigos visuales recargados o demasiado aspiracionales que puedan desconectarse de la función práctica del producto. En HabitatIA, branding y experiencia no deberían ir por carriles separados. La marca también cumple un papel en la construcción de confianza comercial.
-
-## 9.8 Mensajes clave por segmento
-
-### Para el usuario final
-
-"Entendé mejor qué vivienda podés construir y cuánto podría costarte antes de avanzar a ciegas."
-
-### Para el profesional con sobrantes
-
-"Convertí materiales inmovilizados en oportunidades concretas dentro de un canal ordenado y especializado."
-
-### Para pequeños constructores
-
-"Encontrá información útil y oportunidades de ahorro para optimizar decisiones de obra."
-
-## 9.9 Estrategia inicial recomendada
-
-Una estrategia inicial realista debería concentrarse en pocos canales, medición estricta y aprendizaje rápido. En concreto: Meta Ads para validar ángulos creativos, Google para capturar demanda de alta intención, alianzas con corralones y arquitectos para derivación cualificada, demostraciones de valor concretas dentro del flujo, y activación de una oferta inicial de materiales suficientemente confiable para que la promesa de ahorro no quede vacía.
-
-segmentos con mayor urgencia y claridad de problema;
-
-demostraciones de valor concretas;
-
-generación de primeras historias de uso;
-
-activación de una oferta inicial de materiales suficientemente confiable.
-
-## 9.10 Riesgos del plan comercial
-
-Entre los principales riesgos comerciales se encuentran:
-
-comunicar demasiado desde la novedad tecnológica y poco desde el valor práctico;
-
-captar usuarios curiosos pero no relevantes;
-
-sobredimensionar la promesa del marketplace antes de consolidar oferta;
-
-no dedicar suficiente esfuerzo a la construcción de confianza.
-
-## 9.11 Conclusión comercial
-
-El plan comercial de HabitatIA debe ser gradual, pedagógico y orientado a construir legitimidad. No se trata solo de llevar tráfico al sitio, sino de hacer que la propuesta sea comprendida, percibida como útil y adoptada por los segmentos correctos. En un proyecto de esta naturaleza, la calidad de la tracción inicial puede ser más importante que su volumen bruto.
-
-## 9.12 Go to market por fases
-
-El plan comercial puede ordenarse en una secuencia por fases que permita reducir riesgo y acumular aprendizaje.
-
-### 9.12.1 Fase 1, validación inicial con foco en captación cualificada
-
-La meta no debería ser escalar rápido, sino atraer usuarios con intención real y aprender de su comportamiento. Esta etapa puede priorizar campañas acotadas en Meta y Google, contenido educativo y demos guiadas, con foco en construir una primera línea base de métricas: volumen de visitas calificadas, porcentaje de inicio de flujo, tasa de activación, CAC por lead relevante y CAC por cliente premium.
-
-### 9.12.2 Fase 2, consolidación del valor del flujo principal
-
-Si las primeras señales son positivas, el siguiente paso sería fortalecer la experiencia principal del producto, mejorar la calidad percibida y construir confianza.
-
-### 9.12.3 Fase 3, activación progresiva del marketplace
-
-Una vez que el flujo principal se perciba como valioso, conviene potenciar el marketplace con oferta mejor curada y foco en calidad de publicaciones.
-
-### 9.12.4 Fase 4, expansión por alianzas
-
-Con una propuesta más madura, HabitatIA podría comenzar a formalizar acuerdos con actores del ecosistema físico, como corralones, proveedores, estudios y organizaciones vinculadas al hábitat.
-
-## 9.13 Lógica de confianza comercial
-
-HabitatIA necesita construir una confianza de doble cara.
-
-### 9.13.1 Confianza del usuario final
-
-Debe sentir que la plataforma no está simplificando en exceso un problema serio ni ocultando limitaciones relevantes.
-
-### 9.13.2 Confianza del profesional oferente
-
-Debe percibir que publicar materiales no implica una carga operativa excesiva y que existe una oportunidad real de conexión con demanda relevante.
-
-## 9.14 Métricas comerciales iniciales sugeridas
-
-Para gestionar el plan comercial con criterio, conviene definir un set corto de métricas vinculadas directamente al funnel. En awareness: visitas calificadas por canal, CTR de anuncios y costo por visita relevante. En consideración: tasa de inicio de flujo o captura de lead, costo por lead calificado y tasa de respuesta por WhatsApp o email. En conversión: tasa de finalización del flujo, porcentaje de usuarios que visualizan presupuesto completo, porcentaje que consulta ahorro potencial y conversion rate a premium. En economics: CAC blended por cliente premium, ticket promedio inicial, payback simple y una referencia preliminar de LTV. Si se toma el plan premium con punto de entrada en ARS 29.900 y se asume una recurrencia o extensión promedio del vínculo equivalente a 1,3 compras o eventos de valor por usuario monetizado, el LTV inicial orientativo podría ubicarse cerca de ARS 38.870 antes de considerar ingresos adicionales del marketplace. Esta métrica no debe leerse como certeza, sino como hipótesis operativa para evaluar si el CAC está en niveles sostenibles.
-
-## 9.15 La dimensión pedagógica del plan comercial
-
-HabitatIA no se comercializa solamente con anuncios. También necesita una dimensión pedagógica. El usuario debe entender por qué el producto le sirve, qué problema le resuelve y qué puede esperar de la experiencia. Por ese motivo, el contenido, las demos y la comunicación explicativa no deben tratarse como elementos accesorios, sino como piezas centrales del go to market.
-
-## 9.16 Posibles alianzas con capacidad de legitimación
-
-Más allá de aliados comerciales clásicos, también convendría explorar actores con capacidad de legitimación narrativa. Organizaciones vinculadas a vivienda, hábitat, economía circular o innovación social podrían convertirse en una capa adicional de credibilidad. No necesariamente como socios operativos inmediatos, pero sí como referencias que fortalezcan el posicionamiento del proyecto.
-
-## 9.17 Secuencia de adquisición más razonable
-
-Una secuencia comercial madura podría ser atraer con una promesa de claridad y personalización, convertir mostrando visualización y presupuesto preliminar, retener ampliando el valor mediante comparación, variantes y ahorro, monetizar cuando el usuario ya percibe utilidad suficiente y recomendar cuando la experiencia haya logrado generar alivio real frente a la incertidumbre inicial.
-
-## 9.18 Profundización del embudo comercial desde el punto de vista del usuario
-
-Desde la óptica del usuario final, el embudo no debe pensarse como un túnel de venta, sino como un proceso de ganancia de confianza.
-
-### 9.18.1 Etapa de descubrimiento
-
-El usuario identifica una plataforma que parece hablar de un problema que realmente tiene.
-
-### 9.18.2 Etapa de comprensión
-
-Empieza a entender qué hace la herramienta y por qué podría resultarle útil.
-
-### 9.18.3 Etapa de prueba o experiencia
-
-Interactúa con el producto y evalúa si efectivamente reduce su incertidumbre.
-
-### 9.18.4 Etapa de apropiación
-
-Percibe que obtuvo algo que no tenía antes: una mejor lectura de su proyecto.
-
-### 9.18.5 Etapa de avance
-
-Está en condiciones de decidir si profundiza el uso, vuelve, recomienda o avanza a una instancia siguiente.
-
-Esta lectura mejora la calidad del plan comercial porque evita tratar al usuario como un simple lead y lo ubica como alguien que necesita atravesar un proceso real de comprensión y evaluación.
-
-## 9.19 Posible estrategia de contenidos por momentos del journey
-
-Los contenidos podrían estructurarse según distintos momentos del recorrido del usuario: contenidos de descubrimiento, por qué construir es difícil de planificar y cómo ordenarlo mejor; contenidos de consideración, qué mirar en una propuesta preliminar de vivienda; contenidos de decisión, cómo interpretar materiales, costos y ahorro potencial; y contenidos de legitimación, diferencias entre una referencia aspiracional y una herramienta que ayuda a decidir. Esta arquitectura de contenidos reforzaría la coherencia entre marketing y producto.
-
-## 9.20 Expansión del plan comercial, lógica de adquisición y crecimiento
-
-El plan comercial de HabitatIA debería pensarse más como una construcción de mercado que como una simple ejecución de marketing. La categoría aún requiere pedagogía, legitimación y pruebas de valor. Esto significa que la estrategia comercial no puede basarse solo en captar usuarios, sino en construir condiciones para que esos usuarios comprendan, prueben y recomienden la propuesta.
-
-### 9.20.1 Construcción de demanda informada
-
-Una parte del trabajo comercial será ayudar a que el usuario entienda mejor su propio problema. Esto no implica inventar una necesidad, sino volverla más consciente y más organizada. El contenido educativo y la experiencia de producto trabajan juntos en esa dirección.
-
-### 9.20.2 Lógica de prueba con baja fricción
-
-Si el costo de entrada al producto es alto, la propuesta pierde una de sus ventajas fundamentales. Por eso, la primera interacción debería sentirse liviana, clara y orientada a generar una ganancia rápida de comprensión.
-
-### 9.20.3 Conversión por valor demostrado, no por presión comercial
-
-En categorías sensibles como vivienda, la conversión tiene más chances de sostenerse cuando el usuario percibe una utilidad concreta y no cuando siente presión. Esto refuerza la importancia de una experiencia clara y de una comunicación honesta.
-
-### 9.20.4 Retención basada en utilidad progresiva
-
-La retención no debería depender solo de notificaciones o recordatorios. Tendrá más sentido si el producto ofrece nuevas capas de valor a medida que el usuario avanza, por ejemplo variantes, comparaciones, nuevas oportunidades de ahorro o nuevas formas de organizar su proyecto.
-
-## 9.21 Estrategia de contenidos ampliada
-
-La estrategia de contenidos puede expandirse mucho más y volverse uno de los activos más fuertes del proyecto.
-
-### 9.21.1 Contenidos de diagnóstico
-
-Orientados a ayudar al usuario a reconocer el problema: por qué construir resulta tan difícil de ordenar, cuáles son los errores frecuentes en la etapa inicial y qué impacto tiene la mala planificación.
-
-### 9.21.2 Contenidos de traducción
-
-Diseñados para convertir lenguaje técnico en criterios accesibles. Por ejemplo, explicar cómo pensar superficie, ambientes, materiales o presupuesto sin abrumar.
-
-### 9.21.3 Contenidos de validación emocional
-
-Historias, escenas, ejemplos o casos conceptuales que ayuden al usuario a verse reflejado en la propuesta.
-
-### 9.21.4 Contenidos de ahorro y eficiencia
-
-Piezas que muestren de forma clara por qué la combinación entre proyecto habitacional y marketplace puede traducirse en un beneficio real.
-
-### 9.21.5 Contenidos para el lado profesional
-
-Artículos o piezas dirigidas a arquitectos, estudios y constructores para explicar por qué el marketplace puede resultarles útil y qué problema concreto viene a resolver.
-
-## 9.22 Desarrollo adicional del canal de recomendación
-
-En una categoría como vivienda, la recomendación puede tener un peso muy superior al de otros mercados. Las personas confían en referencias cercanas cuando perciben que la decisión tiene alto impacto económico y emocional. Por eso, HabitatIA debería considerar la recomendación no solo como resultado deseable, sino como un canal comercial en sí mismo. Si la experiencia logra ser lo suficientemente clara y útil, puede convertirse en una herramienta que el usuario quiera compartir con otras personas que atraviesan una situación similar.
-
-Gráfico 5. Embudo comercial — Atracción a monetización · Fuente: elaboración propia, Sección 9
-
-## 9.23 Importancia del tono comercial
-
-El tono con el que HabitatIA se comunica es parte del producto. Un tono excesivamente vendedor podría dañar confianza. Uno demasiado técnico podría desalentar exploración. El desafío está en encontrar un registro que combine claridad, cercanía, criterio y profesionalismo. Esta búsqueda no es menor: afecta conversión, retención y reputación.
-
-## 9.24 Necesidad de coherencia entre marketing y experiencia real
-
-Una debilidad frecuente en muchas plataformas es prometer mucho más de lo que luego entregan. En HabitatIA, la coherencia entre lo que se comunica y lo que la experiencia devuelve será crítica. El marketing no puede ir por un camino y el producto por otro. La mejor estrategia comercial será aquella que haga visible, con honestidad, el valor concreto que el usuario realmente va a encontrar.
+Si la propuesta logra atraer usuarios con necesidad real, demostrar valor en la experiencia inicial, sostener una marca confiable y construir relaciones que reduzcan fricción, HabitatIA tendrá una base comercial sólida para crecer. Desde ahí podrá sofisticar su branding, ampliar sus canales, activar con más fuerza el marketplace y convertir la utilidad percibida en monetización recurrente. El plan comercial no debe verse como una capa agregada al proyecto, sino como el mecanismo que transforma una buena idea en una adopción real.
 
 # 10. Comentarios finales y conclusiones
 
