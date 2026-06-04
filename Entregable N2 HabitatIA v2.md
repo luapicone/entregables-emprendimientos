@@ -12,27 +12,187 @@
 - **Cuatrimestre:** 1er Cuatrimestre 2026: 27/04/2026
 ## Índice
 
-1 Contexto e introducción
+> Nota: este archivo `.md` no tiene paginación nativa por hoja como un `.docx` o `.pdf`. Acá queda el índice jerárquico de secciones y subsecciones del documento.
 
-2 Problema, segmento y oportunidad
-
-3 Validación y customer discovery, buyer persona
-
-4 Enfoque general de solución
-
-5 Propuesta de valor
-
-6 Dimensionamiento de la oportunidad y del mercado
-
-7 Productos y servicios
-
-8 Entorno competitivo
-
-9 Plan comercial físico y digital
-
-10 Comentarios finales y conclusiones
-
-11 Anexos
+- Elevator Pitch
+- 1. Contexto e introducción
+  - 1.1 Introducción general
+  - 1.2 La vivienda como problema estructural
+  - 1.3 Transformaciones tecnológicas y cambio de expectativas
+  - 1.4 Ineficiencias del sector construcción
+  - 1.5 Relevancia contemporánea de HabitatIA
+  - 1.6 Objetivos de Desarrollo Sostenible involucrados
+  - 1.7 Idea fuerza del proyecto
+  - 1.8 Vivienda, incertidumbre y toma de decisiones
+  - 1.9 El valor de hacer visible lo que hoy está implícito
+  - 1.10 Relación entre aspiración habitacional y decisión económica
+  - 1.11 La etapa inicial como espacio históricamente subatendido
+  - 1.12 Pertinencia del proyecto en clave de acceso y comprensión
+  - 1.13 La vivienda como proyecto familiar y no solo como objeto físico
+  - 1.14 La oportunidad de intervenir antes de la frustración acumulada
+- 2. Problema, segmento y oportunidad
+  - 2.1 El problema central que aborda HabitatIA
+  - 2.2 Problemas secundarios que componen el problema principal
+  - 2.3 Problemas del lado de la oferta de materiales
+  - 2.4 Formulación integrada del problema
+  - 2.5 Segmentación del problema por actor
+  - 2.6 Segmentos prioritarios para una primera etapa
+  - 2.7 Oportunidad económica, social y ambiental
+  - 2.8 Señales que justifican la oportunidad
+  - 2.9 Una oportunidad basada en integración
+  - 2.10 Cómo se manifiesta el problema en distintos momentos de vida
+  - 2.11 Barreras psicológicas además de barreras económicas
+  - 2.12 Profundización sobre la experiencia de desorientación del usuario
+  - 2.13 Costos invisibles del proceso de construcción mal planificado
+  - 2.14 La oportunidad como respuesta a una frustración cotidiana y extendida
+  - 2.15 La oportunidad de ordenar antes que ejecutar
+- 3. Validación y customer discovery, buyer persona
+  - 3.1 Importancia estratégica de validar correctamente
+  - 3.2 Qué significa validar en un proyecto como HabitatIA
+  - 3.3 Hipótesis principales del proyecto a validar
+  - 3.4 Metodologías recomendadas de customer discovery
+  - 3.5 Buyer personas prioritarias
+  - 3.5 Riesgos de validación a evitar
+  - 3.6 Qué preguntas de entrevista fueron estratégicamente más útiles
+  - 3.6 Buyer personas ampliados
+  - 3.7 Mapa de empatía por segmento
+  - 3.8 Qué tipo de validación sería engañosa
+  - 3.9 Criterios de aprendizaje efectivamente obtenidos
+  - 3.10 Prioridades de aprendizaje en una primera etapa
+  - 3.11 Conclusión metodológica de esta sección
+  - 3.12 Plan de validación por etapas
+  - 3.13 Riesgos metodológicos de la validación
+  - 3.14 Validación del lado profesional y desafíos específicos
+  - 3.15 Qué aprendizajes podrían reordenar la estrategia
+  - 3.16 Buyer journey extendido del usuario final
+  - 3.17 Qué indicadores preliminares podrían observarse en validación
+  - 3.18 Lectura estratégica de validación para decidir foco inicial
+- 4. Enfoque general de solución
+  - 4.1 Principios que organizan la solución
+  - 4.2 Qué hace HabitatIA en términos funcionales
+  - 4.3 Qué no busca resolver en una primera etapa
+  - 4.4 Por qué la propuesta no es solo una herramienta de diseño
+  - 4.5 Flujo general de experiencia para el usuario final
+  - 4.6 Integración del marketplace dentro de la propuesta
+  - 4.7 Rol de la inteligencia artificial dentro del sistema
+  - 4.8 Propuesta de resolución de la incertidumbre
+  - 4.9 Solución como sistema de traducción, no solo de generación
+  - 4.10 Lógica de experiencia y aprendizaje progresivo
+  - 4.11 Componentes mínimos del MVP conceptual
+  - 4.12 Criterio de modularidad de la propuesta
+  - 4.13 Relación entre deseabilidad, factibilidad y viabilidad
+  - 4.14 Hipótesis de adopción del flujo principal
+  - 4.15 Diferencia entre experiencia útil y experiencia llamativa
+- 5. Propuesta de valor
+  - 5.1 Propuesta de valor para el usuario final
+  - 5.2 Propuesta de valor para el profesional con materiales sobrantes
+  - 5.3 Propuesta de valor para pequeños constructores o actores asociados
+  - 5.4 Qué valor integra la plataforma y por qué esa integración importa
+  - 5.5 Beneficios funcionales
+  - 5.6 Beneficios emocionales y simbólicos
+  - 5.7 Beneficios económicos
+  - 5.8 Beneficios vinculados a sostenibilidad y circularidad
+  - 5.9 Diferencial principal frente a alternativas fragmentadas
+  - 5.10 Fórmula sintética de valor
+  - 5.11 Qué tipo de promesa conviene hacer y cuál conviene evitar
+  - 5.12 Mapa resumido de dolor, alivio y ganancia
+  - 5.13 Cómo cambia la propuesta según el segmento
+  - 5.14 Umbral mínimo para que el usuario perciba valor real
+  - 5.15 Riesgos de una propuesta de valor mal comunicada
+- 6. Dimensionamiento de la oportunidad y del mercado
+  - 6.1 Lógica de dimensionamiento
+  - 6.2 Mercado potencial del lado de la demanda habitacional
+  - 6.3 Mercado potencial del lado de la oferta de materiales
+  - 6.4 Criterio TAM, SAM y SOM para HabitatIA
+  - 6.5 Primer recorte geográfico razonable
+  - 6.6 Variables que amplían la oportunidad
+  - 6.7 Variables que restringen la captura real de mercado
+  - 6.8 Mercado como problema de acceso y no solo de tamaño
+  - 6.9 Magnitud estratégica de la ineficiencia de materiales
+  - 6.10 Mercados adyacentes y posibilidad de expansión
+  - 6.11 Lectura estratégica de oportunidad
+  - 6.12 Riesgos de sobredimensionamiento
+  - 6.13 Qué señales de mercado justificarían avanzar
+  - 6.14 Cómo pensar la oportunidad sin caer en grandilocuencia
+- 7. Productos y servicios
+  - 7.1 Producto principal de la plataforma
+  - 7.2 Servicios complementarios posibles
+  - 7.3 Marketplace como producto de segunda capa
+  - 7.4 Posible lógica freemium o escalonada
+  - 7.5 Producto desde la lógica del usuario y no desde la lógica técnica
+  - 7.6 Servicios adicionales que podrían activar valor futuro
+  - 7.7 Prioridad de productos para una primera etapa
+  - 7.8 Riesgos de exceso de oferta temprana
+- 8. Entorno competitivo
+  - 8.1 Qué tipo de competencia enfrenta HabitatIA
+  - 8.2 Competencia indirecta del lado del usuario final
+  - 8.3 Competencia del lado marketplace y materiales
+  - 8.4 Alternativas sustitutas no digitales
+  - 8.5 Diferenciales competitivos posibles
+  - 8.6 Barreras de entrada y barreras de credibilidad
+  - 8.7 Ventajas relativas si la ejecución es sólida
+  - 8.8 Riesgos competitivos relevantes
+  - 8.9 Lectura estratégica del posicionamiento
+  - 8.10 Competencia como referencia, no como obsesión
+- 9. Plan comercial físico y digital
+  - 9.1 Principios generales del plan comercial
+  - 9.2 Objetivos comerciales de una primera etapa
+  - 9.3 Adquisición de usuarios del lado residencial
+  - 9.4 Activación del lado profesional y de oferentes
+  - 9.5 Estrategia de canales digitales
+  - 9.6 Estrategia de alianzas físicas y territoriales
+  - 9.7 Embudo comercial orientativo
+  - 9.8 Mensajes clave por segmento
+  - 9.9 Rol del contenido como herramienta de adquisición
+  - 9.10 Importancia de mostrar casos y simulaciones
+  - 9.11 Estrategia inicial de confianza
+  - 9.12 Lógica de crecimiento de doble cara
+  - 9.13 Métricas comerciales relevantes
+  - 9.14 Riesgos del plan comercial
+  - 9.15 Criterio para secuenciar expansión comercial
+  - 9.16 Estrategia comercial del lado de la oferta profesional
+  - 9.17 Articulación entre canal físico y canal digital
+  - 9.18 Funnel ampliado del usuario final
+  - 9.19 Posible estrategia de contenidos por momentos del journey
+  - 9.20 Expansión del plan comercial, lógica de adquisición y crecimiento
+  - 9.21 Estrategia de contenidos ampliada
+  - 9.22 Desarrollo adicional del canal de recomendación
+  - 9.23 Importancia del tono comercial
+  - 9.24 Necesidad de coherencia entre marketing y experiencia real
+- 10. Comentarios finales y conclusiones
+  - 10.1 Síntesis analítica del proyecto
+  - 10.2 Lo que el proyecto resuelve de manera más clara
+  - 10.3 Valor del marketplace como complemento estratégico
+  - 10.4 Condiciones para que HabitatIA avance con solidez
+  - 10.5 Riesgos conceptuales y operativos
+  - 10.6 Potencial de evolución del proyecto
+  - 10.7 Conclusión final
+  - 10.8 Escenarios de implementación
+  - 10.9 Roadmap propuesto
+  - 10.10 Modelo operativo preliminar
+  - 10.11 Riesgos principales del proyecto
+  - 10.12 Roadmap ampliado por fases
+  - 10.13 Modelo operativo ampliado
+  - 10.14 Riesgos de escalamiento prematuro
+  - 10.15 Escenarios de implementación más detallados
+  - 10.16 Modelo operativo por roles funcionales
+  - 10.17 Indicadores ampliados con criterio de uso
+  - 10.18 Roadmap extendido con mayor granularidad
+  - 10.19 Modelo operativo profundizado
+  - 10.20 Desarrollo ampliado de riesgos
+  - 10.21 Indicadores ampliados con interpretación estratégica
+  - 10.22 Escenarios operativos detallados
+  - 10.23 Roles y procesos por actor
+  - 10.24 Riesgos de coordinación entre capas del sistema
+  - 10.25 Criterio para evaluar el avance del proyecto
+  - 10.26 Reflexión final sobre la coherencia del sistema
+  - 10.27 La utilidad como criterio rector de todo el proyecto
+  - 10.28 Integración entre visión emprendedora y disciplina operativa
+  - 10.29 La importancia de no confundir promesa con evidencia
+  - 10.30 La ventaja de construir confianza antes que escala
+  - 10.31 HabitatIA como reorganización de una experiencia, no solo como producto
+  - 10.32 Criterio de madurez para una siguiente etapa del proyecto
+- 11. Anexos
 
 ## Elevator Pitch
 
