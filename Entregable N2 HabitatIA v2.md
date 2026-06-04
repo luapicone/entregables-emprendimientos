@@ -188,7 +188,16 @@
   - 11.11 Riesgos operativos y tecnológicos
   - 11.12 Indicadores para evaluar si el sistema funciona
   - 11.13 Síntesis de la sección
-- 12. Anexos
+- 12. Análisis de economics básicos
+  - 12.1 Criterio general y supuestos base
+  - 12.2 Modelo de demanda y proyección preliminar de ventas
+  - 12.3 Proyección preliminar de ingresos
+  - 12.4 Principales conceptos de costos variables y fijos
+  - 12.5 Principales inversiones para lanzar el proyecto
+  - 12.6 Análisis preliminar de LTV vs CAC
+  - 12.7 Análisis preliminar del punto de equilibrio
+  - 12.8 Comentarios preliminares sobre los economics del proyecto
+- 13. Anexos
 
 ## Elevator Pitch
 
@@ -2134,15 +2143,219 @@ Más importante aún, el proyecto debe preguntarse si realmente mejora la capaci
 
 El plan de operaciones y tecnología muestra que HabitatIA puede pensarse como un sistema coherente y no solo como una idea atractiva. La cadena de valor organiza cómo el emprendimiento transforma incertidumbre en comprensión y comprensión en posibilidad de acción. La solución se apoya en una plataforma modular, con dos flujos conectados, uno del lado de la demanda habitacional y otro del lado de la oferta de materiales. El soporte operativo acompaña el customer journey comercial y la tecnología actúa como habilitador, no como fin en sí mismo. La viabilidad del proyecto dependerá de que esa integración entre producto, operación, marketplace y confianza se sostenga de forma consistente.
 
-# 12. Anexos
+# 12. Análisis de economics básicos
 
-12.1 Encuestas
+## 12.1 Criterio general y supuestos base
+
+El análisis de economics de HabitatIA debe leerse como una primera modelización preliminar y no como un presupuesto cerrado. Su utilidad principal es mostrar si la lógica económica del proyecto puede sostenerse bajo supuestos razonables, coherentes con el TAM, el SAM y el SOM ya desarrollados en la sección 6, y con el esquema de monetización presentado en la propuesta comercial y en la presentación ejecutiva.
+
+Para evitar distorsiones macroeconómicas, conviene trabajar este bloque en ARS constantes 2026. De ese modo, la lectura se concentra en volumen, mix de ingresos, estructura de costos y velocidad de aprendizaje, sin confundir crecimiento operativo con inflación nominal. También es importante aclarar que el Excel mencionado en el campus no se encuentra disponible dentro de este workspace; por eso, lo que sigue funciona como un draft ya adaptado al proyecto, listo para ser volcado luego a esa plantilla.
+
+Los supuestos base del modelo son los siguientes:
+
+- Se toma como referencia un SAM operativo anual de 160.000 hogares, ya explicitado en la sección 6.
+- El SOM de mediano plazo se interpreta como una captura acumulada de 12.800 hogares al año 5, por lo que la proyección a 3 años debe ubicarse por debajo de ese umbral para seguir siendo defendible.
+- La monetización sigue la lógica definida en la sección 7: un embudo freemium de entrada, conversión a planes `Básico` y `Premium`, y una segunda capa de ingresos por marketplace, publicaciones destacadas y visibilidad profesional.
+- Los precios utilizados son los ya sugeridos en el documento: `ARS 14.900` para el plan `Básico`, `ARS 29.900` para el plan `Premium`, `8 %` de comisión sobre transacciones del marketplace, `ARS 9.900` por publicación destacada y `ARS 39.900` mensuales por pack de visibilidad profesional.
+- El modelo asume un arranque lean y founder-led, con foco en validación, antes de escalar equipo y estructura.
+
+## 12.2 Modelo de demanda y proyección preliminar de ventas
+
+La demanda no debería proyectarse directamente desde el TAM, porque eso inflaría artificialmente la escala del negocio. Tampoco conviene tomar el SAM como si fuera un universo inmediatamente accesible. La forma más razonable de proyectar ventas para HabitatIA es partir del SAM operativo anual de 160.000 hogares y aplicar una lógica gradual de captura sobre los segmentos con mayor probabilidad de adopción: hogares con intención concreta de construir o ampliar, personas con terreno propio y alta sensibilidad al error presupuestario, y luego actores profesionales vinculados al marketplace.
+
+En esta etapa, el mejor modelo no es “usuarios totales”, sino un modelo por embudo:
+
+1. Ingreso de hogares a la experiencia freemium.
+2. Conversión de una parte de esos hogares a planes pagos.
+3. Activación progresiva del marketplace sobre una fracción del flujo.
+4. Monetización complementaria del lado oferente.
+
+Bajo ese criterio, una proyección preliminar razonable a 3 años podría ser la siguiente:
+
+| Indicador | Año 1 | Año 2 | Año 3 |
+| --- | ---: | ---: | ---: |
+| Hogares en Freemium | 900 | 2.200 | 4.500 |
+| Proyectos plan Básico | 135 | 330 | 675 |
+| Proyectos plan Premium | 45 | 110 | 225 |
+| Total proyectos pagos | 180 | 440 | 900 |
+| Transacciones marketplace | 60 | 180 | 420 |
+| Publicaciones destacadas | 25 | 70 | 150 |
+| Packs mensuales de visibilidad, promedio activo | 1 | 3 | 6 |
+
+Esta trayectoria implica una captura todavía acotada del SAM anual, lo cual la vuelve más creíble:
+
+- Año 1: los 900 hogares freemium representan apenas `0,56 %` del SAM anual.
+- Año 2: los 2.200 hogares equivalen a `1,38 %` del SAM anual.
+- Año 3: los 4.500 hogares equivalen a `2,81 %` del SAM anual.
+
+La lectura estratégica de este cuadro es importante. HabitatIA no necesita conquistar una porción masiva del mercado para justificar la propuesta. Le alcanza con construir una base chica pero activa, que convierta una parte del flujo a tickets pagos y que active señales reales del lado marketplace. Además, el acumulado de hogares freemium de los tres primeros años llegaría a 7.600 casos, todavía por debajo del SOM acumulado planteado a 5 años, lo que mantiene consistencia entre la narrativa de mercado y la narrativa comercial.
+
+Gráfico 5. Embudo preliminar de demanda y conversión a 3 años · Fuente: elaboración propia, Sección 12
+
+## 12.3 Proyección preliminar de ingresos
+
+Si se aplica el mix de precios ya definido en la sección 7 sobre los volúmenes anteriores, aparece una primera proyección de ingresos que permite visualizar la lógica híbrida del modelo. El emprendimiento no depende solo de cobrar por un reporte. Combina ingresos por profundidad del servicio, transacción del marketplace y monetización del lado oferente.
+
+| Línea de ingresos | Año 1 | Año 2 | Año 3 |
+| --- | ---: | ---: | ---: |
+| Plan Básico | ARS 2.011.500 | ARS 4.917.000 | ARS 10.057.500 |
+| Plan Premium | ARS 1.345.500 | ARS 3.289.000 | ARS 6.727.500 |
+| Comisión marketplace | ARS 1.680.000 | ARS 5.040.000 | ARS 11.760.000 |
+| Publicaciones destacadas | ARS 247.500 | ARS 693.000 | ARS 1.485.000 |
+| Packs de visibilidad profesional | ARS 478.800 | ARS 1.436.400 | ARS 2.872.800 |
+| Ingresos totales | ARS 5.763.300 | ARS 15.375.400 | ARS 32.902.800 |
+
+Este cuadro deja tres lecturas útiles. La primera es que la capa residencial paga por sí sola no alcanza para sostener el negocio en una escala muy temprana, pero sí crea una base de monetización inicial. La segunda es que el marketplace empieza a volverse relevante cuando gana volumen, porque su ingreso crece sin exigir necesariamente un rediseño total del producto principal. La tercera es que los servicios para oferentes, aunque más chicos en los primeros años, ayudan a diversificar el ingreso y a profesionalizar la oferta.
+
+En términos de estrategia, esta composición es sana para una startup de este tipo. Si el usuario final tarda más en convertir, el emprendimiento todavía puede capturar valor del lado transaccional. Si el marketplace tarda más en traccionar, la capa de planes pagos puede sostener la primera etapa de aprendizaje. La clave no es que todas las líneas sean grandes desde el principio, sino que cada una abra una fuente distinta de monetización y reduzca la dependencia de una sola palanca.
+
+Gráfico 6. Evolución de ingresos por línea de negocio, años 1 a 3 · Fuente: elaboración propia, Sección 12
+
+## 12.4 Principales conceptos de costos variables y fijos
+
+La estructura de costos de HabitatIA combina costos variables relativamente claros por uso y una base de costos fijos que, en la práctica, será la principal determinante del burn rate en la etapa temprana.
+
+### Estructura conceptual de costos variables
+
+Los costos variables más relevantes serían:
+
+- consumo de APIs de lenguaje e imagen para generar outputs;
+- procesamiento incremental en cloud para cargas, reportes y almacenamiento operativo;
+- pasarelas de pago y costos asociados a cobranza;
+- soporte operativo por proyecto pago;
+- revisión, curación y soporte del marketplace;
+- entrega del servicio de visibilidad o publicación destacada del lado oferente.
+
+Para armar un draft preliminar, puede trabajarse con los siguientes costos unitarios medios:
+
+- Plan Básico: `ARS 3.200` por proyecto.
+- Plan Premium: `ARS 6.200` por proyecto.
+- Transacción marketplace: `ARS 11.000` por operación.
+- Publicación destacada: `ARS 1.000` por publicación.
+- Pack de visibilidad profesional: `ARS 8.000` mensuales por cuenta activa.
+
+Aplicado a la proyección anterior, el costo variable total quedaría del siguiente modo:
+
+| Concepto | Año 1 | Año 2 | Año 3 |
+| --- | ---: | ---: | ---: |
+| Costos variables totales | ARS 1.492.000 | ARS 4.076.000 | ARS 8.901.000 |
+| Margen de contribución | ARS 4.271.300 | ARS 11.299.400 | ARS 24.001.800 |
+
+### Estructura conceptual de costos fijos
+
+Del lado fijo, HabitatIA requeriría al menos cinco grupos de gasto:
+
+- equipo núcleo de producto, tecnología y operación;
+- infraestructura base, licencias y tooling;
+- administración, legal, contable y cumplimiento;
+- marketing base y contenido no atado a performance puntual;
+- coordinación comercial y soporte general.
+
+Un draft preliminar de costos fijos anuales, todavía en formato lean, podría ser:
+
+| Concepto fijo | Año 1 | Año 2 | Año 3 |
+| --- | ---: | ---: | ---: |
+| Equipo núcleo | ARS 8.400.000 | ARS 10.800.000 | ARS 15.000.000 |
+| Infraestructura base y software | ARS 1.400.000 | ARS 1.800.000 | ARS 2.400.000 |
+| Legal, contable y administración | ARS 900.000 | ARS 1.100.000 | ARS 1.400.000 |
+| Marca, contenido y comercial base | ARS 1.900.000 | ARS 1.900.000 | ARS 2.800.000 |
+| Costos fijos totales | ARS 12.600.000 | ARS 15.600.000 | ARS 21.600.000 |
+
+Este cuadro muestra algo central para la lectura económica del proyecto: el desafío principal no está en el costo unitario del servicio, sino en sostener una estructura fija suficientemente liviana durante la etapa de aprendizaje. El modelo puede funcionar, pero requiere disciplina de costos y foco en el flujo principal.
+
+## 12.5 Principales inversiones para lanzar el proyecto
+
+Además del gasto operativo, HabitatIA necesita una mirada inicial sobre inversiones de lanzamiento. En una startup digital de estas características, las inversiones más importantes no son necesariamente activos físicos, sino construcción de producto, setup de operación y capital de trabajo para atravesar la primera etapa sin presión de monetización prematura.
+
+Una lectura inicial de inversiones podría ser:
+
+| Inversión inicial | Monto estimado |
+| --- | ---: |
+| Desarrollo MVP y primeras integraciones de IA | ARS 8.000.000 |
+| UX, frontend, landing y sistema base de reportes | ARS 2.500.000 |
+| Setup de reglas, base de materiales y estructura de datos | ARS 2.000.000 |
+| Marca, contenidos iniciales y materiales comerciales | ARS 2.000.000 |
+| Legal, contratos, términos y estructura societaria básica | ARS 1.000.000 |
+| Capital de trabajo inicial | ARS 7.500.000 |
+| Inversión total preliminar de lanzamiento | ARS 23.000.000 |
+
+La cifra debe leerse como una combinación de inversión pre-operativa y colchón financiero para soportar los primeros meses. No significa que todo deba desembolsarse de una vez ni que todo deba financiarse externamente. Sí muestra que el proyecto no es “liviano” en términos absolutos, aunque tampoco exige una estructura industrial. Es un emprendimiento digital con capa tecnológica propia y necesidad de validación operativa real.
+
+## 12.6 Análisis preliminar de LTV vs CAC
+
+Para una primera lectura de `LTV vs CAC`, conviene trabajar con el usuario residencial pago como unidad principal y sumar, de manera prudente, un componente de valor adicional por attach a marketplace o servicios complementarios. El error más común sería asumir un LTV exagerado por crecimiento futuro hipotético. En cambio, una lectura razonable consiste en partir de la contribución unitaria actual y agregar solo una expectativa moderada de valor incremental.
+
+Bajo los supuestos utilizados:
+
+- la contribución promedio por proyecto pago residencial se ubica cerca de `ARS 14.700`;
+- a eso puede sumarse un attach progresivo por marketplace, upsell o servicios complementarios de `ARS 7.000` en Año 1, `ARS 9.000` en Año 2 y `ARS 11.000` en Año 3;
+- de esa forma, el `LTV` preliminar blended del usuario pago se ubicaría en `ARS 21.700`, `ARS 23.700` y `ARS 25.700` respectivamente.
+
+Si se trabaja con un `CAC` preliminar de `ARS 12.000` en Año 1, `ARS 9.500` en Año 2 y `ARS 8.000` en Año 3, el cuadro queda así:
+
+| Indicador | Año 1 | Año 2 | Año 3 |
+| --- | ---: | ---: | ---: |
+| LTV preliminar por usuario pago | ARS 21.700 | ARS 23.700 | ARS 25.700 |
+| CAC preliminar blended | ARS 12.000 | ARS 9.500 | ARS 8.000 |
+| Ratio LTV / CAC | 1,81x | 2,49x | 3,21x |
+
+La interpretación es clara. En el primer año, la relación sigue siendo positiva pero todavía exigente: el modelo no está roto, aunque todavía depende de aprendizaje comercial y disciplina de adquisición. En el segundo año ya aparece una zona mucho más sana. En el tercero, si efectivamente baja el CAC y mejora el attach de valor, HabitatIA podría entrar en una lógica bastante más atractiva desde el punto de vista unit economics.
+
+Más allá del ratio puntual, este análisis sugiere que el freemium debe usarse con cuidado. Si se transforma en una capa costosa de adquisición sin suficiente conversión posterior, deteriora el economics. Si funciona como filtro, aprendizaje y base de conversión, fortalece el modelo.
+
+Gráfico 7. Evolución preliminar de `LTV / CAC`, años 1 a 3 · Fuente: elaboración propia, Sección 12
+
+## 12.7 Análisis preliminar del punto de equilibrio
+
+El punto de equilibrio puede mirarse de dos maneras complementarias. La primera es por resultado anual agregado. La segunda es por cantidad de proyectos pagos equivalentes necesarios para cubrir la estructura fija, manteniendo el mix de monetización supuesto.
+
+En resultado anual agregado, el cuadro preliminar sería:
+
+| Indicador | Año 1 | Año 2 | Año 3 |
+| --- | ---: | ---: | ---: |
+| Ingresos totales | ARS 5.763.300 | ARS 15.375.400 | ARS 32.902.800 |
+| Costos variables | ARS 1.492.000 | ARS 4.076.000 | ARS 8.901.000 |
+| Margen de contribución | ARS 4.271.300 | ARS 11.299.400 | ARS 24.001.800 |
+| Costos fijos | ARS 12.600.000 | ARS 15.600.000 | ARS 21.600.000 |
+| Resultado operativo preliminar | ARS -8.328.700 | ARS -4.300.600 | ARS 2.401.800 |
+
+La conclusión preliminar es que, bajo una estructura relativamente austera, HabitatIA no llegaría al equilibrio en el primer año, seguiría cerca pero todavía debajo en el segundo, y podría cruzarlo en el tercero si se cumplen tres condiciones simultáneas:
+
+- que la conversión a planes pagos siga creciendo;
+- que el marketplace efectivamente active operaciones;
+- que la estructura fija no se expanda antes de tiempo.
+
+Si se traduce la lógica a “proyectos pagos equivalentes” necesarios para cubrir costos fijos, el punto de equilibrio aproximado quedaría en:
+
+- `531` proyectos pagos equivalentes en Año 1;
+- `608` proyectos pagos equivalentes en Año 2;
+- `810` proyectos pagos equivalentes en Año 3.
+
+Como la proyección marca `900` proyectos pagos para el tercer año, el modelo sugiere que el emprendimiento podría superar su punto de equilibrio recién cuando el marketplace y los servicios laterales acompañen. El plan residencial solo ayuda, pero no parece suficiente por sí mismo para absorber toda la estructura de costos de mediano plazo.
+
+## 12.8 Comentarios preliminares sobre los economics del proyecto
+
+La lectura global de los economics de HabitatIA es moderadamente positiva, pero con condiciones. El proyecto muestra una lógica de monetización coherente y un camino creíble hacia el equilibrio, siempre que mantenga foco y no escale estructura antes de validar el corazón del producto.
+
+Hay cinco conclusiones preliminares relevantes:
+
+- El modelo tiene sentido económico si se lo gestiona como startup lean y no como plataforma “grande” desde el día uno.
+- El marketplace no es solo un complemento narrativo; es una parte importante del economics porque mejora ingresos y diversifica monetización.
+- El `LTV / CAC` podría volverse sano relativamente rápido, pero depende de que el freemium convierta y no funcione solo como experiencia linda pero costosa.
+- El principal riesgo económico no está en el costo variable unitario, sino en la base de costos fijos y en la velocidad real de adopción.
+- El proyecto probablemente necesite financiamiento inicial o una estructura de bootstrap fuerte para atravesar los primeros dos años sin forzar monetización prematura.
+
+En síntesis, HabitatIA no aparece como un negocio inviable desde su economics básicos. Tampoco como un negocio trivial. Su viabilidad depende de ejecución: foco en segmentos de entrada, disciplina comercial, control de costos y una activación progresiva del marketplace que convierta la promesa de ahorro en ingreso real.
+
+# 13. Anexos
+
+13.1 Encuestas
 
 https://docs.google.com/spreadsheets/d/15taX3JsNnOizvyF9ycVTXIKut8VPVFiwoYt2RpNed3M/edit?usp=sharing
 
-12.2 Business Model Canvas
+13.2 Business Model Canvas
 
-12.3 Roles
+13.3 Roles
 
 Luca (CEO): lidera la visión general del proyecto y define la dirección estratégica. Es quien toma las decisiones clave y representa a HabitatIA frente a terceros.
 
