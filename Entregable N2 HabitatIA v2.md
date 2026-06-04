@@ -1387,101 +1387,154 @@ El mercado de HabitatIA puede entenderse como la convergencia entre una necesida
 
 # 7. Productos y servicios
 
-## 7.1 Convertir la idea en una oferta concreta
+## 7.1 De idea prometedora a oferta vendible
 
-Una propuesta conceptual fuerte solo se vuelve realmente operable cuando puede traducirse en una oferta concreta de productos y servicios. En el caso de HabitatIA, esta traducción es especialmente importante porque el proyecto integra componentes de distinta naturaleza: experiencia digital, generación de propuestas, información económica, marketplace y eventual articulación con actores del ecosistema de construcción. Ordenar esta complejidad en una lógica clara de oferta es fundamental tanto para la comunicación como para la estrategia de negocio.
+Para que HabitatIA funcione como emprendimiento y no solo como concepto atractivo, necesita convertir su propuesta en una arquitectura clara de productos, servicios y fuentes de ingreso. Esa arquitectura debe ser comprensible para el usuario final, monetizable para la empresa y escalable para una etapa posterior. La fortaleza del proyecto radica en que no vende únicamente una visualización bonita ni un marketplace aislado, sino una experiencia integral que ayuda a ordenar una decisión habitacional compleja. Justamente por eso, el desafío no es agregar más cosas, sino empaquetar bien lo esencial.
 
-## 7.2 Producto principal para usuario final
+La lógica de oferta de HabitatIA puede organizarse alrededor de tres núcleos. El primero es el producto digital de preplanificación para personas que quieren construir, ampliar o remodelar y todavía no tienen claridad suficiente para dar el siguiente paso. El segundo es el marketplace de materiales, orientado a detectar ahorro potencial y a conectar necesidades concretas de obra con excedentes o disponibilidad existente. El tercero es una capa de servicios asociados, que puede crecer con el tiempo para capturar más valor sin perder foco. Esta estructura permite ordenar la propuesta tanto desde la experiencia del usuario como desde la lógica del negocio.
 
-El núcleo de la oferta para el usuario final es simple de entender: a partir de la información cargada, la plataforma devuelve una propuesta habitacional preliminar que deja de ser una idea vaga y empieza a tomar forma. Allí conviven dos planos. Uno es práctico: ordenar una necesidad difusa y convertirla en una primera respuesta concreta. El otro es simbólico: ver el proyecto representado cambia la conversación y vuelve más tangible una decisión que hasta ese momento podía estar dispersa.
+## 7.2 Producto principal para el usuario final
 
-Dentro de esa experiencia, el render cumple una función decisiva. No actúa solo como recurso visual, sino como disparador de validación y conversación dentro del hogar. Permite reconocer rápidamente si la propuesta se acerca a lo buscado o si todavía está lejos. El plano orientativo con medidas suma una capa de racionalidad: ya no se trata solo de imaginar, sino de empezar a leer distribución, escala y uso del espacio con mayor seriedad.
+El producto principal de HabitatIA para el usuario final es una experiencia digital de preplanificación habitacional asistida por inteligencia artificial. Su función es tomar información inicial, como tipo de proyecto, presupuesto estimado, preferencias espaciales, superficie deseada y prioridades del hogar, y devolver una propuesta preliminar que transforme una intención difusa en una alternativa más concreta. Esa respuesta no pretende reemplazar el proyecto ejecutivo de un arquitecto ni la documentación técnica de obra. Su valor está en reducir incertidumbre, ordenar expectativas y permitir una primera evaluación realista.
 
-La propuesta gana espesor cuando aparecen el cómputo preliminar de materiales y el presupuesto estimado. Ahí el proyecto deja de ser solamente deseable y empieza a volverse evaluable. El usuario puede entender qué recursos requeriría la vivienda, qué rubros pesan más y qué decisiones impactan sobre el costo. El presupuesto, por su parte, funciona como guía de orientación, no como cifra cerrada. Ordena expectativas y permite una primera lectura de factibilidad.
+El entregable base del producto incluye una visualización referencial, un plano orientativo, una estimación preliminar de materiales y un presupuesto inicial. La visualización cumple una función emocional y práctica al mismo tiempo: ayuda a imaginar, pero también habilita una primera validación de si la propuesta se parece o no a lo buscado. El plano orientativo, por su parte, introduce una lectura espacial más racional y permite discutir distribución, escalas y lógica de uso. Cuando a eso se suma una primera estimación económica, el proyecto deja de ser solo deseable y empieza a ser discutible en términos concretos.
 
-La última capa es la comparación con el marketplace y el ahorro proyectado. Ese cruce no solo muestra cuánto podría costar la vivienda, sino también cuánto podría reducirse ese costo si parte de los materiales requeridos estuviera disponible dentro del sistema. Cuando esa instancia funciona bien, el producto deja de ser solo una herramienta de visualización y pasa a intervenir sobre una decisión económica concreta.
+La incorporación del cálculo preliminar de materiales es especialmente relevante porque conecta el mundo aspiracional del diseño con el mundo operativo de la construcción. Muchos usuarios no saben cuánto material requeriría una vivienda determinada, qué rubros pesan más o en qué decisiones se concentra una parte importante del costo. HabitatIA busca cerrar esa brecha. Al hacerlo, se posiciona como una herramienta de interpretación y traducción, no solo de generación visual. Esa capacidad de volver legible lo que hoy aparece fragmentado es uno de sus diferenciales principales.
 
-## 7.3 Producto para arquitectos, estudios y profesionales
+## 7.3 Producto del lado del marketplace
 
-Para arquitectos, estudios y profesionales, el valor aparece por otro carril: la posibilidad de convertir materiales excedentes en una oferta ordenada, visible y conectada con necesidades reales de obra. No es menor. En muchos casos se trata de stock inmovilizado, espacio ocupado y capital detenido.
+El segundo producto del emprendimiento es el marketplace contextualizado de materiales. A diferencia de un marketplace generalista, en HabitatIA la publicación y la consulta de materiales no se presentan como una actividad aislada, sino vinculada a un proyecto concreto de vivienda, ampliación o remodelación. Esto cambia la propuesta de valor. El usuario no busca materiales al azar: compara opciones sobre la base de lo que su proyecto efectivamente necesitaría. Del otro lado, arquitectos, estudios, constructores, desarrolladores pequeños o actores con sobrantes de obra pueden transformar stock inmovilizado en una oportunidad económica.
 
-Si el sistema evoluciona, esta capa puede sumar herramientas de clasificación, visibilidad y administración de publicaciones. El atractivo de fondo, sin embargo, ya está planteado desde el inicio: participar de un ecosistema donde la demanda llega contextualizada por proyectos concretos y no perdida dentro de un mercado generalista.
+La ventaja competitiva de este segundo producto está en el contexto. Un clasificado tradicional permite publicar. HabitatIA, en cambio, puede aspirar a algo más valioso: conectar oferta disponible con requerimientos específicos, cuantificados y legibles desde el proyecto. Esa capacidad aumenta la probabilidad de match relevante y mejora la percepción de utilidad para ambos lados. Si el sistema madura, podría incorporar filtros por rubro, estado, ubicación, volumen, precio comparativo y nivel de compatibilidad con el proyecto del usuario.
 
-## 7.4 Servicios complementarios posibles
+Desde el punto de vista del negocio, el marketplace funciona como una segunda pata estratégica. Primero, refuerza la propuesta principal porque traduce la idea de ahorro en una posibilidad concreta y visible. Segundo, abre una fuente adicional de monetización mediante comisión, publicaciones destacadas o herramientas premium para oferentes. Tercero, le da al emprendimiento una dimensión de circularidad y eficiencia material que fortalece la identidad del proyecto frente al mercado.
 
-Para usuarios finales, HabitatIA podría ofrecer una capa premium claramente definida. La hipótesis trabajada hasta ahora es cobrar cuando el usuario quiera profundizar y descargar entregables concretos, en particular el cómputo detallado en Excel, un reporte ampliado y variantes comparativas básicas. Como referencia preliminar, ese plan pago podría ubicarse entre ARS 25.000 y ARS 40.000 por proyecto, con un punto de entrada sugerido en ARS 29.900. Para profesionales, podría sumar publicaciones destacadas, mayor visibilidad, herramientas analíticas o una interfaz de gestión más robusta. Como capa opcional, más adelante también podría incorporar soporte humano o vinculación con profesionales para cerrar la brecha entre la propuesta preliminar y la siguiente etapa técnica.
+## 7.4 Servicios complementarios del emprendimiento
 
-## 7.5 Producto mínimo viable y producto mínimo vendible
+Además de los productos principales, HabitatIA puede desarrollar una cartera de servicios complementarios que aumente el ticket promedio y profundice la relación con el usuario. Estos servicios no deberían aparecer como el núcleo inicial del modelo, pero sí como extensiones coherentes del valor ya entregado. Entre ellos se destacan: reportes ampliados de proyecto, variantes comparativas, soporte humano para interpretación de resultados, priorización de materiales alternativos y eventual articulación con profesionales o aliados del ecosistema.
 
-Desde el desarrollo, el producto mínimo viable debería resolver un flujo completo y significativo, aunque sea con profundidad acotada. Comercialmente, el producto mínimo vendible debe ser lo suficientemente claro y valioso como para que el usuario sienta que obtuvo una respuesta útil. En HabitatIA, ambas definiciones convergen en una experiencia que combine generación de propuesta, visualización, presupuesto preliminar y oportunidad de ahorro.
+También podría incorporar servicios específicos para el lado oferente del marketplace. Por ejemplo, publicación destacada de stock, mayor visibilidad en búsquedas, panel de gestión de materiales, analítica básica de consultas, priorización de publicaciones o asesoramiento para estructurar mejor la oferta. Estos servicios no solo agregan valor para quien publica, sino que profesionalizan la calidad del marketplace y aumentan la probabilidad de transacciones efectivas.
 
-## 7.6 Organización de la oferta por capas
+En una etapa posterior, HabitatIA podría incluso abrir una capa de servicios semiasistidos o híbridos. Allí entrarían opciones como revisión humana del output preliminar, recomendación de siguiente paso técnico, derivación a profesionales aliados o armado de paquetes más avanzados para usuarios que ya están cerca de iniciar obra. La decisión estratégica, sin embargo, debe ser no sobrediseñar demasiado rápido esta capa. Primero debe consolidarse el valor del producto digital principal.
 
-La oferta puede leerse en tres capas. Una capa de acceso inicial, gratuita o muy barata, donde entran la propuesta preliminar, la visualización y una referencia económica básica. Una capa premium de profundización, donde aparecen el cómputo descargable, el reporte ampliado y las variantes comparativas. Y una capa transaccional, donde el cruce con marketplace puede derivar en comisión por operación exitosa. Leída de esta manera, la cartera conserva orden y hace explícita la lógica de monetización del proyecto desde el recorrido del usuario.
+## 7.5 Modelo de monetización y lógica de negocio
 
-## 7.7 Lectura estratégica de la cartera de productos
+El modelo de negocio de HabitatIA combina una lógica SaaS liviana de entrada con monetización transaccional y servicios de valor agregado. Esto resulta consistente con la naturaleza del problema que resuelve. La primera interacción del usuario necesita ser accesible para reducir barreras de prueba. La monetización más fuerte aparece después, cuando el usuario ya percibe utilidad suficiente como para pagar por mayor profundidad, mejores entregables o capacidad de ahorro más accionable. De esta manera, el negocio no intenta cobrar antes de demostrar valor.
 
-La cartera de HabitatIA tiene una ventaja importante: combina una experiencia de alto valor percibido para el usuario final con una lógica transaccional potencial para el lado profesional. Esto habilita más de una vía de monetización y reduce dependencia de un único modelo. A la vez, exige priorización. En una primera etapa, lo más sensato es enfocarse en la experiencia principal de planificación y ahorro, evitando dispersar el producto en demasiadas funciones secundarias.
+La monetización puede ordenarse en tres grandes fuentes. La primera es la venta de planes para usuarios finales. Allí el ingreso surge de cobrar por profundidad de análisis, descargables y variantes comparativas. La segunda es la monetización del marketplace, a través de comisión por operación exitosa y eventualmente por publicación destacada. La tercera es la venta de servicios asociados, tanto para usuarios como para oferentes, cuando el emprendimiento ya cuente con tracción suficiente y credibilidad operativa.
 
-## 7.8 Riesgos de diseño de oferta
+Esta combinación es atractiva porque evita la dependencia de una sola fuente de ingresos. Si el usuario final todavía no paga masivamente, el proyecto puede capturar valor en transacciones o servicios complementarios. Si el marketplace tarda más en desarrollarse, la capa premium del servicio principal puede sostener una monetización inicial. En términos estratégicos, se trata de un modelo híbrido y progresivo: primero atraer y convertir; luego profundizar valor; finalmente monetizar la interacción económica entre oferta y demanda.
 
-Entre los riesgos a gestionar aparecen tres: sobrecargar la experiencia inicial con demasiadas promesas, empaquetar servicios que el usuario todavía no percibe como necesarios y perder claridad comercial por mezclar demasiados modelos a la vez.
+## 7.6 Paquetización de la oferta: freemium, básico y premium
 
-La oferta debe crecer por profundidad y validación, no por acumulación prematura de funcionalidades.
+Para que la propuesta comercial sea clara, HabitatIA debería organizar su oferta principal en tres planes para usuarios finales. Esta paquetización simplifica la comunicación, ayuda a ordenar expectativas y vuelve más tangible la diferencia entre probar la plataforma y contratar una capa más profunda de servicio.
 
-## 7.9 Evolución posible del servicio para usuario final
+### 7.6.1 Plan Freemium
 
-En una etapa posterior, HabitatIA podría evolucionar su servicio para incluir no solo una propuesta estática, sino también opciones comparativas. Por ejemplo, mostrar cómo cambiaría el presupuesto si se ajusta superficie, si se modifica materialidad o si se prioriza una construcción por etapas. Esto reforzaría su posición como herramienta de decisión, no solo como generador de una alternativa única.
+El plan Freemium funciona como puerta de entrada. Su objetivo es maximizar prueba, aprendizaje y generación de leads calificados. En este nivel, el usuario puede cargar los datos centrales del proyecto y recibir una respuesta inicial suficientemente valiosa como para entender de qué se trata HabitatIA. El alcance sugerido incluye una propuesta habitacional preliminar, una visualización base, una lectura general de superficie, una estimación económica resumida y una primera referencia de materiales en nivel agregado. También puede incluir una indicación preliminar de ahorro potencial, siempre presentada como hipótesis orientativa.
 
-## 7.10 Evolución posible del lado oferente
+Este plan no debería incluir descargables completos, variantes comparativas avanzadas ni cómputo detallado. La lógica es clara: mostrar valor, no regalar toda la profundidad. Su función comercial es reducir ansiedad, permitir testeo y preparar la conversión a un plan pago cuando el usuario quiere avanzar de verdad.
 
-Para arquitectos, estudios y constructores, el valor podría crecer si el marketplace ofrece más que publicación simple. Por ejemplo, categorías mejor estructuradas, recomendaciones de precio, indicadores de consulta o herramientas de priorización de stock. Estas capas no son necesarias para el inicio, pero muestran que la lógica del producto puede escalar en sofisticación también del lado de la oferta.
+### 7.6.2 Plan Básico
 
-## 7.11 Arquitectura de oferta para una etapa posterior
+El plan Básico representa el primer nivel pago. Está pensado para usuarios que ya vieron valor en la experiencia inicial y necesitan un entregable más accionable, pero todavía no requieren una exploración amplia de alternativas. En este nivel, HabitatIA puede ofrecer render y plano orientativo descargables, presupuesto preliminar más desarrollado, cómputo de materiales con mayor desglose y un reporte sintético que ordene criterios, supuestos y alcances del proyecto.
 
-Si HabitatIA evolucionara favorablemente, su oferta podría organizarse en tres niveles comerciales. Un nivel exploratorio para usuarios que necesitan una primera aproximación y todavía no están listos para profundizar demasiado. Un nivel de decisión para quienes ya avanzaron en el flujo y necesitan comparaciones, variantes y mayor nivel de detalle para tomar una determinación. Un nivel profesional o de vinculación técnica para los casos en que la propuesta preliminar deba conectarse con servicios, actores o verificaciones más avanzadas.
+Este plan cumple un rol importante porque permite monetizar sin exigir todavía un ticket demasiado alto. Además, captura a usuarios que quizá no estén listos para un paquete más profundo, pero sí para pagar por una versión más útil y presentable de la propuesta. En términos comerciales, el plan Básico también funciona como puente entre curiosidad y decisión.
 
-Esta arquitectura permitiría ordenar mejor la escalabilidad del modelo de negocio y sostener una narrativa más clara frente al usuario.
+### 7.6.3 Plan Premium
 
-## 7.12 El valor del producto para etapas, no solo para proyectos completos
+El plan Premium es la oferta de mayor profundidad para el usuario residencial o familiar. Está pensado para quienes necesitan comparar alternativas, bajar el nivel de incertidumbre al máximo posible dentro de la etapa preliminar y contar con entregables más completos. Aquí se incluirían variantes comparativas de proyecto, análisis más fino de presupuesto, cómputo detallado en formato descargable, lectura de oportunidades de ahorro mediante marketplace y un reporte ampliado para apoyar la toma de decisión.
 
-Una fortaleza potencial del proyecto es que no necesita limitarse a viviendas “completas” desde el día uno. También podría servir para decisiones parciales o por etapas, como por ejemplo ampliación de un ambiente, incorporación de una unidad funcional, definición de una primera fase de obra sobre un terreno o reorganización de materiales y costos en un proyecto incremental. Esto amplía el universo de uso sin romper la esencia del proyecto.
+La lógica del Premium no es solo sumar archivos. Es ofrecer mayor claridad, más criterio y más capacidad de evaluación antes de comprometer recursos importantes. Por eso, este plan concentra el mayor valor percibido del lado del usuario final y se vuelve la pieza central de monetización temprana del emprendimiento.
 
-## 7.13 Escenario económico y monetización por fases
+## 7.7 Precios sugeridos
 
-La monetización puede ordenarse en cuatro momentos. Primero, una etapa inicial con monetización mínima o nula y foco en validación, donde la prioridad sea aprender si el flujo principal genera valor real. En esa instancia, una propuesta gratuita o parcialmente gratuita puede tener sentido si permite recoger datos relevantes sobre comportamiento, comprensión y percepción de utilidad.
+En esta etapa del emprendimiento, los precios deben entenderse como hipótesis comerciales razonables, no como valores definitivos e inmutables. Sin embargo, es importante especificarlos para mostrar que el modelo es económicamente pensable y no solo conceptualmente atractivo.
 
-Después, una monetización temprana del servicio principal, sin necesidad de cobrar el acceso inicial. La hipótesis definida es mantener gratuita, o muy barata, la primera experiencia orientativa y cobrar un plan premium cuando el usuario quiera descargar entregables concretos de mayor profundidad. Ese plan incluiría el cómputo detallado en Excel, un reporte ampliado y variantes comparativas básicas. Como referencia preliminar, podría ubicarse entre ARS 25.000 y ARS 40.000 por proyecto, con un punto de entrada sugerido cercano a ARS 29.900.
+Para el usuario final, se propone la siguiente referencia:
 
-En una tercera fase, si el marketplace empieza a mostrar movimiento real, la plataforma podría capturar valor mediante comisión por transacción, publicación destacada o servicios de visibilidad para oferentes. Como hipótesis inicial de pricing, se definió una comisión del 8 % sobre la operación como un punto intermedio razonable: no tan alta como para desalentar la publicación de excedentes, pero no tan baja como para volver débil la captura de valor por intermediación, confianza, visibilidad y matching contextualizado. Esta fase exige más madurez porque depende de confianza, volumen y calidad de coincidencias.
+- Plan Freemium: gratuito
+- Plan Básico: ARS 14.900 por proyecto
+- Plan Premium: ARS 29.900 por proyecto
 
-Vista en conjunto, la lógica de monetización queda definida en tres capas: acceso inicial gratuito o de muy bajo costo para entrada, capa premium para profundidad y descarga de entregables, y comisión sobre transacción exitosa en marketplace cuando la plataforma efectivamente conecta oferta y demanda. Más adelante, HabitatIA podría además combinar ingresos provenientes de usuarios finales, actores del marketplace y acuerdos con aliados. Esa diversificación fortalecería la sustentabilidad del modelo.
+Dentro de una lógica de validación comercial, el plan Premium podría moverse dentro de una banda de ARS 25.000 a ARS 40.000 según profundidad del entregable, cantidad de variantes y nivel de sofisticación del output. El valor de ARS 29.900 aparece como un punto de entrada intermedio y defendible: suficientemente alto como para comunicar valor, pero todavía accesible para un usuario que está evaluando una decisión habitacional significativa.
 
-## 7.14 Consideraciones sobre pricing
+Para el marketplace, la referencia económica sugerida es:
 
-La lógica de pricing no solo comunica costo. También comunica categoría, alcance y momento de valor. Un precio demasiado alto puede desalentar la prueba inicial. Uno demasiado bajo puede debilitar la percepción de valor o sostener un modelo frágil. Por eso, conviene validar niveles de profundidad del servicio antes de consolidar una estructura definitiva.
+- Comisión por transacción exitosa: 8 % sobre el valor de la operación
+- Publicación destacada para oferentes: ARS 9.900 por publicación destacada
+- Pack mensual de visibilidad para profesionales o estudios: ARS 39.900 mensuales
 
-La estrategia general es cobrar por fases y según el valor efectivamente percibido. El usuario final paga cuando necesita más profundidad y entregables concretos. El oferente o la transacción pagan cuando la plataforma efectivamente ayuda a monetizar un excedente. Así, el negocio evita depender de una sola fuente de ingresos y mantiene coherencia con la secuencia de uso del producto.
+Estos valores permiten mostrar que HabitatIA puede capturar ingresos tanto en la etapa de decisión del usuario como en la etapa de circulación de materiales. A futuro, los precios podrán ajustarse según adopción, costo de adquisición, tasa de conversión y valor percibido real.
 
-## 7.15 Riesgos de sobrediseñar la cartera de servicios
+## 7.8 Matriz de productos y servicios con alcance
 
-Un error frecuente en proyectos prometedores es querer convertir demasiado rápido una idea consistente en una oferta hipertrofiada. HabitatIA debe evitar ese riesgo. La expansión de productos y servicios solo tendrá sentido si cada capa nueva refuerza el valor central del recorrido. Cuando una cartera crece antes que la comprensión del usuario, la propuesta se debilita en lugar de fortalecerse.
+Para ordenar la propuesta del emprendimiento, la siguiente matriz textual resume los productos y servicios propios de HabitatIA, su público objetivo, el alcance de cada uno y la lógica de cobro.
 
-## 7.16 El producto como antesala de relaciones más profundas
+### 7.8.1 Producto: experiencia de preplanificación Freemium
 
-Otra lectura estratégica es entender que el producto principal también puede funcionar como puerta de entrada a relaciones más profundas con usuarios y actores del ecosistema. Un usuario que confía en la experiencia inicial podría luego demandar más profundidad. Un profesional que prueba el marketplace podría involucrarse más activamente. Esta capacidad del producto para abrir relaciones futuras aumenta su relevancia dentro de la arquitectura general del proyecto.
+- Usuario objetivo: personas que quieren construir, ampliar o remodelar y están en etapa exploratoria
+- Alcance: carga guiada del proyecto, propuesta preliminar, visualización base, lectura general de superficie, presupuesto resumido y referencia inicial de materiales
+- Objetivo de negocio: atracción, prueba, generación de leads y aprendizaje de uso
+- Precio: gratuito
 
-## 7.17 Profundización sobre el producto como experiencia progresiva
+### 7.8.2 Producto: plan Básico de preplanificación
 
-HabitatIA puede fortalecerse si entiende su oferta como una experiencia progresiva y no como un paquete rígido. El valor no tiene por qué entregarse todo de una sola vez. De hecho, en muchos casos convendrá que el producto acompañe la maduración de la decisión. Una primera respuesta visual puede abrir la puerta. Un cálculo preliminar más fino puede profundizar el análisis. Un cruce con marketplace puede agregar una capa de oportunidad económica. Esta progresividad mejora la lógica del producto y su potencial de adopción.
+- Usuario objetivo: personas que ya validaron interés y quieren un entregable más concreto
+- Alcance: render descargable, plano orientativo descargable, presupuesto preliminar más desarrollado, cómputo de materiales con mayor desglose y reporte sintético
+- Objetivo de negocio: primera monetización directa del servicio principal
+- Precio: ARS 14.900 por proyecto
 
-## 7.18 Relación entre servicio digital y posibilidad de servicios asociados
+### 7.8.3 Producto: plan Premium de preplanificación
 
-Otra ventaja de la arquitectura de productos y servicios es que el servicio digital principal puede convivir, a futuro, con una red de servicios asociados sin perder foco. El punto clave es que esos servicios no deberían aparecer como una sobrecarga prematura, sino como una consecuencia natural del valor inicial ya demostrado. Cuando una experiencia digital logra ordenar bien una primera necesidad, se vuelve mucho más plausible ofrecer luego capas complementarias con sentido.
+- Usuario objetivo: usuarios con intención de decisión más seria y necesidad de mayor profundidad
+- Alcance: todo lo incluido en Básico, más variantes comparativas, cómputo detallado descargable, reporte ampliado, análisis económico más fino y lectura de ahorro potencial con marketplace
+- Objetivo de negocio: monetización principal del lado demanda
+- Precio: ARS 29.900 por proyecto
 
-## 7.19 La cartera de productos como instrumento de priorización estratégica
+### 7.8.4 Producto: marketplace de materiales
 
-Definir productos y servicios no solo sirve para comunicar mejor. También obliga a priorizar. En HabitatIA, esta función es especialmente valiosa, porque el proyecto podría expandirse en demasiadas direcciones simultáneamente. Una cartera clara ayuda a distinguir qué pertenece al núcleo, qué funciona como complemento y qué debería quedar para una etapa posterior. Esa disciplina protege al proyecto de la dispersión.
+- Usuario objetivo: usuarios que buscan ahorro y actores con sobrantes o stock disponible
+- Alcance: publicación de materiales, cruce entre oferta y demanda, comparación de oportunidades y detección de ahorro potencial
+- Objetivo de negocio: reforzar propuesta de valor y capturar comisión sobre operaciones exitosas
+- Precio: 8 % de comisión por transacción efectiva
+
+### 7.8.5 Servicio: publicación destacada
+
+- Usuario objetivo: arquitectos, estudios, constructores, corralones pequeños o actores con necesidad de mayor visibilidad
+- Alcance: priorización visual dentro del marketplace, mejor exposición y posibilidad de destacar materiales o publicaciones estratégicas
+- Objetivo de negocio: monetización adicional del lado oferente
+- Precio: ARS 9.900 por publicación destacada
+
+### 7.8.6 Servicio: pack de visibilidad profesional
+
+- Usuario objetivo: profesionales y oferentes frecuentes
+- Alcance: publicaciones destacadas recurrentes, panel de gestión, métricas básicas de consulta y mejor posicionamiento dentro del sistema
+- Objetivo de negocio: ingreso recurrente del lado B2B
+- Precio: ARS 39.900 mensuales
+
+### 7.8.7 Servicio futuro: soporte o revisión asistida
+
+- Usuario objetivo: usuarios que necesitan bajar incertidumbre antes de avanzar hacia una instancia técnica
+- Alcance: revisión humana del entregable, aclaración de supuestos, recomendación de siguiente paso y mejor interpretación del resultado
+- Objetivo de negocio: aumentar ticket promedio y profundizar vínculo con usuarios de alta intención
+- Precio de referencia: ARS 19.900 por instancia
+
+## 7.9 Alcance estratégico de la cartera
+
+Una virtud importante de esta cartera es que ordena claramente qué se entrega, a quién se le entrega y cuándo se monetiza. No todas las propuestas de HabitatIA cumplen la misma función. El Freemium sirve para atraer y demostrar valor. El Básico convierte interés en ingreso inicial. El Premium concentra la propuesta más robusta y mejora margen por usuario. El marketplace amplía el diferencial económico del producto y agrega una capa transaccional. Los servicios para oferentes y las capas asistidas funcionan como complementos de ticket y sofisticación.
+
+Esta lógica también ayuda a evitar uno de los riesgos típicos de los emprendimientos tempranos: intentar monetizar todo al mismo tiempo sin haber diferenciado correctamente los momentos de uso. HabitatIA necesita secuencia. Primero debe captar y educar. Luego debe ayudar a decidir. Después puede profundizar monetización sobre usuarios, oferentes y operaciones.
+
+## 7.10 Riesgos y criterios para validar la oferta
+
+Aunque la propuesta de productos y servicios sea sólida en términos conceptuales, igual necesita validación. El principal riesgo del plan Freemium es regalar demasiado valor sin lograr conversión. El principal riesgo del Básico es quedar en una zona intermedia poco clara si el usuario no percibe suficiente diferencia respecto del acceso gratuito. El principal riesgo del Premium es fijar un precio que el usuario considere alto si el entregable no transmite profundidad real. Del lado del marketplace, el riesgo crítico es no alcanzar masa suficiente de oferta y demanda al mismo tiempo.
+
+Por eso, la validación comercial debería concentrarse en cuatro preguntas. Primero, si el usuario entiende claramente la diferencia entre Freemium, Básico y Premium. Segundo, si el output pago efectivamente baja ansiedad y mejora la sensación de claridad. Tercero, si la referencia de precio se percibe como razonable frente al valor recibido. Cuarto, si el marketplace logra producir matches suficientemente útiles como para justificar comisión y servicios de visibilidad.
+
+## 7.11 Síntesis de la sección
+
+La sección de productos y servicios permite mostrar que HabitatIA no es solo una idea atractiva sobre IA y construcción, sino un emprendimiento con una oferta estructurada, monetizable y escalable. El producto principal ordena la etapa preliminar de decisión habitacional. El marketplace agrega una fuente concreta de ahorro y una segunda pata de negocio. La paquetización Freemium, Básico y Premium hace explícito el recorrido comercial del usuario. La matriz de alcance muestra qué se entrega en cada caso. Y la definición preliminar de precios ayuda a demostrar viabilidad económica sin perder realismo de etapa temprana.
 
 # 8. Entorno competitivo
 
