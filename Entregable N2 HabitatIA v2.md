@@ -12,7 +12,6 @@
 - **Cuatrimestre:** 1er Cuatrimestre 2026: 27/04/2026
 ## Índice
 
-> Nota: este archivo `.md` no tiene paginación nativa por hoja como un `.docx` o `.pdf`. Acá queda el índice jerárquico de secciones y subsecciones del documento.
 
 - Elevator Pitch
 - Informe ejecutivo
