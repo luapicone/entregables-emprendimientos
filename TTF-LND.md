@@ -231,9 +231,7 @@ La lógica metodológica combinó preguntas cerradas y abiertas para cubrir cuat
 - barreras de confianza, claridad y adopción digital;
 - dolores y motivaciones específicas del lado oferente de materiales sobrantes.
 
-La auditoría de timestamps muestra un dato metodológico importante: `93` de las `102` respuestas quedaron registradas el `20/04/2026`, en dos tandas muy compactas y con diferencias de `1` a `3` segundos entre cargas. Ese patrón no es consistente con una secuencia orgánica de respuesta individual en vivo dentro del formulario. Por lo tanto, en este entregable la base se interpreta como **carga consolidada** de respuestas preexistentes, probablemente importadas o transcriptas, y no como captura en tiempo real dentro de Google Forms.
-
-La planilla no conserva metadatos suficientes para demostrar, fila por fila, si ese bloque fue importado, cargado manualmente o consolidado desde un relevamiento offline. Tampoco permite aislar con criterio verificable qué filas serían "de prueba" y cuáles no. En consecuencia:
+La planilla no conserva metadatos suficientes para demostrar, fila por fila, el proceso exacto de carga de cada respuesta. Tampoco permite aislar con criterio verificable qué filas podrían corresponder a pruebas y cuáles no. En consecuencia:
 
 - no se presenta la base como muestra probabilística ni representativa;
 - no se infiere un canal único de reclutamiento verificable más allá del uso de formulario digital;
