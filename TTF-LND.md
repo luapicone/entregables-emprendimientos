@@ -9,9 +9,11 @@
 - **Facultad:** Empresariales
 - **Universidad:** Universidad Austral
 - **Profesor:** Gonzalo Barbieri Muelas
-- **Fecha:** 19/08/2026
+- **Fecha:** 25/08/2026
 
 ## Indice
+
+Nota de presentación: este archivo es la fuente maestra en Markdown. La paginación definitiva del índice debe cerrarse sobre la exportación final a PDF o DOCX.
 
 - I. Informe Ejecutivo
 - II. Introduccion al Proyecto
@@ -19,7 +21,7 @@
 - IV. Problema, oportunidad y segmentos
 - V. Validacion y customer discovery: mapa de empatia y buyer persona
 - VI. Enfoque general de solucion
-- VII. Propuesta de valor para stakeholders, Product Market Fit por segmento y Value Proposition Canvas
+- VII. Propuesta de valor para stakeholders, Hipótesis de Product-Market Fit y criterios de validación por segmento, y Value Proposition Canvas
 - VIII. Potencial mercado objetivo y segmentacion: TAM, SAM y SOM
 - IX. Productos y servicios: definicion y atributos
 - X. Comentarios y conclusiones parciales
@@ -214,79 +216,98 @@ El customer discovery tuvo una funcion doble. Por un lado, confirmar si el probl
 
 ### 5.2 Trabajo de campo realizado
 
-La evidencia trazable disponible para este entregable se apoya en un relevamiento primario mediante formulario digital semiestructurado y en la lectura cualitativa de respuestas abiertas, complementada con fuentes secundarias del sector [8]. El formulario quedo anexado en una planilla de respuestas y relevo dos perfiles principales:
+La evidencia trazable disponible para este entregable se apoya en un formulario digital consolidado en Google Sheets [8], complementado con lectura cualitativa de respuestas abiertas y con fuentes secundarias del sector. El período visible en la planilla va del `20/04/2026` al `08/06/2026`.
 
-- `102` respuestas totales.
-- `72` respuestas de particulares o familias que quieren construir o ampliar, equivalentes al `70,6 %` de la muestra.
+La base preservada releva dos perfiles principales:
+
+- `102` respuestas totales;
+- `72` respuestas de particulares o familias que quieren construir o ampliar, equivalentes al `70,6 %` de la muestra;
 - `30` respuestas de profesionales del sector, principalmente arquitectos o constructores, equivalentes al `29,4 %`.
 
-La logica metodologica combino preguntas cerradas y abiertas para cubrir cuatro dimensiones:
+La lógica metodológica combinó preguntas cerradas y abiertas para cubrir cuatro dimensiones:
 
 - perfil del respondente y contexto del proyecto;
-- momento de mayor friccion dentro del proceso de vivienda;
-- barreras de confianza, claridad y adopcion digital;
-- dolores y motivaciones especificas del lado oferente de materiales sobrantes.
+- momento de mayor fricción dentro del proceso de vivienda;
+- barreras de confianza, claridad y adopción digital;
+- dolores y motivaciones específicas del lado oferente de materiales sobrantes.
 
-En esta version, la validacion documenta de forma explicita la encuesta real efectivamente preservada en el repositorio y sus principales hallazgos. La siguiente profundizacion recomendable es sumar entrevistas uno a uno con transcripcion o minuta anexa para reforzar la capa cualitativa de lenguaje, proceso decisional y disposicion a pagar.
+La auditoría de timestamps muestra un dato metodológico importante: `93` de las `102` respuestas quedaron registradas el `20/04/2026`, en dos tandas muy compactas y con diferencias de `1` a `3` segundos entre cargas. Ese patrón no es consistente con una secuencia orgánica de respuesta individual en vivo dentro del formulario. Por lo tanto, en este entregable la base se interpreta como **carga consolidada** de respuestas preexistentes, probablemente importadas o transcriptas, y no como captura en tiempo real dentro de Google Forms.
+
+La planilla no conserva metadatos suficientes para demostrar, fila por fila, si ese bloque fue importado, cargado manualmente o consolidado desde un relevamiento offline. Tampoco permite aislar con criterio verificable qué filas serían "de prueba" y cuáles no. En consecuencia:
+
+- no se presenta la base como muestra probabilística ni representativa;
+- no se infiere un canal único de reclutamiento verificable más allá del uso de formulario digital;
+- la selección se clasifica como **muestra de conveniencia, exploratoria y no probabilística**;
+- el alcance geográfico debe leerse como **exploratorio sobre Argentina**, con foco conceptual en hogares urbanos y profesionales vinculados a obra, no como medición territorial cerrada.
+
+En esta versión, la validación documenta de forma explícita la base efectivamente preservada y sus principales hallazgos, pero reconoce también su límite de trazabilidad. La siguiente profundización recomendable es sumar entrevistas uno a uno con fecha, canal, localidad y minuta anexa para reforzar la capa cualitativa y mejorar la auditabilidad del trabajo de campo.
 
 ### 5.3 Resultados principales del segmento demanda
 
-En el segmento de particulares y familias, los hallazgos muestran un patron muy consistente. La falta de claridad aparece concentrada sobre todo en:
+En el segmento de particulares y familias, los hallazgos muestran un patrón muy consistente. La falta de claridad aparece concentrada sobre todo en:
 
-- calculo de costos y presupuesto: `29/72` respuestas (`40,3 %`);
-- definicion de cantidad y tipo de materiales: `28/72` respuestas (`38,9 %`);
-- comparacion de opciones de construccion: `13/72` respuestas (`18,1 %`);
-- visualizacion del resultado final: `12/72` respuestas (`16,7 %`).
+- cálculo de costos y presupuesto: `29/72` respuestas (`40,3 %`);
+- definición de cantidad y tipo de materiales: `28/72` respuestas (`38,9 %`);
+- comparación de opciones de construcción: `13/72` respuestas (`18,1 %`);
+- visualización del resultado final: `12/72` respuestas (`16,7 %`).
 
-Cuando se pregunta por el principal temor al pensar en construir, el resultado es todavia mas claro:
+Pregunta de respuesta múltiple; por ello los porcentajes pueden superar el `100 %`.
+
+Cuando se pregunta por el principal temor al pensar en construir, el resultado es todavía más claro:
 
 - riesgo de sobrecostos imprevistos: `51/72` respuestas (`70,8 %`);
 - dependencia de opiniones de terceros: `13/72` (`18,1 %`);
-- no dominar el lenguaje tecnico del rubro: `11/72` (`15,3 %`);
+- no dominar el lenguaje técnico del rubro: `11/72` (`15,3 %`);
 - dificultad para visualizar el resultado real: `10/72` (`13,9 %`).
 
-Respecto del posible marketplace de materiales sobrantes, las dudas no se concentran primero en el precio, sino en la confianza y la operacion:
+Pregunta de respuesta múltiple; por ello los porcentajes pueden superar el `100 %`.
+
+Respecto del posible marketplace de materiales sobrantes, las dudas no se concentran primero en el precio, sino en la confianza y la operación:
 
 - calidad o estado real del material: `30/72` respuestas (`41,7 %`);
-- logistica y flete: `27/72` (`37,5 %`);
+- logística y flete: `27/72` (`37,5 %`);
 - compatibilidad del material con el proyecto: `14/72` (`19,4 %`);
-- falta de garantia formal: `12/72` (`16,7 %`).
+- falta de garantía formal: `12/72` (`16,7 %`).
+
+Pregunta de respuesta múltiple; por ello los porcentajes pueden superar el `100 %`.
 
 La lectura cualitativa de las respuestas abiertas refuerza esa misma conclusion. El usuario residencial no esta pidiendo solamente un render o una idea visual. Esta pidiendo una herramienta que le baje ansiedad, le ordene cantidades, le traduzca costos y le ofrezca señales visibles de respaldo.
 
 ### 5.4 Resultados principales del segmento oferta
 
-Del lado profesional, la validacion confirma que el problema del excedente existe y es operativo, no teorico. Los principales dolores de cabeza al final de obra son:
+Del lado profesional, la validación confirma que el problema del excedente existe y es operativo, no teórico. Los principales dolores de cabeza al final de obra son:
 
 - tiempo administrativo para intentar vender sobrantes: `8/30` respuestas (`26,7 %`);
-- espacio fisico bloqueado en obra o galpon: `8/30` (`26,7 %`);
+- espacio físico bloqueado en obra o galpón: `8/30` (`26,7 %`);
 - deterioro del material a la intemperie: `7/30` (`23,3 %`);
-- costo del flete hacia otro deposito: `7/30` (`23,3 %`).
+- costo del flete hacia otro depósito: `7/30` (`23,3 %`).
 
 En cuanto a la tolerancia administrativa para publicar materiales:
 
-- `11/30` aceptan una carga minima, idealmente de un minuto (`36,7 %`);
-- `11/30` aceptan una carga moderada si garantiza venta rapida (`36,7 %`);
-- `8/30` toleran una carga alta solo si el retorno economico es significativo (`26,7 %`).
+- `11/30` aceptan una carga mínima, idealmente de un minuto (`36,7 %`);
+- `11/30` aceptan una carga moderada si garantiza venta rápida (`36,7 %`);
+- `8/30` toleran una carga alta solo si el retorno económico es significativo (`26,7 %`).
 
 Las principales objeciones respecto a vender sobrantes a particulares por internet fueron:
 
-- perder tiempo en regateos o consultas improductivas: `8/30` respuestas (`26,7 %`);
-- tener que coordinar personalmente la logistica: `8/30` (`26,7 %`);
-- tener que cargar descripciones tecnicas demasiado largas: `7/30` (`23,3 %`);
-- afrontar reclamos posteriores por el estado del material: `6/30` (`20,0 %`).
+- perder tiempo en regateos o consultas improductivas: `9/30` respuestas (`30,0 %`);
+- tener que coordinar personalmente la logística: `9/30` (`30,0 %`);
+- tener que cargar descripciones técnicas demasiado largas: `7/30` (`23,3 %`);
+- afrontar reclamos posteriores por el estado del material: `7/30` (`23,3 %`).
+
+Pregunta de respuesta múltiple; por ello los porcentajes pueden superar el `100 %`.
 
 Las respuestas abiertas agregan un matiz importante: el incentivo profesional no es solo economico. Tambien aparece la necesidad de liberar espacio, cerrar obra mas limpio y evitar desgaste logistico. Por eso, la publicacion de sobrantes solo resulta atractiva si la plataforma reduce friccion en vez de agregar otra tarea.
 
-### 5.5 Hipotesis confirmadas, parciales y rechazadas
+### 5.5 Hipótesis confirmadas, parciales y rechazadas
 
-A partir del trabajo de campo, las hipotesis del proyecto pueden ordenarse asi:
+A partir del trabajo de campo, las hipótesis del proyecto pueden ordenarse así:
 
-- **Confirmadas:** la incertidumbre presupuestaria es uno de los dolores mas fuertes; el calculo de materiales es un punto critico; y una experiencia que integre visualizacion, materiales y costo preliminar tiene valor diferencial.
-- **Parcialmente confirmadas:** existe interes en comprar materiales sobrantes, pero solo bajo condiciones exigentes de confianza, garantia y logistica. La oportunidad existe, aunque no de forma automatica.
-- **Confirmadas con condicion operativa:** del lado profesional hay motivacion para publicar excedentes, pero solo si la operatoria es muy simple o claramente rentable.
-- **No confirmadas todavia:** disposicion real a pagar por un plan premium, frecuencia de reutilizacion del servicio y tasa de conversion efectiva desde un flujo gratuito hacia uno pago.
-- **Rechazadas como supuestos suficientes:** ni el ahorro por si solo ni la novedad de usar IA alcanzan para movilizar adopcion si no vienen acompañados por claridad, respaldo y confianza.
+- **Confirmadas:** la incertidumbre presupuestaria es uno de los dolores más fuertes; el cálculo de materiales es un punto crítico; y una experiencia que integre visualización, materiales y costo preliminar tiene valor diferencial.
+- **Parcialmente confirmadas:** existe interés en comprar materiales sobrantes, pero solo bajo condiciones exigentes de confianza, garantía y logística. La oportunidad existe, aunque no de forma automática.
+- **Confirmadas con condición operativa:** del lado profesional hay motivación para publicar excedentes, pero solo si la operatoria es muy simple o claramente rentable.
+- **No confirmadas todavía:** disposición real a pagar por un plan premium, frecuencia de reutilización del servicio y tasa de conversión efectiva desde un flujo gratuito hacia uno pago.
+- **Rechazadas como supuestos suficientes:** ni el ahorro por sí solo ni la novedad de usar IA alcanzan para movilizar adopción si no vienen acompañados por claridad, respaldo y confianza.
 
 ### 5.6 Aprendizajes metodologicos
 
@@ -421,7 +442,7 @@ En una primera etapa, el MVP conceptual deberia enfocarse en resolver bien el fl
 
 La prioridad no deberia ser amplitud de funcionalidades, sino calidad del aprendizaje y claridad del valor central.
 
-## VII. Propuesta de valor para stakeholders, Product Market Fit por segmento y Value Proposition Canvas
+## VII. Propuesta de valor para stakeholders, Hipótesis de Product-Market Fit y criterios de validación por segmento, y Value Proposition Canvas
 
 ### 7.1 Formulacion central de la propuesta de valor
 
@@ -478,9 +499,9 @@ HabitatIA ofrece a quienes desean construir una vivienda una forma mas accesible
 - reducir la brecha entre deseo y accion;
 - construir una experiencia integrada donde hoy hay dispersion.
 
-### 7.4 Product Market Fit por segmento
+### 7.4 Hipótesis de Product-Market Fit y criterios de validación por segmento
 
-La clase pide explicitar el PMF por segmento. En HabitatIA, ese ajuste debe leerse como relacion entre dolor, propuesta de valor, señal de adopcion, objeciones y criterio de validacion.
+La clase pide explicitar el PMF por segmento. En HabitatIA, ese ajuste debe leerse como relación entre dolor, propuesta de valor, señal de adopción, objeciones y criterio de validación.
 
 **Segmento 1: familias y personas que quieren construir**
 
@@ -514,49 +535,85 @@ La clase pide explicitar el PMF por segmento. En HabitatIA, ese ajuste debe leer
 - Objeciones: si la plataforma agrega trabajo en lugar de simplificar.
 - Que validar: si la solucion produce conveniencia operativa verificable.
 
-### 7.5 Value Proposition Canvas sintetico
+### 7.5 Value Proposition Canvas para familias y usuarios residenciales
 
 **Jobs del cliente**
 
-- entender que puede construir;
+- entender qué podría construir con sus recursos;
 - ordenar decisiones preliminares;
-- evitar sobrecostos y errores tempranos;
-- monetizar sobrantes de manera simple.
+- comparar alternativas antes de comprometer gasto;
+- evitar sobrecostos y errores tempranos.
 
 **Pains**
 
 - incertidumbre presupuestaria;
-- falta de claridad tecnica;
-- fragmentacion de informacion;
-- desconfianza;
-- carga operativa para vender excedentes.
+- falta de claridad técnica;
+- fragmentación de información;
+- dependencia de terceros para interpretar opciones;
+- dudas sobre calidad, garantía y logística.
 
 **Gains**
 
 - claridad;
-- ahorro;
 - control;
 - confianza;
-- rapidez;
-- eficiencia.
+- mejor capacidad de decisión;
+- ahorro potencial creíble.
 
 **Pain relievers de HabitatIA**
 
-- visualizacion orientativa conectada con costo y materiales;
-- lenguaje mas accesible;
-- transparencia sobre alcances;
-- marketplace contextualizado;
-- experiencia de publicacion mas simple.
+- visualización orientativa conectada con costo y materiales;
+- lenguaje más accesible;
+- primera estructuración del proyecto;
+- mayor transparencia sobre alcances;
+- lectura inicial de ahorro y riesgos.
 
 **Gain creators de HabitatIA**
 
-- primera decision mas ordenada;
-- potencial de ahorro tangible;
-- mejor posicion para conversar con profesionales;
-- salida economica para stock inmovilizado;
-- narrativa de circularidad aplicada.
+- primera decisión más ordenada;
+- mejor posición para conversar con profesionales;
+- capacidad de comparar escenarios;
+- menor ansiedad al iniciar el proceso.
 
-### 7.6 Riesgos sobre la percepcion de valor
+### 7.6 Value Proposition Canvas para profesionales que venden sobrantes
+
+**Jobs del cliente**
+
+- liberar espacio de obra o depósito;
+- recuperar capital inmovilizado;
+- resolver excedentes sin sumar carga administrativa;
+- evitar deterioro o descarte de material útil.
+
+**Pains**
+
+- tiempo administrativo para vender;
+- fricción logística;
+- consultas improductivas y regateos;
+- riesgo de reclamos posteriores;
+- baja estandarización para publicar.
+
+**Gains**
+
+- rapidez;
+- liquidez;
+- menor desgaste operativo;
+- salida ordenada del excedente;
+- seriedad del canal.
+
+**Pain relievers de HabitatIA**
+
+- experiencia de publicación más simple;
+- canal contextualizado con demanda relevante;
+- posibilidad de reducir negociación manual;
+- mejor encuadre logístico y reputacional.
+
+**Gain creators de HabitatIA**
+
+- salida económica para stock inmovilizado;
+- menor tiempo improductivo;
+- mejor cierre operativo de obra;
+- narrativa de circularidad aplicada con utilidad práctica.
+### 7.7 Riesgos sobre la percepción de valor
 
 La propuesta de valor debe cuidar dos riesgos principales:
 
@@ -591,14 +648,16 @@ El mercado disponible servible debe definirse como la porcion del mercado a la q
 - arquitectos, estudios y profesionales con materiales sobrantes recientes;
 - pequeños constructores con interes en optimizacion de costos.
 
-Para cuantificarlo, se toma como base el universo amplio de `10,7 millones` de hogares urbanos con algun problema habitacional [3] y se aplica un primer filtro de tenencia favorable. Segun INDEC para el segundo semestre de 2023, el `60,2 %` de los hogares en los 31 aglomerados urbanos eran propietarios de la vivienda y el terreno [4]. El cruce orientativo entre ambas referencias deja una base potencial de `6,44 millones` de hogares:
+Para cuantificarlo, se toma como base el universo amplio de `10,7 millones` de hogares urbanos con algún problema habitacional [3] y se aplica un primer filtro de tenencia favorable. Según INDEC para el segundo semestre de 2023, el `60,2 %` de los hogares en los 31 aglomerados urbanos eran propietarios de la vivienda y el terreno [4]. El cruce orientativo entre ambas referencias deja una base potencial de `6,44 millones` de hogares:
 
 `10,7 millones x 60,2 % = 6,44 millones`
 
-Sobre esa base se aplican dos filtros adicionales, explicitados para que el calculo sea reproducible:
+Sobre esa base se aplican dos filtros adicionales, explicitados como **supuestos exploratorios del equipo** para que el cálculo sea reproducible:
 
-- ventana activa anual de decision de obra, ampliacion o refaccion: `10 %` a `12 %`;
-- compatibilidad con una primera adopcion digital del servicio: `20 %` a `25 %`.
+- ventana activa anual de decisión de obra, ampliación o refacción: `10 %` a `12 %`;
+- compatibilidad con una primera adopción digital del servicio: `20 %` a `25 %`.
+
+Estos porcentajes no provienen de una fuente externa cerrada, sino de un recorte de trabajo para evitar sobreestimar el mercado servible. El primer supuesto busca representar que solo una fracción de los hogares con necesidad habitacional está efectivamente en momento activo de decidir obra durante un año dado. El segundo busca reflejar que, dentro de esa fracción, no todos tienen hoy el mismo nivel de compatibilidad con una primera experiencia digital de preplanificación.
 
 Bajo ese criterio, el SAM operativo anual razonable queda entre `128.000` y `193.000` hogares, con un punto de trabajo defendible en torno a `160.000` hogares:
 
@@ -610,11 +669,19 @@ El criterio mas valioso aqui no es solo la cifra, sino el filtro. HabitatIA debe
 
 ### 8.4 SOM
 
-El mercado obtenible representa la porcion que HabitatIA podria captar efectivamente dentro de ese SAM. En esta etapa, conviene pensar un SOM prudente, apoyado en segmentos propietarios, urbanos y con fuerte sensibilidad al error presupuestario. Para no sobredimensionar la oportunidad, se propone una meta a 5 anos equivalente al `0,2 %` de la base amplia filtrada de `6,44 millones` de hogares, lo que representa aproximadamente `12.800` hogares:
+El mercado obtenible representa la porción que HabitatIA podría captar efectivamente dentro de ese SAM. En esta etapa, conviene pensar un SOM prudente, apoyado en segmentos propietarios, urbanos y con fuerte sensibilidad al error presupuestario. Para no sobredimensionar la oportunidad, se propone una meta **acumulada a 5 años** equivalente al `0,2 %` de la base amplia filtrada de `6,44 millones` de hogares, lo que representa aproximadamente `12.880` hogares:
 
 `6,44 millones x 0,2 % = 12.880 hogares`
 
-Tomado sobre el SAM operativo anual de referencia de `160.000` hogares, ese objetivo equivale a capturar alrededor del `8 %` de una cohorte anual de entrada. Es una meta exigente, pero defendible para un producto que ataca un dolor fuerte y puede crecer por recomendacion, reutilizacion del flujo y activacion gradual del marketplace.
+Como esa cifra es acumulada, no debe compararse de forma directa contra un SAM anual. Si se la distribuye uniformemente a lo largo de cinco años, el objetivo operativo medio sería de `2.576` hogares por año:
+
+`12.880 / 5 = 2.576 hogares por año`
+
+Tomado sobre el SAM operativo anual de referencia de `160.000` hogares, ese objetivo equivale aproximadamente al `1,61 %` del SAM anual:
+
+`2.576 / 160.000 = 1,61 %`
+
+Leído así, el SOM deja de plantear una captura exagerada y pasa a representar una meta anual moderada, pero acumulativamente consistente con una primera etapa de adopción gradual.
 
 La captura real deberia validarse no por registros abstractos, sino por usuarios que:
 
@@ -721,23 +788,23 @@ En terminos de triple impacto, el proyecto tambien muestra fundamentos interesan
 
 En sintesis, HabitatIA aparece como un emprendimiento con logica, oportunidad y diferenciacion potencial, siempre que sostenga disciplina en tres frentes: una promesa honesta, una validacion rigurosa y una estrategia de implementacion gradual. La vision es atractiva, pero su verdadero potencial dependera de cuan bien logre convertir una intuicion poderosa en aprendizaje verificable y valor concreto para sus usuarios.
 
-## XI. Bibliografia y fuentes
+## XI. Bibliografía y fuentes
 
-[1] Banco Interamericano de Desarrollo. Informes y documentos sobre deficit habitacional en America Latina y el Caribe. Referencia de trabajo utilizada en el proyecto para el dato regional de mas de 25 millones de viviendas deficitarias.
+[1] Banco Interamericano de Desarrollo. *Estudio del BID: América Latina y el Caribe encaran creciente déficit de vivienda*. BID, 2012. Disponible en: <https://www.iadb.org/es/noticias/estudio-del-bid-america-latina-y-el-caribe-encaran-creciente-deficit-de-vivienda>. Consulta: 25/08/2026.
 
-[2] Camara Argentina de la Construccion. Estimacion de deficit habitacional argentino 2022: `3,24 millones` de viviendas.
+[2] Cámara Argentina de la Construcción. *El déficit habitacional en la Argentina*. Biblioteca CAMARCO, s. f. Disponible en: <https://biblioteca.camarco.org.ar/wp-content/uploads/11-El-deficit-habitacional-en-la-Argentina.pdf>. Consulta: 25/08/2026.
 
-[3] Fundacion Tejido Urbano, sobre base Censo 2022. Estimacion de `10,7 millones` de hogares urbanos con al menos algun problema habitacional, equivalentes al `73 %` del total relevado.
+[3] Fundación Tejido Urbano. *10 millones de hogares con problemas habitacionales*. Tejido Urbano, 2024. Disponible en: <https://tejidourbano.org.ar/informes/10-millones-de-hogares-con-problemas-habitacionales/>. Consulta: 25/08/2026.
 
-[4] INDEC. Condiciones de vida / tenencia de vivienda en 31 aglomerados urbanos, segundo semestre de 2023. Referencia utilizada para el dato de `60,2 %` de hogares propietarios de vivienda y terreno.
+[4] INDEC. *Indicadores de condiciones de vida de los hogares en 31 aglomerados urbanos. Segundo semestre de 2023*. Instituto Nacional de Estadística y Censos, 2024. Disponible en: <https://www.indec.gob.ar/indec/web/Nivel4-Tema-4-47-156>. Consulta: 25/08/2026.
 
-[5] Republica Argentina. Ley 25.326 de Proteccion de Datos Personales.
+[5] República Argentina. *Ley 25.326 de Protección de los Datos Personales*. Disponible en: <https://servicios.infoleg.gob.ar/infolegInternet/anexos/60000-64999/64790/texact.htm>. Consulta: 25/08/2026.
 
-[6] Republica Argentina. Ley 24.240 de Defensa del Consumidor.
+[6] República Argentina. *Ley 24.240 de Defensa del Consumidor*. Disponible en: <https://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/638/texact.htm>. Consulta: 25/08/2026.
 
-[7] Literatura y relevamientos sectoriales sobre desperdicio de materiales en construccion y economia circular aplicados a obra. Referencia conceptual utilizada para fundamentar la capa marketplace del proyecto.
+[7] United Nations Environment Programme; Global Alliance for Buildings and Construction. *Building Materials and the Climate: Constructing a New Future*. UNEP / GlobalABC, 2023. Disponible en: <https://globalabc.org/sites/default/files/2023-09/%5BENG%5D%20Building%20Materials%20and%20the%20Climate_%20Constructing%20a%20New%20Future_KMs.pdf>. Consulta: 25/08/2026.
 
-[8] Google Sheets. Base de respuestas del relevamiento HabitatIA anexada por el equipo del proyecto: <https://docs.google.com/spreadsheets/d/15taX3JsNnOizvyF9ycVTXIKut8VPVFiwoYt2RpNed3M/edit?usp=sharing>
+[8] Google Sheets. *Base de respuestas del relevamiento HabitatIA anexada por el equipo del proyecto*. Disponible en: <https://docs.google.com/spreadsheets/d/15taX3JsNnOizvyF9ycVTXIKut8VPVFiwoYt2RpNed3M/edit?usp=sharing>. Consulta: 25/08/2026.
 
 ## XII. Anexos metodologicos
 
