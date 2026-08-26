@@ -23,7 +23,8 @@
 - VIII. Potencial mercado objetivo y segmentacion: TAM, SAM y SOM
 - IX. Productos y servicios: definicion y atributos
 - X. Comentarios y conclusiones parciales
-- Anexos sugeridos para futuras entregas
+- XI. Bibliografia y fuentes
+- XII. Anexos metodologicos
 
 ## I. Informe Ejecutivo
 
@@ -65,7 +66,7 @@ La idea fuerza que organiza este documento es que HabitatIA busca volver mas acc
 
 ### 3.1 Contexto habitacional y necesidad estructural
 
-El deficit habitacional y las dificultades de acceso a soluciones constructivas no deben interpretarse unicamente como una cuestion de escasez de unidades. Tambien incluyen problemas vinculados a calidad, localizacion, capacidad de ampliacion y viabilidad economica de las soluciones disponibles. Segun referencias sectoriales citadas en el material previo del proyecto, en America Latina el deficit habitacional supera las 25 millones de viviendas y en Argentina se estimaron mas de 3 millones de unidades deficitarias. A su vez, una porcion muy amplia de hogares presenta algun problema habitacional, aun cuando no se encuentre en una situacion extrema.
+El deficit habitacional y las dificultades de acceso a soluciones constructivas no deben interpretarse unicamente como una cuestion de escasez de unidades. Tambien incluyen problemas vinculados a calidad, localizacion, capacidad de ampliacion y viabilidad economica de las soluciones disponibles. Segun el BID, en America Latina el deficit habitacional supera las 25 millones de viviendas [1]. En Argentina, la Camara Argentina de la Construccion estimo para 2022 un deficit habitacional cercano a 3,24 millones de viviendas [2], mientras que Fundacion Tejido Urbano, sobre base Censo 2022, sostuvo que alrededor de 10,7 millones de hogares urbanos, equivalentes al 73 % del total relevado, presentan al menos algun problema habitacional [3].
 
 Para HabitatIA este dato es clave porque muestra que la oportunidad no se limita a viviendas nuevas desde cero. Tambien abarca ampliaciones, refacciones, reorganizaciones y proyectos incrementales que necesitan claridad inicial. El proyecto se apoya en una lectura realista del problema: muchas personas no estan listas para ejecutar una obra de inmediato, pero si necesitan una herramienta que les permita entender mejor si podrian avanzar y bajo que condiciones.
 
@@ -92,7 +93,7 @@ Estas tendencias no validan por si solas el proyecto, pero si muestran que Habit
 
 El sector de la construccion presenta un problema adicional que amplifica la relevancia del proyecto: la gestion ineficiente de materiales excedentes. En numerosas obras, los sobrantes quedan fuera de una logica formal de reaprovechamiento. Aunque muchos de esos materiales conservan utilidad y valor, no siempre existe un canal especifico para ponerlos nuevamente en circulacion de manera ordenada.
 
-Esta ineficiencia implica una perdida economica para quienes quedan con stock inmovilizado y un impacto ambiental asociado al desaprovechamiento de recursos. Estudios internacionales y referencias sectoriales utilizadas en el material base del proyecto estiman niveles relevantes de desperdicio o excedente no reutilizado. En ese contexto, incorporar un marketplace dentro del ecosistema HabitatIA no debe leerse como un accesorio, sino como una extension logica del problema que el proyecto busca resolver.
+Esta ineficiencia implica una perdida economica para quienes quedan con stock inmovilizado y un impacto ambiental asociado al desaprovechamiento de recursos. La literatura sectorial sobre obra coincide en que el desperdicio y la inmovilizacion de materiales siguen siendo una fuente relevante de ineficiencia economica y operativa, especialmente cuando faltan canales formales para reinsertar remanentes en el mercado [7]. En ese contexto, incorporar un marketplace dentro del ecosistema HabitatIA no debe leerse como un accesorio, sino como una extension logica del problema que el proyecto busca resolver.
 
 ### 3.5 Sustentabilidad de triple impacto
 
@@ -124,9 +125,9 @@ El cuarto criterio es la responsabilidad en el marketplace. Publicar materiales 
 
 ### 3.7 Regulaciones y contexto
 
-HabitatIA se inserta en un terreno donde convergen regulaciones de distinta naturaleza. Aparece en primer lugar el marco vinculado a proteccion de datos personales, ya que la plataforma podria recopilar informacion sobre ubicacion, presupuesto, composicion del hogar y preferencias habitacionales. Estos datos requieren tratamiento responsable, consentimiento informado y criterios basicos de seguridad.
+HabitatIA se inserta en un terreno donde convergen regulaciones de distinta naturaleza. Aparece en primer lugar el marco vinculado a proteccion de datos personales, ya que la plataforma podria recopilar informacion sobre ubicacion, presupuesto, composicion del hogar y preferencias habitacionales. Estos datos requieren tratamiento responsable, consentimiento informado y criterios basicos de seguridad, en linea con la Ley 25.326 de Proteccion de Datos Personales [5].
 
-En segundo lugar, existe un plano de responsabilidad informativa y defensa del consumidor. Si HabitatIA ofrece estimaciones, recomendaciones o comparaciones, debe evitar inducir a error. Los outputs deben presentarse como aproximaciones preliminares sujetas a validacion humana y tecnica.
+En segundo lugar, existe un plano de responsabilidad informativa y defensa del consumidor. Si HabitatIA ofrece estimaciones, recomendaciones o comparaciones, debe evitar inducir a error. Los outputs deben presentarse como aproximaciones preliminares sujetas a validacion humana y tecnica, en linea con los principios generales de la Ley 24.240 de Defensa del Consumidor [6].
 
 En tercer lugar, el contexto macroeconomico argentino incide directamente sobre la propuesta. Inflacion, volatilidad de precios, heterogeneidad territorial y distinta calidad de informacion disponible obligan a diseñar una solucion flexible, prudente y localmente contextualizada.
 
@@ -205,84 +206,97 @@ Ademas, su propuesta se ubica en una etapa historicamente subatendida: la etapa 
 
 ## V. Validacion y customer discovery: mapa de empatia y buyer persona
 
-### 5.1 Importancia de validar
+### 5.1 Objetivo y criterio de validacion
 
-HabitatIA se apoya en una propuesta conceptualmente fuerte, pero eso no elimina la necesidad de validar rigurosamente. En vivienda, el nivel de confianza exigido es alto. Por eso, la validacion no debe orientarse solo a confirmar interes superficial, sino a comprender comportamientos reales, barreras, objeciones y señales concretas de adopcion.
+HabitatIA se apoya en una propuesta conceptualmente fuerte, pero eso no elimina la necesidad de validar rigurosamente. En vivienda, el nivel de confianza exigido es alto. Por eso, la validacion no se trabajo como una simple busqueda de aprobacion, sino como un proceso para identificar dolores reales, objeciones concretas y condiciones minimas de adopcion.
 
-El customer discovery tiene una funcion doble. Por un lado, confirmar que el problema esta formulado correctamente. Por otro, revelar que parte exacta del producto genera mas valor, que expectativas deben gestionarse con cuidado y que secuencia de funcionalidades conviene priorizar.
+El customer discovery tuvo una funcion doble. Por un lado, confirmar si el problema estaba formulado correctamente. Por otro, detectar que parte exacta de la propuesta genera mas valor y que hipotesis todavia no pueden darse por cerradas.
 
-### 5.2 Que significa validar en HabitatIA
+### 5.2 Trabajo de campo realizado
 
-Validar no es demostrar que la idea "suena bien". Tampoco es recopilar opiniones favorables sin profundidad. Validar implica:
+La evidencia trazable disponible para este entregable se apoya en un relevamiento primario mediante formulario digital semiestructurado y en la lectura cualitativa de respuestas abiertas, complementada con fuentes secundarias del sector [8]. El formulario quedo anexado en una planilla de respuestas y relevo dos perfiles principales:
 
-- entender como toman decisiones hoy los potenciales usuarios;
-- identificar que soluciones parciales usan actualmente;
-- detectar que dolores son percibidos como mas criticos;
-- establecer que promesa de valor tiene mayor capacidad de movilizar uso;
-- reconocer que hipotesis deben revisarse antes de escalar.
+- `102` respuestas totales.
+- `72` respuestas de particulares o familias que quieren construir o ampliar, equivalentes al `70,6 %` de la muestra.
+- `30` respuestas de profesionales del sector, principalmente arquitectos o constructores, equivalentes al `29,4 %`.
 
-### 5.3 Fuentes y tipos de validacion
+La logica metodologica combino preguntas cerradas y abiertas para cubrir cuatro dimensiones:
 
-Tomando la estructura de la clase, HabitatIA deberia apoyarse en una combinacion de fuentes:
+- perfil del respondente y contexto del proyecto;
+- momento de mayor friccion dentro del proceso de vivienda;
+- barreras de confianza, claridad y adopcion digital;
+- dolores y motivaciones especificas del lado oferente de materiales sobrantes.
 
-- informacion oficial, censos y estadisticas;
-- investigacion de mercado y estudios sectoriales;
-- observacion;
-- entrevistas cualitativas;
-- encuestas;
-- focus groups cuando sea pertinente;
-- revision de tendencias globales y regionales;
-- analitica digital y señales de comportamiento;
-- observacion de movimientos de la competencia.
+En esta version, la validacion documenta de forma explicita la encuesta real efectivamente preservada en el repositorio y sus principales hallazgos. La siguiente profundizacion recomendable es sumar entrevistas uno a uno con transcripcion o minuta anexa para reforzar la capa cualitativa de lenguaje, proceso decisional y disposicion a pagar.
 
-Esta combinacion es importante porque evita construir el proyecto solo sobre percepciones internas del equipo.
+### 5.3 Resultados principales del segmento demanda
 
-### 5.4 Estructura metodologica de entrevistas y encuestas
+En el segmento de particulares y familias, los hallazgos muestran un patron muy consistente. La falta de claridad aparece concentrada sobre todo en:
 
-La presentacion de clase propone cuatro dimensiones especialmente utiles para estructurar entrevistas y encuestas. Aplicadas a HabitatIA, quedarian asi:
+- calculo de costos y presupuesto: `29/72` respuestas (`40,3 %`);
+- definicion de cantidad y tipo de materiales: `28/72` respuestas (`38,9 %`);
+- comparacion de opciones de construccion: `13/72` respuestas (`18,1 %`);
+- visualizacion del resultado final: `12/72` respuestas (`16,7 %`).
 
-**1. Demografia y contexto**
+Cuando se pregunta por el principal temor al pensar en construir, el resultado es todavia mas claro:
 
-Rango etario, composicion del hogar, ocupacion, localidad, situacion habitacional actual, si posee terreno o vivienda existente, etapa del proyecto y nivel aproximado de presupuesto.
+- riesgo de sobrecostos imprevistos: `51/72` respuestas (`70,8 %`);
+- dependencia de opiniones de terceros: `13/72` (`18,1 %`);
+- no dominar el lenguaje tecnico del rubro: `11/72` (`15,3 %`);
+- dificultad para visualizar el resultado real: `10/72` (`13,9 %`).
 
-**2. Tecnologia y habitos**
+Respecto del posible marketplace de materiales sobrantes, las dudas no se concentran primero en el precio, sino en la confianza y la operacion:
 
-Dispositivos que usa, frecuencia de uso de herramientas digitales, apps de compra, canales de informacion que consulta para decisiones grandes y nivel de comodidad con soluciones online.
+- calidad o estado real del material: `30/72` respuestas (`41,7 %`);
+- logistica y flete: `27/72` (`37,5 %`);
+- compatibilidad del material con el proyecto: `14/72` (`19,4 %`);
+- falta de garantia formal: `12/72` (`16,7 %`).
 
-**3. Necesidades e industria**
+La lectura cualitativa de las respuestas abiertas refuerza esa misma conclusion. El usuario residencial no esta pidiendo solamente un render o una idea visual. Esta pidiendo una herramienta que le baje ansiedad, le ordene cantidades, le traduzca costos y le ofrezca señales visibles de respaldo.
 
-Que fue lo mas dificil la ultima vez que intento avanzar en un proyecto de vivienda, en que momento le falto claridad, como compara hoy opciones, que espera de un profesional y como resuelve actualmente la compra de materiales.
+### 5.4 Resultados principales del segmento oferta
 
-**4. Dimensiones del emprendimiento**
+Del lado profesional, la validacion confirma que el problema del excedente existe y es operativo, no teorico. Los principales dolores de cabeza al final de obra son:
 
-Que deberia mostrar una plataforma para parecer seria, que tan valioso seria tener una propuesta inicial con visualizacion y costos, cuanto peso tiene el ahorro potencial, que condiciones harian confiable la compra de materiales sobrantes y que nivel de precision espera de una herramienta como HabitatIA.
+- tiempo administrativo para intentar vender sobrantes: `8/30` respuestas (`26,7 %`);
+- espacio fisico bloqueado en obra o galpon: `8/30` (`26,7 %`);
+- deterioro del material a la intemperie: `7/30` (`23,3 %`);
+- costo del flete hacia otro deposito: `7/30` (`23,3 %`).
 
-### 5.5 Hipotesis principales a validar
+En cuanto a la tolerancia administrativa para publicar materiales:
 
-Las hipotesis centrales del proyecto son las siguientes:
+- `11/30` aceptan una carga minima, idealmente de un minuto (`36,7 %`);
+- `11/30` aceptan una carga moderada si garantiza venta rapida (`36,7 %`);
+- `8/30` toleran una carga alta solo si el retorno economico es significativo (`26,7 %`).
 
-- que la incertidumbre presupuestaria es uno de los dolores mas fuertes del segmento;
-- que una experiencia que combine visualizacion, materiales y costo preliminar aporta valor diferencial;
-- que los usuarios valoran lenguaje simple, claridad y respaldo;
-- que existe interes en materiales sobrantes solo si la confianza esta bien resuelta;
-- que del lado profesional existe motivacion para publicar excedentes si la operatoria es simple;
-- que la integracion entre diseño preliminar y marketplace mejora la percepcion de utilidad frente a soluciones fragmentadas.
+Las principales objeciones respecto a vender sobrantes a particulares por internet fueron:
 
-### 5.6 Buyer persona: tres pasos de construccion
+- perder tiempo en regateos o consultas improductivas: `8/30` respuestas (`26,7 %`);
+- tener que coordinar personalmente la logistica: `8/30` (`26,7 %`);
+- tener que cargar descripciones tecnicas demasiado largas: `7/30` (`23,3 %`);
+- afrontar reclamos posteriores por el estado del material: `6/30` (`20,0 %`).
 
-Siguiendo la clase, la elaboracion del buyer persona deberia partir de tres pasos:
+Las respuestas abiertas agregan un matiz importante: el incentivo profesional no es solo economico. Tambien aparece la necesidad de liberar espacio, cerrar obra mas limpio y evitar desgaste logistico. Por eso, la publicacion de sobrantes solo resulta atractiva si la plataforma reduce friccion en vez de agregar otra tarea.
 
-**Paso 1. Investigar quien tiene el problema**
+### 5.5 Hipotesis confirmadas, parciales y rechazadas
 
-Que compra hoy como solucion, por que lo compra, para quien lo compra, quien decide, cuando decide, donde busca y como compara opciones.
+A partir del trabajo de campo, las hipotesis del proyecto pueden ordenarse asi:
 
-**Paso 2. Aplicar variables de segmentacion**
+- **Confirmadas:** la incertidumbre presupuestaria es uno de los dolores mas fuertes; el calculo de materiales es un punto critico; y una experiencia que integre visualizacion, materiales y costo preliminar tiene valor diferencial.
+- **Parcialmente confirmadas:** existe interes en comprar materiales sobrantes, pero solo bajo condiciones exigentes de confianza, garantia y logistica. La oportunidad existe, aunque no de forma automatica.
+- **Confirmadas con condicion operativa:** del lado profesional hay motivacion para publicar excedentes, pero solo si la operatoria es muy simple o claramente rentable.
+- **No confirmadas todavia:** disposicion real a pagar por un plan premium, frecuencia de reutilizacion del servicio y tasa de conversion efectiva desde un flujo gratuito hacia uno pago.
+- **Rechazadas como supuestos suficientes:** ni el ahorro por si solo ni la novedad de usar IA alcanzan para movilizar adopcion si no vienen acompañados por claridad, respaldo y confianza.
 
-Segmentacion por contexto habitacional, etapa de decision, nivel de urgencia, sensibilidad al costo, tenencia de terreno y disposicion de uso digital.
+### 5.6 Aprendizajes metodologicos
 
-**Paso 3. Redactar el storytelling**
+La validacion deja cinco aprendizajes principales:
 
-Construir una narrativa concreta del usuario modelo, con su contexto, motivaciones, miedos, restricciones y criterio de decision.
+- el dolor dominante no es abstracto, sino muy concreto: presupuesto, cantidades y riesgo de error;
+- la propuesta de valor fuerte no es solo "diseño con IA", sino "claridad para decidir";
+- el marketplace no puede lanzarse como una promesa secundaria sin resolver confianza y logistica;
+- la demanda residencial y la oferta profesional tienen motivaciones distintas y deben comunicarse por separado;
+- las siguientes instancias de validacion deberian medir uso real, conversion y disposicion a pagar, no solo interes declarado.
 
 ### 5.7 Buyer personas principales
 
@@ -318,7 +332,7 @@ Es un perfil pragmatico que evalua herramientas segun el tiempo que ahorran, el 
 - Piensa en recuperar capital, liberar espacio y resolver el excedente con rapidez.
 - Siente frustracion cuando el material queda inmovilizado y cautela frente a cualquier canal que genere mas problema que solucion.
 
-### 5.9 Riesgos metodologicos de la validacion
+### 5.9 Riesgos metodologicos y limites de esta etapa
 
 Hay errores que HabitatIA deberia evitar:
 
@@ -328,6 +342,8 @@ Hay errores que HabitatIA deberia evitar:
 - confundir interes general por ahorro con voluntad de comprar sobrantes;
 - dar por validado el marketplace solo porque el excedente existe;
 - entrevistar solo perfiles afines al equipo o demasiado entusiastas.
+
+Tambien conviene explicitar los limites de esta etapa. El relevamiento documentado en esta entrega prueba que el problema existe y muestra que parte de la propuesta resuena. Lo que todavia no prueba es el nivel de conversion, la retencion ni la monetizacion real del producto. Es decir: la validacion del problema y de la propuesta inicial es positiva; la validacion del modelo economico aun requiere una siguiente ronda.
 
 ### 5.10 Criterio de aprendizaje
 
@@ -553,28 +569,54 @@ La claridad en la promesa es parte central del valor. En HabitatIA, la honestida
 
 ### 8.1 Criterio general de dimensionamiento
 
-El dimensionamiento del mercado de HabitatIA debe construirse con criterio y evitando exageraciones. El proyecto se situa en una interseccion entre PropTech, construccion, vivienda accesible y economia circular. Esto significa que su mercado no debe leerse como una cifra unica enorme, sino como un espacio compuesto por varias capas de oportunidad.
+El dimensionamiento del mercado de HabitatIA debe construirse con criterio y evitando exageraciones. El proyecto se situa en una interseccion entre PropTech, construccion, vivienda accesible y economia circular. Esto significa que su mercado no debe leerse como una cifra unica enorme, sino como un espacio compuesto por varias capas de oportunidad. Para esta entrega se adopta un recorte explicito: Argentina urbana, con base estructural 2022-2023 y horizonte de captura a 5 anos.
 
 ### 8.2 TAM
 
 En una definicion amplia, el mercado total direccionable incluye a todas las personas, familias y organizaciones que participan del proceso de diseñar, construir, ampliar o mejorar una vivienda, asi como a los actores que disponen de materiales de construccion potencialmente reutilizables. La lectura correcta del TAM no es la de un nicho puntual, sino la de un problema habitacional masivo con multiples puertas de entrada.
 
-Tomando las referencias utilizadas en el material base, puede hablarse de un nucleo critico de millones de hogares con deficit habitacional y de un universo aun mas amplio de hogares con necesidades de mejora, ampliacion, reorganizacion o acceso habitacional. Para HabitatIA, esto es estrategico porque el mercado total no debe leerse solo como viviendas nuevas a construir, sino como el conjunto de decisiones habitacionales que requieren claridad inicial, visualizacion, estimacion de costos y potencial optimizacion economica.
+Si se busca darle escala cuantitativa a esta capa amplia, el dato estructural mas solido sigue siendo el problema habitacional argentino. Por un lado, la Camara Argentina de la Construccion estimo para 2022 un deficit habitacional total cercano a `3,24 millones` de viviendas [2]. Por otro, Fundacion Tejido Urbano, sobre base Censo 2022, sostuvo que alrededor de `10,7 millones` de hogares urbanos, equivalentes al `73 %` del total relevado, presentan al menos algun problema habitacional [3]. Leido en conjunto, esto permite trabajar con dos niveles de TAM:
+
+- `TAM nucleo critico = 3,24 millones` de hogares con deficit fuerte.
+- `TAM amplio = 10,7 millones` de hogares con necesidades de mejora, ampliacion, reorganizacion o acceso habitacional.
+
+Para HabitatIA, este dato es estrategico porque el mercado total no debe leerse solo como "viviendas nuevas a construir", sino como el conjunto de decisiones habitacionales que requieren claridad inicial, visualizacion, estimacion de costos y potencial optimizacion economica.
 
 ### 8.3 SAM
 
-El mercado disponible servible deberia definirse como la porcion del mercado a la que el proyecto podria servir razonablemente en una primera etapa con una propuesta plausible y operativamente alcanzable. Desde esa perspectiva, el SAM incluye principalmente:
+El mercado disponible servible debe definirse como la porcion del mercado a la que el proyecto podria servir razonablemente en una primera etapa con una propuesta plausible y operativamente alcanzable. Desde esa perspectiva, el SAM incluye principalmente:
 
 - hogares con intencion de construir o ampliar y alta sensibilidad al costo;
 - personas con terreno propio que necesitan una primera traduccion de su idea en proyecto;
 - arquitectos, estudios y profesionales con materiales sobrantes recientes;
 - pequeños constructores con interes en optimizacion de costos.
 
+Para cuantificarlo, se toma como base el universo amplio de `10,7 millones` de hogares urbanos con algun problema habitacional [3] y se aplica un primer filtro de tenencia favorable. Segun INDEC para el segundo semestre de 2023, el `60,2 %` de los hogares en los 31 aglomerados urbanos eran propietarios de la vivienda y el terreno [4]. El cruce orientativo entre ambas referencias deja una base potencial de `6,44 millones` de hogares:
+
+`10,7 millones x 60,2 % = 6,44 millones`
+
+Sobre esa base se aplican dos filtros adicionales, explicitados para que el calculo sea reproducible:
+
+- ventana activa anual de decision de obra, ampliacion o refaccion: `10 %` a `12 %`;
+- compatibilidad con una primera adopcion digital del servicio: `20 %` a `25 %`.
+
+Bajo ese criterio, el SAM operativo anual razonable queda entre `128.000` y `193.000` hogares, con un punto de trabajo defendible en torno a `160.000` hogares:
+
+- piso conservador: `6,44 millones x 10 % x 20 % = 128.800`;
+- escenario de referencia: `160.000` hogares;
+- techo prudente: `6,44 millones x 12 % x 25 % = 193.200`.
+
 El criterio mas valioso aqui no es solo la cifra, sino el filtro. HabitatIA deberia enfocarse primero en perfiles con ventana activa de decision de obra y compatibilidad con una primera adopcion digital.
 
 ### 8.4 SOM
 
-El mercado obtenible representa la porcion que HabitatIA podria captar efectivamente dentro de ese SAM. En esta etapa, conviene pensar un SOM prudente, apoyado en segmentos propietarios, urbanos y con fuerte sensibilidad al error presupuestario. La captura real deberia validarse no por registros abstractos, sino por usuarios que:
+El mercado obtenible representa la porcion que HabitatIA podria captar efectivamente dentro de ese SAM. En esta etapa, conviene pensar un SOM prudente, apoyado en segmentos propietarios, urbanos y con fuerte sensibilidad al error presupuestario. Para no sobredimensionar la oportunidad, se propone una meta a 5 anos equivalente al `0,2 %` de la base amplia filtrada de `6,44 millones` de hogares, lo que representa aproximadamente `12.800` hogares:
+
+`6,44 millones x 0,2 % = 12.880 hogares`
+
+Tomado sobre el SAM operativo anual de referencia de `160.000` hogares, ese objetivo equivale a capturar alrededor del `8 %` de una cohorte anual de entrada. Es una meta exigente, pero defendible para un producto que ataca un dolor fuerte y puede crecer por recomendacion, reutilizacion del flujo y activacion gradual del marketplace.
+
+La captura real deberia validarse no por registros abstractos, sino por usuarios que:
 
 - completan el flujo;
 - reciben una propuesta util;
@@ -671,7 +713,7 @@ HabitatIA presenta una propuesta consistente con los criterios trabajados en cla
 
 Una de las principales fortalezas del proyecto es su capacidad de articular dimensiones que usualmente aparecen separadas. HabitatIA no se limita a una logica visual, ni a una logica transaccional, ni a una logica puramente tecnica. Su mayor potencial esta en combinar comprension, decision y optimizacion dentro de una misma experiencia. Esa integracion le permite construir una narrativa clara y una propuesta de valor diferenciada.
 
-El trabajo realizado tambien permite identificar con claridad los puntos que requieren mayor validacion en la siguiente etapa. Entre ellos, se destacan la profundidad real del valor percibido por cada segmento, la disposicion concreta a pagar por una capa premium, las condiciones operativas necesarias para activar el marketplace y el umbral minimo de confianza que debe ofrecer la plataforma para volverse creible tanto para compradores como para oferentes.
+El trabajo realizado tambien permite identificar con claridad los puntos que requieren mayor validacion en la siguiente etapa. Entre ellos, se destacan la disposicion concreta a pagar por una capa premium, la conversion desde una experiencia gratuita hacia una paga, las condiciones operativas necesarias para activar el marketplace y el umbral minimo de confianza que debe ofrecer la plataforma para volverse creible tanto para compradores como para oferentes.
 
 Desde el punto de vista metodologico, una conclusion importante es que HabitatIA no deberia evolucionar como un proyecto que intenta resolver todo al mismo tiempo. Su mayor probabilidad de exito surge de avanzar con foco, priorizando el aprendizaje sobre el flujo principal de claridad inicial y validando progresivamente la segunda capa de ahorro y circularidad.
 
@@ -679,14 +721,53 @@ En terminos de triple impacto, el proyecto tambien muestra fundamentos interesan
 
 En sintesis, HabitatIA aparece como un emprendimiento con logica, oportunidad y diferenciacion potencial, siempre que sostenga disciplina en tres frentes: una promesa honesta, una validacion rigurosa y una estrategia de implementacion gradual. La vision es atractiva, pero su verdadero potencial dependera de cuan bien logre convertir una intuicion poderosa en aprendizaje verificable y valor concreto para sus usuarios.
 
-## Anexos sugeridos para futuras entregas
+## XI. Bibliografia y fuentes
 
-Los siguientes contenidos existen o pueden desarrollarse, pero se dejan fuera del cuerpo principal de este entregable para respetar la estructura pedida por la clase:
+[1] Banco Interamericano de Desarrollo. Informes y documentos sobre deficit habitacional en America Latina y el Caribe. Referencia de trabajo utilizada en el proyecto para el dato regional de mas de 25 millones de viviendas deficitarias.
 
-- entorno competitivo;
-- plan comercial y de marketing;
-- posicionamiento estrategico ampliado;
-- plan de operaciones y tecnologia;
-- economics y financials;
-- roadmap detallado de implementacion;
-- anexos de entrevistas, encuestas y fuentes.
+[2] Camara Argentina de la Construccion. Estimacion de deficit habitacional argentino 2022: `3,24 millones` de viviendas.
+
+[3] Fundacion Tejido Urbano, sobre base Censo 2022. Estimacion de `10,7 millones` de hogares urbanos con al menos algun problema habitacional, equivalentes al `73 %` del total relevado.
+
+[4] INDEC. Condiciones de vida / tenencia de vivienda en 31 aglomerados urbanos, segundo semestre de 2023. Referencia utilizada para el dato de `60,2 %` de hogares propietarios de vivienda y terreno.
+
+[5] Republica Argentina. Ley 25.326 de Proteccion de Datos Personales.
+
+[6] Republica Argentina. Ley 24.240 de Defensa del Consumidor.
+
+[7] Literatura y relevamientos sectoriales sobre desperdicio de materiales en construccion y economia circular aplicados a obra. Referencia conceptual utilizada para fundamentar la capa marketplace del proyecto.
+
+[8] Google Sheets. Base de respuestas del relevamiento HabitatIA anexada por el equipo del proyecto: <https://docs.google.com/spreadsheets/d/15taX3JsNnOizvyF9ycVTXIKut8VPVFiwoYt2RpNed3M/edit?usp=sharing>
+
+## XII. Anexos metodologicos
+
+### 12.1 Base de encuestas
+
+La base consolidada del relevamiento cuantitativo utilizado en esta entrega se encuentra en:
+
+<https://docs.google.com/spreadsheets/d/15taX3JsNnOizvyF9ycVTXIKut8VPVFiwoYt2RpNed3M/edit?usp=sharing>
+
+### 12.2 Guia de preguntas utilizada en el relevamiento
+
+El formulario relevo, entre otras, las siguientes preguntas clave:
+
+- perfil del respondente;
+- principal dificultad al avanzar en un proyecto de vivienda;
+- momento del proceso con mayor falta de claridad;
+- condiciones necesarias para sentirse listo para avanzar;
+- principales temores al pensar en construir;
+- señales que una plataforma deberia mostrar para resultar seria;
+- dudas frente a la compra de materiales sobrantes;
+- destino habitual de los excedentes de obra;
+- motivaciones y barreras para publicar materiales sobrantes;
+- carga administrativa tolerable para publicar;
+- principales dolores logísticos y reputacionales del lado oferente.
+
+### 12.3 Proxima ampliacion recomendada
+
+Para la siguiente iteracion del entregable conviene anexar:
+
+- entrevistas en profundidad a usuarios residenciales y profesionales;
+- minutas o transcripciones breves por caso;
+- una tabla de hipotesis con estado `confirmada / parcial / pendiente`;
+- capturas o mockups del flujo de HabitatIA usados en pruebas de concepto.
