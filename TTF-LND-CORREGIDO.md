@@ -570,6 +570,3 @@ Antes de entrevistar se informará finalidad, duración, uso académico y tratam
 > - La base y el protocolo quedan trazables.
 > - Las entrevistas no realizadas no se presentan como evidencia.
 > - La exportación final debe preservar justificación, numeración y placeholders resueltos.
-
-
-[Read output capped at 78.1KB for this call. Use offset=561, limit=12 to continue.]
